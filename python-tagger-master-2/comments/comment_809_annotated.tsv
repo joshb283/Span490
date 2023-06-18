@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+makaylas	Eng	O	28.38	23.37	-0.8	27.58
+.	Punct	O	N/A	N/A	N/A	N/A
+_simp	Eng	O	-0.06	-11.36	-0.8	-0.8600000000000001
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+grandma	Eng	O	32.47	29.34	-0.8	31.669999999999998
+😭	Punct	O	N/A	N/A	N/A	N/A
+✋	Punct	O	N/A	N/A	N/A	N/A
+🏼	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

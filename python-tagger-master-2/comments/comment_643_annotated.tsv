@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+:	Punct	O	N/A	N/A	N/A	N/A
+<	Punct	O	N/A	N/A	N/A	N/A
+el	Spn	O	19.84	42.02	-2.38	39.64
+último	Spn	O	-1.22	43.49	-1.01	42.480000000000004
+video	Eng	O	31.71	26.45	-2.38	29.330000000000002
+donde	Spn	O	31.06	50.47	-2.38	48.089999999999996
+el	Spn	O	19.84	42.02	-1.01	41.010000000000005
+aparece	Spn	O	27.94	50.71	-1.01	49.7
+:	Punct	O	N/A	N/A	N/A	N/A
+(	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

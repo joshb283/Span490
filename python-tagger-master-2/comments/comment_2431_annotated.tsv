@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+My	Eng	O	41.2	20.91	-0.8	40.400000000000006
+mom	Eng	O	34.1	16.88	-0.8	33.300000000000004
+would	Eng	O	61.19	3.84	-0.8	60.39
+ignore	Eng	O	35.45	29.04	-0.8	34.650000000000006
+us	Eng	O	36.11	21.64	-0.8	35.31
+when	Eng	O	56.49	15.56	-0.8	55.690000000000005
+we	Eng	O	46.45	7.69	-0.8	45.650000000000006
+responded	Eng	O	49.0	35.14	-0.8	48.2
+in	Eng	O	45.41	25.29	-0.8	44.61
+English	Eng	O/OTROS	35.81	18.35	-0.8	35.010000000000005
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

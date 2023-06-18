@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+My	Eng	O	41.2	20.91	-0.8	40.400000000000006
+nicca	Eng	O	20.29	19.18	-0.8	19.49
+roger	Eng	O	26.52	24.61	-0.8	25.72
+went	Eng	O	52.5	1.61	-0.8	51.7
+crazy	Eng	O	36.48	10.89	-0.8	35.68
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

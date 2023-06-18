@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+the	Eng	O	60.83	27.05	-0.8	60.03
+delayed	Eng	O	39.94	24.82	-0.8	39.14
+beep	Eng	O	32.74	7.27	-0.8	31.94
+for	Eng	O	47.94	28.79	-0.8	47.14
+me	Spn	O	41.15	43.0	-2.38	40.62
+.	Punct	O	N/A	N/A	N/A	N/A
+jajaja	Spn	O	6.45	15.99	-1.01	14.98
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

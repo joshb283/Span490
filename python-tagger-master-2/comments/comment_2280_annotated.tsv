@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+The	Eng	O/ORG	60.83	27.05	-0.8	60.03
+glow	Eng	O/ORG	27.42	8.71	-0.8	26.62
+up	Eng	O/ORG	37.07	9.61	-0.8	36.27
+has	Eng	O/ORG	46.17	42.75	-0.8	45.370000000000005
+started	Eng	O/ORG	62.27	22.46	-0.8	61.470000000000006
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,20 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Just	Eng	O/ORG	56.89	16.33	-0.8	56.09
+pulled	Eng	O/ORG	45.6	19.13	-0.8	44.800000000000004
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+feet	Eng	O	40.42	10.37	-0.8	39.620000000000005
+into	Eng	O	51.19	37.94	-0.8	50.39
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+blanket	Eng	O	34.87	11.28	-0.8	34.07
+and	Eng	O	58.08	26.56	-0.8	57.28
+pulled	Eng	O	45.6	19.13	-0.8	44.800000000000004
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+Pantone	Eng	O/OTROS	35.2	36.15	-0.8	34.400000000000006
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+up	Eng	O	37.07	9.61	-0.8	36.27
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

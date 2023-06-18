@@ -1,0 +1,26 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Yeah	Eng	O/ORG	62.76	10.6	-0.8	61.96
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+would	Eng	O/ORG	61.19	3.84	-0.8	60.39
+’	Punct	O	N/A	N/A	N/A	N/A
+ve	Eng	O/ORG	41.64	33.49	-0.8	40.84
+kicked	Eng	O/ORG	43.86	4.2	-0.8	43.06
+him	Eng	O/ORG	39.42	13.41	-0.8	38.620000000000005
+out	Eng	O/ORG	48.81	12.75	-0.8	48.010000000000005
+myself	Eng	O/ORG	49.99	2.86	-0.8	49.190000000000005
+if	Eng	O/ORG	41.12	4.97	-0.8	40.32
+he	Eng	O	44.49	34.18	-0.8	43.690000000000005
+refused	Eng	O	45.69	21.5	-0.8	44.89
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+mom	Eng	O	34.1	16.88	-0.8	33.300000000000004
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+cooking	Eng	O/ORG	59.48	18.78	-0.8	58.68
+in	Eng	O/ORG	45.41	25.29	-0.8	44.61
+that	Eng	O/ORG	68.72	14.42	-0.8	67.92
+tone	Eng	O/ORG	42.44	32.29	-0.8	41.64
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

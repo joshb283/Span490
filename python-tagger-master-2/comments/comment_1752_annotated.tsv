@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+✨	Punct	O	N/A	N/A	N/A	N/A
+ppppPerron	Spn	O	7.88	14.27	-2.38	11.89
+✨	Punct	O	N/A	N/A	N/A	N/A
+chain	Eng	O	42.42	25.01	-2.38	40.04
+👇	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

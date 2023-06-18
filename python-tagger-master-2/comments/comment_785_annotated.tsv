@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+GIRL	Eng	O/ORG	32.89	8.72	-0.8	32.09
+IM	Eng	O/ORG	20.85	11.84	-0.8	20.05
+CRYING	Eng	O/ORG	47.76	13.76	-0.8	46.96
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+CANT	Eng	O/ORG	40.92	22.11	-0.8	40.120000000000005
+W	Eng	O/ORG	15.8	-2.58	-0.8	15.0
+THIS	Eng	O/ORG	59.86	22.07	-0.8	59.06
+RN	Eng	O/ORG	14.34	7.99	-0.8	13.54
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

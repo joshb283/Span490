@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Dude	Spn	O	22.71	32.4	-2.38	30.02
+I	Eng	O/ORG	42.31	11.38	-2.38	39.93
+’	Punct	O	N/A	N/A	N/A	N/A
+m	Eng	O/ORG	33.66	10.74	-0.8	32.86
+using	Eng	O/ORG	50.05	15.72	-0.8	49.25
+the	Eng	O/ORG	60.83	27.05	-0.8	60.03
+toilet	Eng	O/ORG	37.4	11.06	-0.8	36.6
+🥲	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

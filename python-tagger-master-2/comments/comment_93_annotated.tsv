@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+No	Spn	O	39.04	44.89	-2.38	42.51
+Harry	Eng	PERSON/PERS	36.43	21.84	-2.38	34.05
+Potter	Eng	PERSON/PERS	38.85	28.29	-0.8	38.050000000000004
+going	Eng	O	62.31	13.65	-0.8	61.510000000000005
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+the	Eng	O	60.83	27.05	-0.8	60.03
+taco	Spn	O	26.6	32.25	-2.38	29.87
+truck	Eng	O	42.16	16.5	-2.38	39.779999999999994
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

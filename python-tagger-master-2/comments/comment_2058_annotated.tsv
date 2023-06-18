@@ -1,0 +1,24 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Understandable	Eng	O	71.34	35.28	-0.8	70.54
+lol	Eng	O	19.76	18.87	-0.8	18.96
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+little	Eng	O	62.57	24.78	-0.8	61.77
+cousin	Eng	O	41.62	23.32	-0.8	40.82
+says	Eng	O	44.86	16.09	-0.8	44.06
+gimelo	Spn	O	11.0	26.08	-2.38	23.7
+mixing	Eng	O	38.59	13.27	-2.38	36.21
+the	Eng	O	60.83	27.05	-0.8	60.03
+words	Eng	O	46.58	4.49	-0.8	45.78
+give	Eng	O	46.96	21.81	-0.8	46.160000000000004
+and	Eng	O	58.08	26.56	-0.8	57.28
+damelo	Spn	O	14.08	40.68	-2.38	38.3
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

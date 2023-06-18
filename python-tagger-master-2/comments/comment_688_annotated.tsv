@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Es	Spn	O	21.58	44.75	-2.38	42.37
+un	Spn	O	21.77	40.51	-1.01	39.5
+osito	Spn	O	15.72	30.73	-1.01	29.72
+🐼	Punct	O	N/A	N/A	N/A	N/A
+🐼	Punct	O	N/A	N/A	N/A	N/A
+🐼	Punct	O	N/A	N/A	N/A	N/A
+🐼	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

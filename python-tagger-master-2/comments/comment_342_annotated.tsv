@@ -1,0 +1,9 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+marley_945	Spn	O	-3.29	7.4	-2.38	5.0200000000000005
+xd	Spn	O	0.1	-1.08	-1.01	-2.09
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

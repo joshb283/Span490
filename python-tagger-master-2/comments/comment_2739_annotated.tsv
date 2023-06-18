@@ -1,0 +1,9 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+God	Eng	O/PERS	23.76	12.54	-0.8	22.96
+Bless	Eng	O/PERS	40.11	12.45	-0.8	39.31
+You	Eng	O/PERS	56.67	25.36	-0.8	55.870000000000005
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

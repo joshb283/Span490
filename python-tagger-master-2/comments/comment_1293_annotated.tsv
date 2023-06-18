@@ -1,0 +1,10 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+whoisgisl	Eng	O	12.26	-6.28	-0.8	11.459999999999999
+THE	Eng	O	60.83	27.05	-0.8	60.03
+END	Eng	O/ORG	40.24	21.66	-0.8	39.440000000000005
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

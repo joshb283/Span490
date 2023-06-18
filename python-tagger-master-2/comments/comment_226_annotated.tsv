@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+massiel2524	Spn	O	-1.46	0.48	-2.38	-1.9
+me	Spn	O	41.15	43.0	-1.01	41.99
+cuedes	Spn	O	23.44	43.69	-1.01	42.68
+dar	Spn	O	26.02	39.31	-1.01	38.300000000000004
+más	Spn	O	6.97	45.12	-1.01	44.11
+😁	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+mana	Spn	O	32.63	42.49	-2.38	40.11
+tu	Spn	O	14.03	32.67	-1.01	31.66
+duermes	Spn	O	24.0	42.79	-1.01	41.78
+con	Spn	O	33.09	47.17	-1.01	46.160000000000004
+ropa	Spn	O	12.69	34.35	-1.01	33.34
+de	Spn	O	26.21	47.06	-1.01	46.050000000000004
+calle	Spn	O	41.72	44.62	-1.01	43.61
+😅	Punct	O	N/A	N/A	N/A	N/A
+😅	Punct	O	N/A	N/A	N/A	N/A
+😅	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

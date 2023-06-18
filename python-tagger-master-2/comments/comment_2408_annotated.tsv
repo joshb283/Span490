@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+allisonn	Eng	O	15.23	10.75	-0.8	14.43
+.	Punct	O	N/A	N/A	N/A	N/A
+sanchez	Spn	O	13.34	29.33	-2.38	26.95
+Cough	Eng	O/ORG	43.04	14.15	-2.38	40.66
+cough	Eng	O/ORG	43.04	14.15	-0.8	42.24
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

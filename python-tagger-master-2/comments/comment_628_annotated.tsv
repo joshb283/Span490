@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+The	Eng	O	60.83	27.05	-0.8	60.03
+caption	Eng	O	44.55	28.74	-0.8	43.75
+she	Eng	O	47.98	20.49	-0.8	47.18
+refuses	Eng	O	42.34	31.71	-0.8	41.540000000000006
+😂	Punct	O	N/A	N/A	N/A	N/A
+whose	Eng	O	51.29	16.27	-0.8	50.49
+the	Eng	O	60.83	27.05	-0.8	60.03
+parent	Eng	O	54.6	29.24	-0.8	53.800000000000004
+?	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

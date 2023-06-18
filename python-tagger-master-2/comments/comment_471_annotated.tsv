@@ -1,0 +1,20 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Tried	Eng	O	49.85	20.32	-0.8	49.050000000000004
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+sound	Eng	O	53.64	17.19	-0.8	52.84
+like	Eng	O	57.49	21.32	-0.8	56.690000000000005
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+and	Eng	O	58.08	26.56	-0.8	57.28
+I	Eng	O/OTROS	42.31	11.38	-0.8	41.510000000000005
+sounded	Eng	O/OTROS	53.55	12.71	-0.8	52.75
+like	Eng	O	57.49	21.32	-0.8	56.690000000000005
+an	Eng	O	41.88	24.48	-0.8	41.080000000000005
+anime	Eng	O	39.49	36.32	-0.8	38.690000000000005
+girl	Eng	O	32.89	8.72	-0.8	32.09
+😳	Punct	O	N/A	N/A	N/A	N/A
+😳	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Let	Eng	O/ORG	41.33	17.8	-0.8	40.53
+them	Eng	O/ORG	58.74	12.49	-0.8	57.940000000000005
+hate	Eng	O	43.83	31.28	-0.8	43.03
+primo	Spn	O	23.01	44.9	-2.38	42.519999999999996
+.	Punct	O	N/A	N/A	N/A	N/A
+Love	Eng	O	45.41	24.46	-2.38	43.029999999999994
+the	Eng	O	60.83	27.05	-0.8	60.03
+videos	Spn	O	31.93	32.57	-2.38	30.19
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,21 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Hateful	Eng	O/PERS	38.2	10.13	-0.8	37.400000000000006
+or	Eng	O	41.56	23.53	-0.8	40.760000000000005
+offensive	Eng	O	58.52	17.66	-0.8	57.720000000000006
+comments	Eng	O	56.24	21.71	-0.8	55.440000000000005
+are	Eng	O	50.46	30.0	-0.8	49.660000000000004
+filtered	Eng	O	46.56	15.59	-0.8	45.760000000000005
+so	Eng	O	43.57	28.06	-0.8	42.77
+they	Eng	O	65.37	19.05	-0.8	64.57000000000001
+dont	Eng	O	36.01	16.23	-0.8	35.21
+show	Eng	O	46.72	16.21	-0.8	45.92
+here	Eng	O	56.63	37.45	-0.8	55.830000000000005
+and	Eng	O	58.08	26.56	-0.8	57.28
+user	Eng	O	38.31	27.79	-0.8	37.510000000000005
+blocked	Eng	O/ORG	46.02	12.05	-0.8	45.220000000000006
+😁	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+My	Eng	O	41.2	20.91	-0.8	40.400000000000006
+son	Eng	O	41.69	40.73	-0.8	40.89
+😳	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

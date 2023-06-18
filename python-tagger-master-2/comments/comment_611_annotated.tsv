@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+isabell_is_kool	Eng	O	7.81	-1.19	-0.8	7.01
+reminds	Eng	O	43.41	15.53	-0.8	42.61
+me	Eng	O	41.15	43.0	-0.8	40.35
+of	Eng	O	45.37	12.91	-0.8	44.57
+someone	Eng	O	66.44	26.04	-0.8	65.64
+😣	Punct	O	N/A	N/A	N/A	N/A
+😣	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

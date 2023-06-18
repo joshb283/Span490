@@ -1,0 +1,25 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+"	Punct	O	N/A	N/A	N/A	N/A
+sounds	Eng	O	53.87	15.87	-0.8	53.07
+familiar	Eng	O	52.19	48.0	-0.8	51.39
+because	Eng	O/ORG	75.01	22.56	-0.8	74.21000000000001
+it	Eng	O/ORG	50.11	11.76	-0.8	49.31
+'	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O/ORG	40.13	19.22	-0.8	39.330000000000005
+an	Eng	O/ORG	41.88	24.48	-0.8	41.080000000000005
+american	Eng	O/ORG	44.45	42.67	-0.8	43.650000000000006
+song	Eng	O/ORG	42.41	20.88	-0.8	41.61
+called	Eng	O/ORG	54.46	32.36	-0.8	53.660000000000004
+"	Punct	O	N/A	N/A	N/A	N/A
+"	Punct	O	N/A	N/A	N/A	N/A
+achy	Eng	O	22.56	15.25	-0.8	21.759999999999998
+breaky	Eng	O	30.8	12.61	-0.8	30.0
+heart	Eng	O	46.79	15.24	-0.8	45.99
+"	Punct	O	N/A	N/A	N/A	N/A
+"	Punct	O	N/A	N/A	N/A	N/A
+"	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

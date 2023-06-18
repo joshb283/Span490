@@ -1,0 +1,18 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+He	Eng	O	44.49	34.18	-0.8	43.690000000000005
+won	Eng	O	42.1	14.09	-0.8	41.300000000000004
+’	Punct	O	N/A	N/A	N/A	N/A
+t	Eng	O	40.21	10.87	-0.8	39.410000000000004
+eat	Eng	O	40.14	9.68	-0.8	39.34
+the	Eng	O	60.83	27.05	-0.8	60.03
+mamas	Spn	O	30.1	40.61	-2.38	38.23
+food	Eng	O	45.53	13.53	-2.38	43.15
+?	Punct	O	N/A	N/A	N/A	N/A
+😡	Punct	O	N/A	N/A	N/A	N/A
+🤜	Punct	O	N/A	N/A	N/A	N/A
+🏽	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

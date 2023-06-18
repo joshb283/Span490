@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+wiflpassword	Eng	O	25.44	-6.4	-0.8	24.64
+DO	Eng	O	42.25	32.38	-0.8	41.45
+IT	Eng	O/ORG	50.11	11.76	-0.8	49.31
+ON	Eng	O/ORG	43.01	23.0	-0.8	42.21
+NIKO	Spn	O/ORG	11.34	13.37	-2.38	10.989999999999998
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

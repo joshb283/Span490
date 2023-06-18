@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Wishing	Eng	O/ORG	54.79	4.56	-0.8	53.99
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+lived	Eng	O/ORG	51.17	18.61	-0.8	50.370000000000005
+in	Eng	O/ORG	45.41	25.29	-0.8	44.61
+Colorado	Spn	LOCATION/ORG	48.9	55.42	-2.38	53.04
+😍	Punct	O	N/A	N/A	N/A	N/A
+🥲	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+This	Eng	O	59.86	22.07	-0.8	59.06
+is	Eng	O	44.66	21.08	-0.8	43.86
+so	Eng	O	43.57	28.06	-0.8	42.77
+adorable	Spn	O	37.5	43.71	-2.38	41.33
+@	Punct	O	N/A	N/A	N/A	N/A
+hellomylovee	Eng	O	21.49	5.59	-2.38	19.11
+@	Punct	O	N/A	N/A	N/A	N/A
+.	Punct	O	N/A	N/A	N/A	N/A
+minikurxt	Eng	O	19.39	6.53	-0.8	18.59
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

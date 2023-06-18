@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+yaisi	Spn	O	7.96	15.37	-2.38	12.989999999999998
+.	Punct	O	N/A	N/A	N/A	N/A
+is	Eng	O	44.66	21.08	-2.38	42.279999999999994
+.	Punct	O	N/A	N/A	N/A	N/A
+a	Spn	O	39.06	38.09	-2.38	35.71
+.	Punct	O	N/A	N/A	N/A	N/A
+simp	Eng	O	26.87	15.63	-2.38	24.490000000000002
+LMAOOOI	Spn	O/ORG	1.31	2.29	-2.38	-0.08999999999999986
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

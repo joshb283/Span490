@@ -1,0 +1,18 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Unfortunately	Eng	O/ORG	68.77	14.52	-0.8	67.97
+it	Eng	O/ORG	50.11	11.76	-0.8	49.31
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+always	Eng	O	58.03	12.99	-0.8	57.230000000000004
+been	Eng	O	52.66	22.28	-0.8	51.86
+this	Eng	O	59.86	22.07	-0.8	59.06
+way	Eng	O	46.27	15.37	-0.8	45.470000000000006
+in	Eng	O	45.41	25.29	-0.8	44.61
+the	Eng	O	60.83	27.05	-0.8	60.03
+medical	Eng	O	49.02	40.36	-0.8	48.220000000000006
+field	Eng	O	40.73	23.1	-0.8	39.93
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

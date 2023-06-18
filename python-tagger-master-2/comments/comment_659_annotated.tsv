@@ -1,0 +1,20 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Alguien	Spn	O	20.53	57.89	-2.38	55.51
+que	Spn	O	26.46	56.13	-1.01	55.120000000000005
+este	Spn	O	27.28	52.33	-1.01	51.32
+viendo	Spn	O	22.19	56.99	-1.01	55.980000000000004
+esto	Spn	O	21.84	52.73	-1.01	51.72
+después	Spn	O	13.53	56.95	-1.01	55.940000000000005
+de	Spn	O	26.21	47.06	-1.01	46.050000000000004
+lo	Spn	O	19.44	42.92	-1.01	41.910000000000004
+que	Spn	O	26.46	56.13	-1.01	55.120000000000005
+paso	Spn	O	26.85	42.95	-1.01	41.940000000000005
+😔	Punct	O	N/A	N/A	N/A	N/A
+😔	Punct	O	N/A	N/A	N/A	N/A
+🥺	Punct	O	N/A	N/A	N/A	N/A
+🥺	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

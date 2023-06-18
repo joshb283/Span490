@@ -1,0 +1,24 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Nah	Eng	O	28.24	13.32	-0.8	27.439999999999998
+if	Eng	O	41.12	4.97	-0.8	40.32
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+’	Punct	O	N/A	N/A	N/A	N/A
+re	Eng	O	44.29	29.91	-0.8	43.49
+from	Eng	O	48.14	12.52	-0.8	47.34
+Tepic	Eng	LOCATION/LUG	19.97	9.15	-0.8	19.169999999999998
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+don	Eng	O	50.13	38.08	-0.8	49.330000000000005
+’	Punct	O	N/A	N/A	N/A	N/A
+t	Eng	O/OTROS	40.21	10.87	-0.8	39.410000000000004
+trip	Eng	O/OTROS	35.43	18.11	-0.8	34.63
+.	Punct	O	N/A	N/A	N/A	N/A
+You	Eng	O	56.67	25.36	-0.8	55.870000000000005
+already	Eng	O	51.7	19.14	-0.8	50.900000000000006
+know	Eng	O	60.3	6.12	-0.8	59.5
+the	Eng	O	60.83	27.05	-0.8	60.03
+banquetas	Spn	O	22.57	45.5	-2.38	43.12
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

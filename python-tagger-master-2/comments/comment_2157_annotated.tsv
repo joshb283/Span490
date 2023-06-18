@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Leon	Spn	ORGANIZATION/O	23.85	25.5	-2.38	23.12
+3	Num	O	N/A	N/A	N/A	N/A
+-	Punct	O	N/A	N/A	N/A	N/A
+2	Num	O	N/A	N/A	N/A	N/A
+America	Spn	LOCATION/ORG	31.41	43.48	-1.01	42.47
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

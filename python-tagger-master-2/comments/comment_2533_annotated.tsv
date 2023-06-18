@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Why	Eng	O/ORG	41.66	5.84	-0.8	40.86
+she	Eng	O/ORG	47.98	20.49	-0.8	47.18
+put	Eng	O/ORG	43.43	16.46	-0.8	42.63
+soo	Eng	O	27.03	16.77	-0.8	26.23
+much	Eng	O	50.21	32.0	-0.8	49.410000000000004
+cilantro	Spn	O	8.99	31.4	-2.38	29.02
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

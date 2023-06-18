@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+for	Eng	O	47.94	28.79	-0.8	47.14
+reals	Eng	O	44.86	22.47	-0.8	44.06
+.	Punct	O	N/A	N/A	N/A	N/A
+.	Punct	O	N/A	N/A	N/A	N/A
+.	Punct	O	N/A	N/A	N/A	N/A
+Las	Spn	O	34.62	47.63	-2.38	45.25
+Luchas	Spn	O	27.09	48.03	-1.01	47.02
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

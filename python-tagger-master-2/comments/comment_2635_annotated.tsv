@@ -1,0 +1,27 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+grandma	Eng	O/ORG	32.47	29.34	-0.8	31.669999999999998
+straight	Eng	O/ORG	59.0	9.79	-0.8	58.2
+up	Eng	O/ORG	37.07	9.61	-0.8	36.27
+got	Eng	O/ORG	48.21	15.31	-0.8	47.410000000000004
+ignored	Eng	O/ORG	35.42	22.52	-0.8	34.620000000000005
+at	Eng	O/ORG	43.35	13.78	-0.8	42.550000000000004
+the	Eng	O/ORG	60.83	27.05	-0.8	60.03
+hospital	Eng	O/ORG	48.57	46.18	-0.8	47.77
+because	Eng	O/ORG	75.01	22.56	-0.8	74.21000000000001
+nobody	Eng	O/ORG	49.48	17.32	-0.8	48.68
+spoke	Eng	O/ORG	36.51	10.22	-0.8	35.71
+Spanish	Eng	O/ORG	39.06	8.16	-0.8	38.260000000000005
+.	Punct	O	N/A	N/A	N/A	N/A
+thankfully	Eng	O	59.87	10.97	-0.8	59.07
+she	Eng	O	47.98	20.49	-0.8	47.18
+'	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+okay	Eng	O	50.55	18.33	-0.8	49.75
+now	Eng	O	47.81	13.39	-0.8	47.010000000000005
+.	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

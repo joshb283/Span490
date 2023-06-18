@@ -1,0 +1,25 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Leave	Eng	O/PERS	49.99	24.39	-0.8	49.190000000000005
+her	Eng	O	46.52	29.04	-0.8	45.720000000000006
+alone	Eng	O	47.83	28.19	-0.8	47.03
+she	Eng	O	47.98	20.49	-0.8	47.18
+probably	Eng	O	71.13	31.99	-0.8	70.33
+want	Eng	O	52.19	4.37	-0.8	51.39
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+learn	Eng	O	42.31	12.41	-0.8	41.510000000000005
+but	Eng	O/ORG	51.93	13.76	-0.8	51.13
+it	Eng	O/ORG	50.11	11.76	-0.8	49.31
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+hard	Eng	O	46.48	24.73	-0.8	45.68
+y	Spn	O	21.5	34.41	-2.38	32.029999999999994
+’	Punct	O	N/A	N/A	N/A	N/A
+all	Eng	O	47.74	25.64	-2.38	45.36
+is	Eng	O	44.66	21.08	-0.8	43.86
+no	Spn	O	39.04	44.89	-2.38	42.51
+better	Eng	O	57.19	23.79	-2.38	54.809999999999995
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

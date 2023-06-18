@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+*	Punct	O	N/A	N/A	N/A	N/A
+growls	Eng	O/ORG	31.92	12.13	-0.8	31.12
+in	Eng	O/ORG	45.41	25.29	-0.8	44.61
+Spanish	Eng	O/ORG	39.06	8.16	-0.8	38.260000000000005
+*	Punct	O	N/A	N/A	N/A	N/A
+*	Punct	O	N/A	N/A	N/A	N/A
+drinks	Eng	O	39.45	8.97	-0.8	38.650000000000006
+in	Eng	O/OTROS	45.41	25.29	-0.8	44.61
+Spanish	Eng	O/OTROS	39.06	8.16	-0.8	38.260000000000005
+*	Punct	O	N/A	N/A	N/A	N/A
+😎	Punct	O	N/A	N/A	N/A	N/A
+👌	Punct	O	N/A	N/A	N/A	N/A
+🏻	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

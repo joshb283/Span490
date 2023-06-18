@@ -1,0 +1,25 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+jajajajajajajajajaja	Spn	O	10.61	20.14	-2.38	17.76
+eso	Spn	O	19.62	46.36	-1.01	45.35
+es	Spn	O	21.58	44.75	-1.01	43.74
+amor	Spn	O	26.67	41.81	-1.01	40.800000000000004
+el	Spn	O	19.84	42.02	-1.01	41.010000000000005
+resto	Spn	O	33.46	44.95	-1.01	43.940000000000005
+son	Eng	O	41.69	40.73	-2.38	39.309999999999995
+webadas	Eng	O	24.4	21.53	-0.8	23.599999999999998
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+amo	Spn	O	19.42	35.54	-2.38	33.16
+su	Spn	O	14.41	35.66	-1.01	34.65
+forma	Spn	O	33.81	40.01	-1.01	39.0
+de	Spn	O	26.21	47.06	-1.01	46.050000000000004
+amarse	Spn	O	29.54	41.63	-1.01	40.620000000000005
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

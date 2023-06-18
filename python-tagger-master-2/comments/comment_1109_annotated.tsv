@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+Puerto	Spn	O/ORG	26.12	53.81	-2.38	51.43
+Rican	Eng	O/ORG	41.6	33.8	-2.38	39.22
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+would	Eng	O	61.19	3.84	-0.8	60.39
+’	Punct	O	N/A	N/A	N/A	N/A
+ve	Eng	O	41.64	33.49	-0.8	40.84
+all	Eng	O	47.74	25.64	-0.8	46.940000000000005
+lost	Eng	O	43.61	19.3	-0.8	42.81
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

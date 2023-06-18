@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+vintagekathh	Spn	O	0.95	0.32	-2.38	-2.06
+CEEESARR	Spn	O/ORG	3.0	5.68	-1.01	4.67
+HELP	Eng	O/ORG	38.45	13.01	-2.38	36.07
+BRO	Spn	O/ORG	22.33	29.28	-2.38	26.900000000000002
+AM	Eng	O/ORG	30.77	12.36	-2.38	28.39
+DYING	Eng	O/ORG	41.01	9.16	-0.8	40.21
+THE	Eng	O/ORG	60.83	27.05	-0.8	60.03
+END	Eng	O/ORG	40.24	21.66	-0.8	39.440000000000005
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+bahahahaha	Spn	O	12.95	16.63	-2.38	14.25
+.	Punct	O	N/A	N/A	N/A	N/A
+.	Punct	O	N/A	N/A	N/A	N/A
+.	Punct	O	N/A	N/A	N/A	N/A
+yup	Eng	O	18.33	4.31	-2.38	15.95
+yup	Eng	O	18.33	4.31	-0.8	17.529999999999998
+careful	Eng	O	46.0	17.87	-0.8	45.2
+with	Eng	O	54.27	4.16	-0.8	53.470000000000006
+the	Eng	O	60.83	27.05	-0.8	60.03
+word	Eng	O	43.09	7.0	-0.8	42.290000000000006
+embarrassed	Eng	O	42.78	25.34	-0.8	41.980000000000004
+😅	Punct	O	N/A	N/A	N/A	N/A
+😅	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

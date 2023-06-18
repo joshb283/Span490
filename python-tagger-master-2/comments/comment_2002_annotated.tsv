@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+sis	Eng	O	32.31	28.03	-0.8	31.51
+wanted	Eng	O	59.37	14.2	-0.8	58.57
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+say	Eng	O	43.93	22.05	-0.8	43.13
+knock	Eng	O	43.84	3.78	-0.8	43.040000000000006
+and	Eng	O	58.08	26.56	-0.8	57.28
+she	Eng	O	47.98	20.49	-0.8	47.18
+said	Eng	O	47.81	17.28	-0.8	47.010000000000005
+✨	Punct	O	N/A	N/A	N/A	N/A
+nockar	Spn	O	16.78	23.59	-2.38	21.21
+✨	Punct	O	N/A	N/A	N/A	N/A
+😭	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

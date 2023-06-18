@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+__rrj13	Spn	O	-20.33	-12.18	-2.38	-14.559999999999999
+hey	Eng	O	43.41	22.69	-2.38	41.029999999999994
+bro	Spn	O	22.33	29.28	-2.38	26.900000000000002
+can	Eng	O	46.96	33.02	-2.38	44.58
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+tag	Eng	O	24.39	10.66	-0.8	23.59
+me	Eng	O	41.15	43.0	-0.8	40.35
+in	Eng	O	45.41	25.29	-0.8	44.61
+Part	Eng	O/ORG	44.95	26.99	-0.8	44.150000000000006
+2	Num	O/ORG	N/A	N/A	N/A	N/A
+please	Eng	O/ORG	45.14	31.36	-0.8	44.34
+🦾	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

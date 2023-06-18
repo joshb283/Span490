@@ -1,0 +1,26 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+My	Eng	O	41.2	20.91	-0.8	40.400000000000006
+daughter	Eng	O/ORG	55.87	18.12	-0.8	55.07
+won	Eng	O/ORG	42.1	14.09	-0.8	41.300000000000004
+’	Punct	O	N/A	N/A	N/A	N/A
+t	Eng	O/ORG	40.21	10.87	-0.8	39.410000000000004
+speak	Eng	O/ORG	38.44	9.07	-0.8	37.64
+Spanish	Eng	O/ORG	39.06	8.16	-0.8	38.260000000000005
+because	Eng	O/ORG	75.01	22.56	-0.8	74.21000000000001
+every	Eng	O	55.22	18.06	-0.8	54.42
+time	Eng	O	53.99	32.6	-0.8	53.190000000000005
+she	Eng	O	47.98	20.49	-0.8	47.18
+tries	Eng	O	50.34	31.35	-0.8	49.540000000000006
+people	Eng	O	65.53	26.25	-0.8	64.73
+always	Eng	O	58.03	12.99	-0.8	57.230000000000004
+make	Eng	O	50.59	18.5	-0.8	49.790000000000006
+fun	Eng	O	36.4	23.58	-0.8	35.6
+of	Eng	O	45.37	12.91	-0.8	44.57
+her	Eng	O	46.52	29.04	-0.8	45.720000000000006
+accent	Eng	O	46.76	13.52	-0.8	45.96
+😌	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

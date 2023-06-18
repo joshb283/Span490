@@ -1,0 +1,21 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+I	Eng	O	42.31	11.38	-0.8	41.510000000000005
+hope	Eng	O	41.26	22.21	-0.8	40.46
+your	Eng	O	56.33	24.2	-0.8	55.53
+paleta	Spn	O	14.84	40.56	-2.38	38.18
+payaso	Spn	O	24.13	39.78	-1.01	38.77
+sticks	Eng	O	43.2	5.79	-2.38	40.82
+in	Eng	O	45.41	25.29	-0.8	44.61
+the	Eng	O	60.83	27.05	-0.8	60.03
+bag	Eng	O	28.79	7.32	-0.8	27.99
+and	Eng	O	58.08	26.56	-0.8	57.28
+only	Eng	O	49.65	9.4	-0.8	48.85
+the	Eng	O	60.83	27.05	-0.8	60.03
+stick	Eng	O	42.19	6.68	-0.8	41.39
+comes	Eng	O	52.39	45.39	-0.8	51.59
+out	Eng	O	48.81	12.75	-0.8	48.010000000000005
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

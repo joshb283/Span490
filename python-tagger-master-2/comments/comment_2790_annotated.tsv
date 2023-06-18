@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+We	Eng	O	46.45	7.69	-0.8	45.650000000000006
+be	Eng	O	42.62	20.92	-0.8	41.82
+eating	Eng	O	51.48	8.27	-0.8	50.68
+the	Eng	O	60.83	27.05	-0.8	60.03
+ice	Eng	O	37.08	23.83	-0.8	36.28
+out	Eng	O	48.81	12.75	-0.8	48.010000000000005
+of	Eng	O	45.37	12.91	-0.8	44.57
+the	Eng	O	60.83	27.05	-0.8	60.03
+bucket	Eng	O	40.52	12.34	-0.8	39.720000000000006
+lol	Eng	O	19.76	18.87	-0.8	18.96
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

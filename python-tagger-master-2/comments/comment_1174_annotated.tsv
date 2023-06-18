@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Lmaoo	Eng	O	10.44	9.8	-0.8	9.639999999999999
+this	Eng	O	59.86	22.07	-0.8	59.06
+was	Eng	O	51.72	16.52	-0.8	50.92
+me	Eng	O	41.15	43.0	-0.8	40.35
+when	Eng	O	56.49	15.56	-0.8	55.690000000000005
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+returned	Eng	O/ORG	51.74	15.39	-0.8	50.940000000000005
+to	Eng	O/ORG	48.13	29.93	-0.8	47.330000000000005
+Mexico	Spn	LOCATION/ORG	26.17	41.73	-2.38	39.349999999999994
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

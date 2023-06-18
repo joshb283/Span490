@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+ima	Spn	O	24.6	29.25	-2.38	26.87
+b	Eng	O	10.36	4.91	-2.38	7.9799999999999995
+scared	Eng	O	46.6	14.49	-0.8	45.800000000000004
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

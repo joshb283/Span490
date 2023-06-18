@@ -1,0 +1,21 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+_marcom	Eng	O	-2.83	-7.73	-0.8	-3.63
+.	Punct	O	N/A	N/A	N/A	N/A
+17	Num	O	N/A	N/A	N/A	N/A
+@	Punct	O	N/A	N/A	N/A	N/A
+jonathan	Eng	O	30.11	14.67	-0.8	29.31
+@	Punct	O	N/A	N/A	N/A	N/A
+hateedsonn	Eng	O	15.29	3.28	-0.8	14.489999999999998
+@	Punct	O	N/A	N/A	N/A	N/A
+chungyraps	Eng	O	19.53	7.64	-0.8	18.73
+joshua	Spn	O	7.86	12.91	-2.38	10.530000000000001
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-2.38	37.75
+uncle	Eng	O	34.61	26.99	-0.8	33.81
+🥺	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

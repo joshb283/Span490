@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+just	Eng	O	56.89	16.33	-0.8	56.09
+like	Eng	O	57.49	21.32	-0.8	56.690000000000005
+Abt	Eng	PERSON/OTROS	19.81	6.57	-0.8	19.009999999999998
+the	Eng	O	60.83	27.05	-0.8	60.03
+school	Eng	O	54.1	16.16	-0.8	53.300000000000004
+and	Eng	O	58.08	26.56	-0.8	57.28
+job	Eng	O	30.38	4.97	-0.8	29.58
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+jessssm46	Spn	O	-10.28	-6.97	-2.38	-9.35
+i	Eng	O	42.31	11.38	-2.38	39.93
+didn	Eng	O	48.99	16.56	-0.8	48.190000000000005
+’	Punct	O	N/A	N/A	N/A	N/A
+t	Eng	O	40.21	10.87	-0.8	39.410000000000004
+choose	Eng	O	45.37	25.22	-0.8	44.57
+the	Eng	O	60.83	27.05	-0.8	60.03
+no	Spn	O	39.04	44.89	-2.38	42.51
+sabo	Spn	O	16.37	33.68	-1.01	32.67
+life	Eng	O	43.73	20.47	-2.38	41.349999999999994
+bbs	Eng	O/ORG	12.86	5.4	-0.8	12.059999999999999
+🥺	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

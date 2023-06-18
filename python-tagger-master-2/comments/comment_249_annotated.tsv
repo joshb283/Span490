@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+wey	Eng	O	25.81	7.94	-0.8	25.009999999999998
+es	Spn	O	21.58	44.75	-2.38	42.37
+tan	Spn	O	29.86	41.15	-1.01	40.14
+tiernoooo	Spn	O	20.54	27.87	-1.01	26.86
+😭	Punct	O	N/A	N/A	N/A	N/A
+🤙	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

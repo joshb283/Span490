@@ -1,0 +1,21 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+That	Eng	O/ORG	68.72	14.42	-0.8	67.92
+kid	Eng	O/ORG	38.19	9.68	-0.8	37.39
+knows	Eng	O/ORG	51.69	3.21	-0.8	50.89
+more	Eng	O/ORG	53.89	32.84	-0.8	53.09
+than	Eng	O/ORG	56.77	25.06	-0.8	55.970000000000006
+any	Eng	O/ORG	46.02	17.76	-0.8	45.220000000000006
+child	Eng	O/ORG	48.3	20.26	-0.8	47.5
+i	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+know	Eng	O/ORG	60.3	6.12	-0.8	59.5
+😂	Punct	O	N/A	N/A	N/A	N/A
+GOOD	Eng	O/ORG	51.82	19.01	-0.8	51.02
+JOB	Eng	O/ORG	30.38	4.97	-0.8	29.58
+MIJOOO	Spn	O/ORG	15.91	20.2	-2.38	17.82
+!	Punct	O	N/A	N/A	N/A	N/A
+!	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+No	Spn	O	39.04	44.89	-2.38	42.51
+backwards	Eng	O	49.75	11.25	-2.38	47.37
+!	Punct	O	N/A	N/A	N/A	N/A
+“	Punct	O	N/A	N/A	N/A	N/A
+Cálmate	Spn	O/ORG	19.43	43.43	-2.38	41.05
+papi	Spn	O/ORG	17.96	31.25	-1.01	30.24
+!	Punct	O	N/A	N/A	N/A	N/A
+”	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

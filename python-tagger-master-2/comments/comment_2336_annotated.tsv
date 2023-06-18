@@ -1,0 +1,24 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+El	Spn	O	19.84	42.02	-2.38	39.64
+mocate	Eng	O	32.9	30.89	-2.38	30.52
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+well	Eng	O	57.6	13.82	-0.8	56.800000000000004
+she	Eng	O	47.98	20.49	-0.8	47.18
+did	Eng	O	44.21	19.81	-0.8	43.410000000000004
+better	Eng	O	57.19	23.79	-0.8	56.39
+than	Eng	O	56.77	25.06	-0.8	55.970000000000006
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+kids	Eng	O	46.98	8.94	-0.8	46.18
+and	Eng	O	58.08	26.56	-0.8	57.28
+they	Eng	O	65.37	19.05	-0.8	64.57000000000001
+16	Num	O	N/A	N/A	N/A	N/A
+&	Punct	O	N/A	N/A	N/A	N/A
+18	Num	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

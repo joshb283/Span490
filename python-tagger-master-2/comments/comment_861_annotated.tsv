@@ -1,0 +1,22 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Hola	Spn	PERSON/O	22.77	35.15	-2.38	32.769999999999996
+mana	Spn	O	32.63	42.49	-1.01	41.480000000000004
+creo	Spn	O	24.17	43.42	-1.01	42.410000000000004
+que	Spn	O	26.46	56.13	-1.01	55.120000000000005
+con	Spn	O	33.09	47.17	-1.01	46.160000000000004
+tu	Spn	O	14.03	32.67	-1.01	31.66
+novio	Spn	O	19.06	42.63	-1.01	41.620000000000005
+ando	Spn	O	38.68	45.82	-1.01	44.81
+aprendiendo	Spn	O	11.29	67.31	-1.01	66.3
+ingles	Spn	O	37.43	38.46	-1.01	37.45
+😅	Punct	O	N/A	N/A	N/A	N/A
+😅	Punct	O	N/A	N/A	N/A	N/A
+😅	Punct	O	N/A	N/A	N/A	N/A
+😅	Punct	O	N/A	N/A	N/A	N/A
+Los	Spn	O	23.65	49.6	-1.01	48.59
+amoooo	Spn	O	19.42	19.03	-1.01	18.02
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

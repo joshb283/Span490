@@ -1,0 +1,24 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+💥	Punct	O	N/A	N/A	N/A	N/A
+Un	Spn	O	21.77	40.51	-2.38	38.129999999999995
+sorpresa	Spn	O	15.43	50.45	-1.01	49.440000000000005
+para	Spn	O	27.32	53.43	-1.01	52.42
+tu	Spn	O	14.03	32.67	-1.01	31.66
+💥	Punct	O	N/A	N/A	N/A	N/A
+💥	Punct	O	N/A	N/A	N/A	N/A
+tu	Spn	O	14.03	32.67	-1.01	31.66
+listo	Spn	O	30.86	45.8	-1.01	44.79
+💥	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+.	Punct	O	N/A	N/A	N/A	N/A
+.	Punct	O	N/A	N/A	N/A	N/A
+.	Punct	O	N/A	N/A	N/A	N/A
+.	Punct	O	N/A	N/A	N/A	N/A
+.	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

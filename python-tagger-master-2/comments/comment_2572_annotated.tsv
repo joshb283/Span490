@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+baby	Eng	O	36.55	20.71	-0.8	35.75
+.	Punct	O	N/A	N/A	N/A	N/A
+hotpocket	Eng	O	32.17	6.33	-0.8	31.37
+i	Eng	O	42.31	11.38	-0.8	41.510000000000005
+shoulda	Eng	O	38.1	18.39	-0.8	37.300000000000004
+gone	Eng	O	48.12	21.26	-0.8	47.32
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+Colorado	Spn	LOCATION/OTROS	48.9	55.42	-2.38	53.04
+with	Eng	O	54.27	4.16	-2.38	51.89
+u	Eng	O	15.23	13.34	-0.8	14.43
+😔	Punct	O	N/A	N/A	N/A	N/A
+😳	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

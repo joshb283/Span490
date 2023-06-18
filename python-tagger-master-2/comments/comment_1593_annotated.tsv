@@ -1,0 +1,9 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Lmao	Spn	PERSON/O	6.5	12.41	-2.38	10.030000000000001
+hell	Eng	O	43.67	19.29	-2.38	41.29
+yeah	Eng	O	62.76	10.6	-0.8	61.96
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

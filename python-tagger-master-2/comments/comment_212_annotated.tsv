@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+gallotoos	Eng	O	21.24	21.97	-0.8	20.439999999999998
+😅	Punct	O	N/A	N/A	N/A	N/A
+😅	Punct	O	N/A	N/A	N/A	N/A
+😅	Punct	O	N/A	N/A	N/A	N/A
+😅	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

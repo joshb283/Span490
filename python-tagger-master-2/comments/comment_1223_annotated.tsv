@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+bro	Spn	O	22.33	29.28	-2.38	26.900000000000002
+I	Eng	O	42.31	11.38	-2.38	39.93
+use	Eng	O	45.34	29.16	-0.8	44.540000000000006
+some	Eng	O	56.66	33.61	-0.8	55.86
+of	Eng	O	45.37	12.91	-0.8	44.57
+these	Eng	O	62.33	30.24	-0.8	61.53
+word	Eng	O	43.09	7.0	-0.8	42.290000000000006
+cause	Eng	O	54.88	34.08	-0.8	54.080000000000005
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+mexican	Spn	O	37.7	44.86	-2.38	42.48
+parents	Eng	O	56.12	30.91	-2.38	53.739999999999995
+said	Eng	O/ORG	47.81	17.28	-0.8	47.010000000000005
+Parkiando	Spn	PERSON/ORG	30.05	41.94	-2.38	39.559999999999995
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

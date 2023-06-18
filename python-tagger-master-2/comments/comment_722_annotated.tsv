@@ -1,0 +1,23 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+están	Spn	O	10.96	53.97	-2.38	51.589999999999996
+tiernos	Spn	O	19.91	54.08	-1.01	53.07
+quede	Spn	O	20.24	55.88	-1.01	54.870000000000005
+pueedoooo	Spn	O	9.98	16.84	-1.01	15.83
+moriiiirrrrrrrrrr	Spn	O	7.39	9.86	-1.01	8.85
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

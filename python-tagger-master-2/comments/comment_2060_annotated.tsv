@@ -1,0 +1,24 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Bruh	Eng	PERSON/PERS	24.79	11.39	-0.8	23.99
+kinda	Eng	O	34.08	22.25	-0.8	33.28
+sounds	Eng	O	53.87	15.87	-0.8	53.07
+like	Eng	O	57.49	21.32	-0.8	56.690000000000005
+she	Eng	O	47.98	20.49	-0.8	47.18
+having	Eng	O/ORG	63.93	14.44	-0.8	63.13
+trouble	Eng	O/ORG	55.4	30.11	-0.8	54.6
+speaking	Eng	O/ORG	60.78	9.45	-0.8	59.980000000000004
+both	Eng	O/ORG	43.29	14.68	-0.8	42.49
+languages	Eng	O/ORG	48.25	24.25	-0.8	47.45
+but	Eng	O/ORG	51.93	13.76	-0.8	51.13
+is	Eng	O/ORG	44.66	21.08	-0.8	43.86
+fine	Eng	O/ORG	43.85	30.78	-0.8	43.050000000000004
+she	Eng	O/ORG	47.98	20.49	-0.8	47.18
+is	Eng	O/ORG	44.66	21.08	-0.8	43.86
+still	Eng	O/ORG	53.2	12.74	-0.8	52.400000000000006
+little	Eng	O	62.57	24.78	-0.8	61.77
+.	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

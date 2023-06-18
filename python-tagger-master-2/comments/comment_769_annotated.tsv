@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+did	Eng	O	44.21	19.81	-0.8	43.410000000000004
+the	Eng	O	60.83	27.05	-0.8	60.03
+taco	Spn	O	26.6	32.25	-2.38	29.87
+stand	Eng	O	55.47	15.51	-2.38	53.089999999999996
+man	Eng	O	40.95	33.96	-0.8	40.150000000000006
+say	Eng	O	43.93	22.05	-0.8	43.13
+alah	Eng	O	26.04	15.04	-0.8	25.24
+akhbar	Spn	O	13.49	14.4	-2.38	12.02
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

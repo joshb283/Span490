@@ -1,0 +1,18 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+This	Eng	O	59.86	22.07	-0.8	59.06
+is	Eng	O	44.66	21.08	-0.8	43.86
+why	Eng	O	41.66	5.84	-0.8	40.86
+I	Eng	O/OTROS	42.31	11.38	-0.8	41.510000000000005
+always	Eng	O	58.03	12.99	-0.8	57.230000000000004
+go	Eng	O	39.77	24.21	-0.8	38.970000000000006
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+doctor	Spn	O	46.33	51.67	-2.38	49.29
+appts	Eng	O	25.62	13.32	-2.38	23.240000000000002
+with	Eng	O	54.27	4.16	-0.8	53.470000000000006
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+mom	Eng	O	34.1	16.88	-0.8	33.300000000000004
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

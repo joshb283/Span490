@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Only	Eng	O	49.65	9.4	-0.8	48.85
+wrong	Eng	O	45.82	0.11	-0.8	45.02
+answers	Eng	O	50.55	16.84	-0.8	49.75
+here	Eng	O	56.63	37.45	-0.8	55.830000000000005
+:	Punct	O	N/A	N/A	N/A	N/A
+mapachín	Spn	O	8.19	22.15	-2.38	19.77
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

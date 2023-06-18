@@ -1,0 +1,18 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Damm	Eng	PERSON/PERS	14.06	12.33	-0.8	13.26
+when	Eng	O	56.49	15.56	-0.8	55.690000000000005
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+had	Eng	O	48.39	23.13	-0.8	47.59
+the	Eng	O	60.83	27.05	-0.8	60.03
+gansito	Spn	O	22.42	33.73	-2.38	31.349999999999998
+I	Eng	O/ORG	42.31	11.38	-2.38	39.93
+just	Eng	O/ORG	56.89	16.33	-0.8	56.09
+finished	Eng	O/ORG	51.78	12.76	-0.8	50.980000000000004
+eating	Eng	O/ORG	51.48	8.27	-0.8	50.68
+one	Eng	O/ORG	49.51	25.47	-0.8	48.71
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

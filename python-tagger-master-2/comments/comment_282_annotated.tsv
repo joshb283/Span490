@@ -1,0 +1,10 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+IM	Eng	O/ORG	20.85	11.84	-0.8	20.05
+DYING	Eng	O/ORG	41.01	9.16	-0.8	40.21
+BRUH	Eng	O/ORG	24.79	11.39	-0.8	23.99
+💀	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

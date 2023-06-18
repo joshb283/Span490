@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+America	Spn	LOCATION/O	31.41	43.48	-2.38	41.099999999999994
+all	Eng	O	47.74	25.64	-2.38	45.36
+the	Eng	O	60.83	27.05	-0.8	60.03
+way	Eng	O	46.27	15.37	-0.8	45.470000000000006
+💛	Punct	O	N/A	N/A	N/A	N/A
+💙	Punct	O	N/A	N/A	N/A	N/A
+🦅	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,21 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Y	Spn	O	21.5	34.41	-2.38	32.029999999999994
+’	Punct	O	N/A	N/A	N/A	N/A
+all	Eng	O	47.74	25.64	-2.38	45.36
+do	Eng	O	42.25	32.38	-0.8	41.45
+realize	Eng	O	55.49	24.65	-0.8	54.690000000000005
+not	Eng	O	48.64	20.26	-0.8	47.84
+every	Eng	O	55.22	18.06	-0.8	54.42
+‘	Punct	O	N/A	N/A	N/A	N/A
+Mexican	Spn	O/ORG	37.7	44.86	-2.38	42.48
+’	Punct	O	N/A	N/A	N/A	N/A
+looks	Eng	O/ORG	46.97	17.82	-2.38	44.589999999999996
+the	Eng	O/ORG	60.83	27.05	-0.8	60.03
+same	Eng	O/ORG	49.13	34.36	-0.8	48.330000000000005
+right	Eng	O/ORG	61.96	14.85	-0.8	61.160000000000004
+?	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

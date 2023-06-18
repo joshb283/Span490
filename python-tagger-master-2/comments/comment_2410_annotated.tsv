@@ -1,0 +1,24 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+there	Eng	O	70.66	28.64	-0.8	69.86
+aint	Eng	O	32.75	8.21	-0.8	31.95
+an	Eng	O	41.88	24.48	-0.8	41.080000000000005
+exuse	Eng	O	26.81	22.67	-0.8	26.009999999999998
+for	Eng	O	47.94	28.79	-0.8	47.14
+it	Eng	O/ORG	50.11	11.76	-0.8	49.31
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+taught	Eng	O/ORG	52.2	9.48	-0.8	51.400000000000006
+MYSELF	Eng	O/ORG	49.99	2.86	-0.8	49.190000000000005
+spanush	Eng	O	24.87	0.9	-0.8	24.07
+entirely	Eng	O	44.18	26.11	-0.8	43.38
+from	Eng	O	48.14	12.52	-0.8	47.34
+listening	Eng	O	64.2	22.81	-0.8	63.400000000000006
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+reggaetón	Spn	O	9.82	22.16	-2.38	19.78
+y	Spn	O	21.5	34.41	-1.01	33.4
+ya	Spn	O	14.29	38.05	-1.01	37.04
+💀	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

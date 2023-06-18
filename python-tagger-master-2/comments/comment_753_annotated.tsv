@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+yourgfcallsmedaddyy	Eng	O	14.04	-8.35	-0.8	13.239999999999998
+This	Eng	O/ORG	59.86	22.07	-0.8	59.06
+song	Eng	O/ORG	42.41	20.88	-0.8	41.61
+hit	Eng	O/ORG	38.88	12.62	-0.8	38.080000000000005
+diff	Eng	O/ORG	34.84	19.22	-0.8	34.040000000000006
+at	Eng	O/ORG	43.35	13.78	-0.8	42.550000000000004
+night	Eng	O/ORG	53.59	17.21	-0.8	52.790000000000006
+💃	Punct	O	N/A	N/A	N/A	N/A
+💃	Punct	O	N/A	N/A	N/A	N/A
+💃	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

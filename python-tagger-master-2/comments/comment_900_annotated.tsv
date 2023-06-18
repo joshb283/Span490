@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Odio	Spn	PERSON/O	18.13	32.07	-2.38	29.69
+is	Eng	O	44.66	21.08	-2.38	42.279999999999994
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+very	Eng	O/ORG	48.4	29.89	-0.8	47.6
+strong	Eng	O/ORG	48.65	8.33	-0.8	47.85
+word	Eng	O/ORG	43.09	7.0	-0.8	42.290000000000006
+for	Eng	O/ORG	47.94	28.79	-0.8	47.14
+Spanish	Eng	O/ORG	39.06	8.16	-0.8	38.260000000000005
+moms	Eng	O/ORG	30.98	21.56	-0.8	30.18
+🥺	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

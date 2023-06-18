@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+She	Eng	O/ORG	47.98	20.49	-0.8	47.18
+talking	Eng	O/ORG	67.5	20.92	-0.8	66.7
+facts	Eng	O/ORG	41.21	16.69	-0.8	40.410000000000004
+tho	Eng	O	34.23	18.58	-0.8	33.43
+lmao	Spn	O	6.5	12.41	-2.38	10.030000000000001
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

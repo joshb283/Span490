@@ -1,0 +1,26 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+just	Eng	O/ORG	56.89	16.33	-0.8	56.09
+got	Eng	O/ORG	48.21	15.31	-0.8	47.410000000000004
+back	Eng	O/ORG	45.64	16.76	-0.8	44.84
+from	Eng	O/ORG	48.14	12.52	-0.8	47.34
+PR	Eng	O/ORG	16.62	14.57	-0.8	15.82
+from	Eng	O	48.14	12.52	-0.8	47.34
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+week	Eng	O	43.43	1.74	-0.8	42.63
+of	Eng	O	45.37	12.91	-0.8	44.57
+visiting	Eng	O	51.39	22.1	-0.8	50.59
+family	Eng	O	54.07	30.22	-0.8	53.27
+and	Eng	O	58.08	26.56	-0.8	57.28
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+entires	Spn	O	43.59	47.24	-2.38	44.86
+girl	Eng	O	32.89	8.72	-2.38	30.51
+swears	Eng	O	41.69	7.24	-0.8	40.89
+I	Eng	O/OTROS	42.31	11.38	-0.8	41.510000000000005
+have	Eng	O	60.11	28.54	-0.8	59.31
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+accent	Eng	O	46.76	13.52	-0.8	45.96
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

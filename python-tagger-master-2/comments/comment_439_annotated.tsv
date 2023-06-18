@@ -1,0 +1,23 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+cuando	Spn	O	20.56	60.78	-2.38	58.4
+dices	Spn	O	33.69	51.53	-1.01	50.52
+baby	Eng	O	36.55	20.71	-2.38	34.169999999999995
+me	Spn	O	41.15	43.0	-2.38	40.62
+encanta	Spn	O	19.72	55.22	-1.01	54.21
+!	Punct	O	N/A	N/A	N/A	N/A
+!	Punct	O	N/A	N/A	N/A	N/A
+!	Punct	O	N/A	N/A	N/A	N/A
+hablas	Spn	O	28.76	54.33	-1.01	53.32
+pura	Spn	O	21.54	40.15	-1.01	39.14
+la	Spn	O	18.68	44.74	-1.01	43.730000000000004
+vaquita	Spn	O	10.67	41.76	-1.01	40.75
+de	Spn	O	26.21	47.06	-1.01	46.050000000000004
+cartoons	Eng	O	45.97	22.58	-2.38	43.589999999999996
+😅	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

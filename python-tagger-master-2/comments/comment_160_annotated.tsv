@@ -1,0 +1,21 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+im	Eng	O	20.85	11.84	-0.8	20.05
+sorry	Eng	O	46.41	23.72	-0.8	45.61
+what	Eng	O/ORG	61.03	9.63	-0.8	60.230000000000004
+-	Punct	O	N/A	N/A	N/A	N/A
+😀	Punct	O	N/A	N/A	N/A	N/A
+ok	Eng	O	20.48	9.02	-0.8	19.68
+and	Eng	O	58.08	26.56	-0.8	57.28
+may	Eng	O	41.11	24.07	-0.8	40.31
+la	Spn	O	18.68	44.74	-2.38	42.36
+llorona	Spn	O	16.25	41.67	-1.01	40.660000000000004
+hide	Eng	O	34.94	27.64	-2.38	32.559999999999995
+in	Eng	O	45.41	25.29	-0.8	44.61
+your	Eng	O	56.33	24.2	-0.8	55.53
+closet	Eng	O/ORG	44.17	21.78	-0.8	43.370000000000005
+tonight	Eng	O/ORG	58.52	16.5	-0.8	57.720000000000006
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Clarooo	Spn	O	18.08	25.66	-2.38	23.28
+que	Spn	O	26.46	56.13	-1.01	55.120000000000005
+si	Spn	O	14.77	35.22	-1.01	34.21
+pero	Spn	O	24.95	52.4	-1.01	51.39
+i	Eng	O	42.31	11.38	-2.38	39.93
+am	Eng	O/OTROS	30.77	12.36	-0.8	29.97
+gonna	Eng	O	42.51	19.51	-0.8	41.71
+teach	Eng	O	49.19	17.71	-0.8	48.39
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+kids	Eng	O	46.98	8.94	-0.8	46.18
+español	Spn	O	15.21	43.56	-2.38	41.18
+before	Eng	O	59.48	17.29	-2.38	57.099999999999994
+inglés	Spn	O	12.48	35.98	-2.38	33.599999999999994
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

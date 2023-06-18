@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+W	Eng	O	15.8	-2.58	-0.8	15.0
+jersey	Eng	O	23.71	13.9	-0.8	22.91
+of	Eng	O	45.37	12.91	-0.8	44.57
+club	Eng	O	25.43	19.3	-0.8	24.63
+America	Spn	LOCATION/ORG	31.41	43.48	-2.38	41.099999999999994
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

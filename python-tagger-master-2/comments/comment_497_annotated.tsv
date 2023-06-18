@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Hola	Spn	O	22.77	35.15	-2.38	32.769999999999996
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+me	Spn	O	41.15	43.0	-1.01	41.99
+gusta	Spn	O	15.36	49.99	-1.01	48.980000000000004
+sus	Spn	O	28.54	40.34	-1.01	39.330000000000005
+videos	Spn	O	31.93	32.57	-1.01	31.56
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

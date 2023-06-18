@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+on	Eng	O	43.01	23.0	-0.8	42.21
+.	Punct	O	N/A	N/A	N/A	N/A
+u	Spn	O	15.23	13.34	-2.38	10.96
+.	Punct	O	N/A	N/A	N/A	N/A
+x	Spn	O	1.09	4.83	-1.01	3.8200000000000003
+coshiname	Spn	O	30.72	31.69	-1.01	30.68
+🥺	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

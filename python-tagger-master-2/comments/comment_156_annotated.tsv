@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+he	Eng	O	44.49	34.18	-0.8	43.690000000000005
+gonna	Eng	O	42.51	19.51	-0.8	41.71
+find	Eng	O	48.68	16.97	-0.8	47.88
+gold	Eng	O	39.68	18.13	-0.8	38.88
+😳	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

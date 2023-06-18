@@ -1,0 +1,21 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Mana	Spn	O	32.63	42.49	-2.38	40.11
+tu	Spn	O	14.03	32.67	-1.01	31.66
+novio	Spn	O	19.06	42.63	-1.01	41.620000000000005
+no	Spn	O	39.04	44.89	-1.01	43.88
+tendrá	Spn	O	9.36	44.52	-1.01	43.510000000000005
+un	Spn	O	21.77	40.51	-1.01	39.5
+hermano	Spn	O	34.16	57.22	-1.01	56.21
+para	Spn	O	27.32	53.43	-1.01	52.42
+que	Spn	O	26.46	56.13	-1.01	55.120000000000005
+me	Spn	O	41.15	43.0	-1.01	41.99
+lo	Spn	O	19.44	42.92	-1.01	41.910000000000004
+presentes	Spn	O	47.55	63.95	-1.01	62.940000000000005
+?	Punct	O	N/A	N/A	N/A	N/A
+😔	Punct	O	N/A	N/A	N/A	N/A
+🤭	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

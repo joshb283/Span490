@@ -1,0 +1,25 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+His	Eng	O	44.36	27.21	-0.8	43.56
+confidence	Eng	O	52.65	46.41	-0.8	51.85
+“	Punct	O	N/A	N/A	N/A	N/A
+translating	Eng	O	60.52	20.49	-0.8	59.720000000000006
+”	Punct	O	N/A	N/A	N/A	N/A
+everything	Eng	O	85.75	6.69	-0.8	84.95
+!	Punct	O	N/A	N/A	N/A	N/A
+😩	Punct	O	N/A	N/A	N/A	N/A
+🤣	Punct	O	N/A	N/A	N/A	N/A
+he	Eng	O	44.49	34.18	-0.8	43.690000000000005
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+trying	Eng	O/ORG	62.95	14.11	-0.8	62.150000000000006
+well	Eng	O/ORG	57.6	13.82	-0.8	56.800000000000004
+give	Eng	O/ORG	46.96	21.81	-0.8	46.160000000000004
+him	Eng	O/ORG	39.42	13.41	-0.8	38.620000000000005
+that	Eng	O/ORG	68.72	14.42	-0.8	67.92
+credit	Eng	O/ORG	51.05	16.91	-0.8	50.25
+!	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

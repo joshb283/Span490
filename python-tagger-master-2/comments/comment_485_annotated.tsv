@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Nadie	Spn	O	18.74	46.92	-2.38	44.54
+va	Spn	O	12.73	37.22	-1.01	36.21
+a	Spn	O	39.06	38.09	-1.01	37.080000000000005
+decir	Spn	O	27.58	50.48	-1.01	49.47
+lo	Spn	O	19.44	42.92	-1.01	41.910000000000004
+hermoso	Spn	O	24.48	48.9	-1.01	47.89
+que	Spn	O	26.46	56.13	-1.01	55.120000000000005
+tiene	Spn	O	28.36	54.69	-1.01	53.68
+el	Spn	O	19.84	42.02	-1.01	41.010000000000005
+cabello	Spn	O	21.56	47.62	-1.01	46.61
+✨	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

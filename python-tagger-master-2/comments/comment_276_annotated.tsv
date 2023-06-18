@@ -1,0 +1,10 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+lmao	Spn	O	6.5	12.41	-2.38	10.030000000000001
+I	Eng	O/ORG	42.31	11.38	-2.38	39.93
+love	Eng	O/ORG	45.41	24.46	-0.8	44.61
+Mexicans	Eng	O/ORG	36.59	33.4	-0.8	35.790000000000006
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

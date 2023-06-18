@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Great	Eng	O/PERS	52.71	11.67	-0.8	51.910000000000004
+👍	Punct	O	N/A	N/A	N/A	N/A
+🏻	Punct	O	N/A	N/A	N/A	N/A
+Job	Eng	O/PERS	30.38	4.97	-0.8	29.58
+Lupita	Spn	PERSON/PERS	13.0	35.96	-2.38	33.58
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+whose	Eng	O	51.29	16.27	-0.8	50.49
+the	Eng	O	60.83	27.05	-0.8	60.03
+cutie	Eng	O	25.81	21.73	-0.8	25.009999999999998
+on	Eng	O	43.01	23.0	-0.8	42.21
+your	Eng	O	56.33	24.2	-0.8	55.53
+pfp	Eng	O	3.52	-0.41	-0.8	2.7199999999999998
+?	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

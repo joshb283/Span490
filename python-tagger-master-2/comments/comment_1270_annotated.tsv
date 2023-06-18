@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+And	Eng	O	58.08	26.56	-0.8	57.28
+then	Eng	O	60.65	23.75	-0.8	59.85
+all	Eng	O	47.74	25.64	-0.8	46.940000000000005
+the	Eng	O	60.83	27.05	-0.8	60.03
+Mexican	Spn	O/PERS	37.7	44.86	-2.38	42.48
+moms	Eng	O	30.98	21.56	-2.38	28.6
+:	Punct	O	N/A	N/A	N/A	N/A
+“	Punct	O	N/A	N/A	N/A	N/A
+esta	Spn	O	22.4	52.76	-2.38	50.379999999999995
+bien	Spn	O	22.54	48.79	-1.01	47.78
+guapo	Spn	O	14.01	33.69	-1.01	32.68
+”	Punct	O	N/A	N/A	N/A	N/A
+💀	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

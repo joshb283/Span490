@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Jajaja	Spn	O	6.45	15.99	-2.38	13.61
+😂	Punct	O	N/A	N/A	N/A	N/A
+Con	Spn	O	33.09	47.17	-1.01	46.160000000000004
+ese	Spn	O	27.34	45.79	-1.01	44.78
+entrenador	Spn	O	20.62	58.5	-1.01	57.49
+ya	Spn	O	14.29	38.05	-1.01	37.04
+no	Spn	O	39.04	44.89	-1.01	43.88
+necesito	Spn	O	30.85	58.48	-1.01	57.47
+un	Spn	O	21.77	40.51	-1.01	39.5
+gym	Eng	O	15.92	-0.96	-2.38	13.54
+😳	Punct	O	N/A	N/A	N/A	N/A
+😁	Punct	O	N/A	N/A	N/A	N/A
+😁	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

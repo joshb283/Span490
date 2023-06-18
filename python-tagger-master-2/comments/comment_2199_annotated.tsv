@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+“	Punct	O	N/A	N/A	N/A	N/A
+WHAT	Eng	O/ORG	61.03	9.63	-0.8	60.230000000000004
+?	Punct	O	N/A	N/A	N/A	N/A
+”	Punct	O	N/A	N/A	N/A	N/A
+😭	Punct	O	N/A	N/A	N/A	N/A
+😭	Punct	O	N/A	N/A	N/A	N/A
+🤣	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

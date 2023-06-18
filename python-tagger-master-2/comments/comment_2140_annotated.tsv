@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+emphasis	Eng	O	36.9	23.0	-0.8	36.1
+on	Eng	O	43.01	23.0	-0.8	42.21
+the	Eng	O	60.83	27.05	-0.8	60.03
+“	Punct	O	N/A	N/A	N/A	N/A
+tu	Spn	O	14.03	32.67	-2.38	30.290000000000003
+”	Punct	O	N/A	N/A	N/A	N/A
+😭	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

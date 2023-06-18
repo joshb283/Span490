@@ -1,0 +1,24 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+-	Punct	O	N/A	N/A	N/A	N/A
+Tú	Spn	O	-1.29	33.59	-2.38	31.210000000000004
+eres	Spn	O	22.46	48.76	-1.01	47.75
+mi	Spn	O	18.08	38.03	-1.01	37.02
+novio	Spn	O	19.06	42.63	-1.01	41.620000000000005
+favorita	Spn	O	35.23	57.36	-1.01	56.35
+.	Punct	O	N/A	N/A	N/A	N/A
+😊	Punct	O	N/A	N/A	N/A	N/A
+-	Punct	O	N/A	N/A	N/A	N/A
+¿	Punct	O	N/A	N/A	N/A	N/A
+Qué	Spn	O	-0.63	47.68	-1.01	46.67
+?	Punct	O	N/A	N/A	N/A	N/A
+¿	Punct	O	N/A	N/A	N/A	N/A
+Cuántas	Spn	O	17.55	51.09	-1.01	50.080000000000005
+novias	Spn	O	24.85	43.78	-1.01	42.77
+tienes	Spn	O	31.78	61.15	-1.01	60.14
+?	Punct	O	N/A	N/A	N/A	N/A
+😟	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

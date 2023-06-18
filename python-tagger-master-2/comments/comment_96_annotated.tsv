@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+ms	Eng	O	15.74	11.63	-0.8	14.94
+.	Punct	O	N/A	N/A	N/A	N/A
+chancla	Spn	O	26.23	35.04	-2.38	32.66
+@	Punct	O	N/A	N/A	N/A	N/A
+llen1010	Spn	O	-3.35	15.82	-1.01	14.81
+Leni	Spn	PERSON/PERS	19.61	21.74	-1.01	20.729999999999997
+in	Eng	O	45.41	25.29	-2.38	43.029999999999994
+the	Eng	O	60.83	27.05	-0.8	60.03
+future	Eng	O	46.66	32.14	-0.8	45.86
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Who	Eng	O	43.84	15.11	-0.8	43.040000000000006
+else	Eng	O	44.21	24.26	-0.8	43.410000000000004
+feels	Eng	O	41.58	10.74	-0.8	40.78
+✨	Punct	O	N/A	N/A	N/A	N/A
+Embarasado	Spn	O	18.69	48.63	-2.38	46.25
+✨	Punct	O	N/A	N/A	N/A	N/A
+?	Punct	O	N/A	N/A	N/A	N/A
+🫃	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

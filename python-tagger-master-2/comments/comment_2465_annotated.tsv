@@ -1,0 +1,22 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+i	Eng	O	42.31	11.38	-0.8	41.510000000000005
+can	Eng	O	46.96	33.02	-0.8	46.160000000000004
+perfectly	Eng	O	53.49	32.03	-0.8	52.690000000000005
+say	Eng	O	43.93	22.05	-0.8	43.13
+this	Eng	O	59.86	22.07	-0.8	59.06
+but	Eng	O/ORG	51.93	13.76	-0.8	51.13
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+can	Eng	O	46.96	33.02	-0.8	46.160000000000004
+'	Punct	O	N/A	N/A	N/A	N/A
+t	Eng	O	40.21	10.87	-0.8	39.410000000000004
+roll	Eng	O	34.39	17.78	-0.8	33.59
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+r	Eng	O	12.78	8.87	-0.8	11.979999999999999
+'	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+💀	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

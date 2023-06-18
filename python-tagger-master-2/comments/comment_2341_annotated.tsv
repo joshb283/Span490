@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+jaja	Spn	O	9.66	19.2	-2.38	16.82
+she	Eng	O	47.98	20.49	-2.38	45.599999999999994
+'	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O/ORG	40.13	19.22	-0.8	39.330000000000005
+so	Eng	O/ORG	43.57	28.06	-0.8	42.77
+sweet	Eng	O/ORG	37.03	9.39	-0.8	36.230000000000004
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

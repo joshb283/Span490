@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+luis_rodriguez57	Spn	O	-16.74	-10.24	-2.38	-12.620000000000001
+this	Eng	O	59.86	22.07	-2.38	57.48
+will	Eng	O	48.96	7.58	-0.8	48.160000000000004
+be	Eng	O	42.62	20.92	-0.8	41.82
+us	Eng	O	36.11	21.64	-0.8	35.31
+in	Eng	O	45.41	25.29	-0.8	44.61
+the	Eng	O	60.83	27.05	-0.8	60.03
+future	Eng	O	46.66	32.14	-0.8	45.86
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

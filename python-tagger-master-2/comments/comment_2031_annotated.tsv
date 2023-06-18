@@ -1,0 +1,18 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+What	Eng	O/PERS	61.03	9.63	-0.8	60.230000000000004
+in	Eng	O	45.41	25.29	-0.8	44.61
+the	Eng	O	60.83	27.05	-0.8	60.03
+Jenny	Eng	PERSON/PERS	22.64	13.27	-0.8	21.84
+69	Num	O	N/A	N/A	N/A	N/A
+Lluvia	Spn	ORGANIZATION/O	14.94	33.83	-2.38	31.45
+arambula	Spn	O	13.67	32.24	-1.01	31.23
+Chalino	Spn	ORGANIZATION/PERS	25.41	35.93	-1.01	34.92
+sandwich	Eng	O	30.46	25.48	-2.38	28.080000000000002
+is	Eng	O	44.66	21.08	-0.8	43.86
+this	Eng	O	59.86	22.07	-0.8	59.06
+?	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

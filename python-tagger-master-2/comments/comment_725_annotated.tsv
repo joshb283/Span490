@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+ill	Eng	O	32.52	12.96	-0.8	31.720000000000002
+do	Eng	O	42.25	32.38	-0.8	41.45
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+nice	Eng	O	46.93	28.57	-0.8	46.13
+post	Eng	O	38.2	18.87	-0.8	37.400000000000006
+tomorrow	Eng	O	44.65	15.97	-0.8	43.85
+today	Eng	O	49.9	34.28	-0.8	49.1
+is	Eng	O	44.66	21.08	-0.8	43.86
+going	Eng	O	62.31	13.65	-0.8	61.510000000000005
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+be	Eng	O	42.62	20.92	-0.8	41.82
+mean	Eng	O	52.3	29.01	-0.8	51.5
+mexican	Spn	O	37.7	44.86	-2.38	42.48
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

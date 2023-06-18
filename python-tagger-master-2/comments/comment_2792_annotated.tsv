@@ -1,0 +1,24 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Me	Spn	O	41.15	43.0	-2.38	40.62
+after	Eng	O/ORG	50.9	25.22	-2.38	48.519999999999996
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+’	Punct	O	N/A	N/A	N/A	N/A
+m	Eng	O/ORG	33.66	10.74	-0.8	32.86
+done	Eng	O/ORG	52.42	36.12	-0.8	51.620000000000005
+winning	Eng	O/ORG	55.26	4.01	-0.8	54.46
+the	Eng	O/ORG	60.83	27.05	-0.8	60.03
+battle	Eng	O/ORG	45.55	25.95	-0.8	44.75
+Royale	Eng	ORGANIZATION/ORG	24.3	22.8	-0.8	23.5
+that	Eng	O/ORG	68.72	14.42	-0.8	67.92
+goes	Eng	O/ORG	46.5	20.33	-0.8	45.7
+on	Eng	O	43.01	23.0	-0.8	42.21
+In	Eng	O/ORG	45.41	25.29	-0.8	44.61
+There	Eng	O/ORG	70.66	28.64	-0.8	69.86
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

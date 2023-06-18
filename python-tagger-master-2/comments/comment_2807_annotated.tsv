@@ -1,0 +1,10 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+chivas	Spn	O	25.41	40.65	-2.38	38.269999999999996
+or	Eng	O	41.56	23.53	-2.38	39.18
+America	Spn	LOCATION/LUG	31.41	43.48	-2.38	41.099999999999994
+?	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

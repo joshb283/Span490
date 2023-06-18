@@ -1,0 +1,22 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+“	Punct	O	N/A	N/A	N/A	N/A
+PERO	Spn	O	24.95	52.4	-2.38	50.019999999999996
+SI	Spn	O	14.77	35.22	-1.01	34.21
+TENIA	Spn	O	28.1	35.9	-1.01	34.89
+MAA	Spn	O	12.95	15.44	-1.01	14.43
+”	Punct	O	N/A	N/A	N/A	N/A
+is	Eng	O	44.66	21.08	-2.38	42.279999999999994
+such	Eng	O	44.72	19.98	-0.8	43.92
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+pasia	Spn	O/ORG	23.75	35.29	-2.38	32.91
+thing	Eng	O/ORG	69.37	13.97	-2.38	66.99000000000001
+to	Eng	O/ORG	48.13	29.93	-0.8	47.330000000000005
+say	Eng	O/ORG	43.93	22.05	-0.8	43.13
+bc	Eng	O/ORG	4.51	0.41	-0.8	3.71
+same	Eng	O/ORG	49.13	34.36	-0.8	48.330000000000005
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

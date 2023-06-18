@@ -1,0 +1,25 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Latinos	Spn	O	23.27	42.82	-2.38	40.44
+-	Punct	O	N/A	N/A	N/A	N/A
+we	Eng	O	46.45	7.69	-2.38	44.07
+come	Eng	O	51.52	43.99	-0.8	50.720000000000006
+in	Eng	O	45.41	25.29	-0.8	44.61
+different	Eng	O	72.44	17.22	-0.8	71.64
+shapes	Eng	O	40.28	21.46	-0.8	39.480000000000004
+colors	Eng	O	45.54	27.44	-0.8	44.74
+and	Eng	O	58.08	26.56	-0.8	57.28
+sizes	Eng	O	36.25	21.58	-0.8	35.45
+…	Punct	O	N/A	N/A	N/A	N/A
+that	Eng	O	68.72	14.42	-0.8	67.92
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+what	Eng	O/ORG	61.03	9.63	-0.8	60.230000000000004
+makes	Eng	O/ORG	51.89	22.04	-0.8	51.09
+us	Eng	O/ORG	36.11	21.64	-0.8	35.31
+beautiful	Eng	O/ORG	51.42	11.64	-0.8	50.620000000000005
+😜	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

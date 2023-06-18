@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+You	Eng	O	56.67	25.36	-0.8	55.870000000000005
+should	Eng	O	60.82	10.2	-0.8	60.02
+go	Eng	O	39.77	24.21	-0.8	38.970000000000006
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+Oaxaca	Spn	LOCATION/ORG	9.28	16.16	-2.38	13.780000000000001
+😅	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

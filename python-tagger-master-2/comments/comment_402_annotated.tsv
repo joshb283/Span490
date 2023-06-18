@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+"	Punct	O	N/A	N/A	N/A	N/A
+jajajaja	Spn	O	7.83	17.37	-2.38	14.990000000000002
+amo	Spn	O	19.42	35.54	-1.01	34.53
+cuando	Spn	O	20.56	60.78	-1.01	59.77
+dice	Spn	O	31.36	46.48	-1.01	45.47
+"	Punct	O	N/A	N/A	N/A	N/A
+"	Punct	O	N/A	N/A	N/A	N/A
+No	Spn	O	39.04	44.89	-1.01	43.88
+"	Punct	O	N/A	N/A	N/A	N/A
+"	Punct	O	N/A	N/A	N/A	N/A
+"	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

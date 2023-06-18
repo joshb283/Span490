@@ -1,0 +1,18 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+speak	Eng	O/ORG	38.44	9.07	-0.8	37.64
+Spanish	Eng	O/ORG	39.06	8.16	-0.8	38.260000000000005
+but	Eng	O/ORG	51.93	13.76	-0.8	51.13
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+would	Eng	O/ORG	61.19	3.84	-0.8	60.39
+have	Eng	O	60.11	28.54	-0.8	59.31
+no	Spn	O	39.04	44.89	-2.38	42.51
+idea	Eng	O	39.47	34.63	-2.38	37.089999999999996
+what	Eng	O/ORG	61.03	9.63	-0.8	60.230000000000004
+that	Eng	O/ORG	68.72	14.42	-0.8	67.92
+was	Eng	O	51.72	16.52	-0.8	50.92
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

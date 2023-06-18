@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+vanesssa	Spn	O	9.14	19.72	-2.38	17.34
+.	Punct	O	N/A	N/A	N/A	N/A
+777	Num	O	N/A	N/A	N/A	N/A
+you	Eng	O	56.67	25.36	-2.38	54.29
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

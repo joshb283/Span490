@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+You	Eng	O	56.67	25.36	-0.8	55.870000000000005
+should	Eng	O	60.82	10.2	-0.8	60.02
+do	Eng	O	42.25	32.38	-0.8	41.45
+how	Eng	O/ORG	45.28	13.44	-0.8	44.480000000000004
+do	Eng	O/ORG	42.25	32.38	-0.8	41.45
+you	Eng	O/ORG	56.67	25.36	-0.8	55.870000000000005
+say	Eng	O/ORG	43.93	22.05	-0.8	43.13
+seashell	Eng	O/ORG	37.86	22.72	-0.8	37.06
+in	Eng	O/ORG	45.41	25.29	-0.8	44.61
+Spanish	Eng	O/ORG	39.06	8.16	-0.8	38.260000000000005
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

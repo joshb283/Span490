@@ -1,0 +1,10 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+TELL	Eng	O/PERS	49.1	23.35	-0.8	48.300000000000004
+THEM	Eng	O/PERS	58.74	12.49	-0.8	57.940000000000005
+LIKE	Eng	O/PERS	57.49	21.32	-0.8	56.690000000000005
+HELLLOOOO	Eng	LOCATION/PERS	21.48	10.81	-0.8	20.68
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

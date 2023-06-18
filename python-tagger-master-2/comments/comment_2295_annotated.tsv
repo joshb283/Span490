@@ -1,0 +1,24 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+dygxffy9mog8	Eng	O	-14.51	-14.41	-0.8	-15.31
+same	Eng	O	49.13	34.36	-0.8	48.330000000000005
+for	Eng	O	47.94	28.79	-0.8	47.14
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+uncles	Eng	O	36.44	30.14	-0.8	35.64
+and	Eng	O	58.08	26.56	-0.8	57.28
+aunties	Eng	O	38.2	23.31	-0.8	37.400000000000006
+and	Eng	O	58.08	26.56	-0.8	57.28
+cousins	Eng	O	42.33	14.65	-0.8	41.53
+but	Eng	O	51.93	13.76	-0.8	51.13
+be	Eng	O	42.62	20.92	-0.8	41.82
+careful	Eng	O	46.0	17.87	-0.8	45.2
+with	Eng	O	54.27	4.16	-0.8	53.470000000000006
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+older	Eng	O	46.57	21.56	-0.8	45.77
+cousins	Eng	O	42.33	14.65	-0.8	41.53
+tho	Eng	O	34.23	18.58	-0.8	33.43
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

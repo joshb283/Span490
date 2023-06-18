@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Que	Spn	O	26.46	56.13	-2.38	53.75
+edad	Spn	O	21.88	36.34	-1.01	35.330000000000005
+tienen	Spn	O	22.79	56.11	-1.01	55.1
+tus	Spn	O	24.81	37.48	-1.01	36.47
+estudiantes	Spn	O	17.12	67.02	-1.01	66.00999999999999
+?	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

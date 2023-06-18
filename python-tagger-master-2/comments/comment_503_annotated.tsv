@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+una	Spn	O	21.97	46.98	-2.38	44.599999999999994
+pregunta	Spn	O	21.08	59.41	-1.01	58.4
+en	Spn	O	25.45	42.54	-1.01	41.53
+que	Spn	O	26.46	56.13	-1.01	55.120000000000005
+país	Spn	O	11.5	35.95	-1.01	34.940000000000005
+vives	Spn	O	29.3	40.9	-1.01	39.89
+?	Punct	O	N/A	N/A	N/A	N/A
+🥺	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

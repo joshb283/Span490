@@ -1,0 +1,24 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Lol	Eng	O	19.76	18.87	-0.8	18.96
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+swear	Eng	O/ORG	37.84	18.66	-0.8	37.040000000000006
+he	Eng	O/ORG	44.49	34.18	-0.8	43.690000000000005
+knows	Eng	O/ORG	51.69	3.21	-0.8	50.89
+all	Eng	O/ORG	47.74	25.64	-0.8	46.940000000000005
+of	Eng	O/ORG	45.37	12.91	-0.8	44.57
+these	Eng	O/ORG	62.33	30.24	-0.8	61.53
+he	Eng	O	44.49	34.18	-0.8	43.690000000000005
+'	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+just	Eng	O/ORG	56.89	16.33	-0.8	56.09
+being	Eng	O/ORG	56.06	12.46	-0.8	55.260000000000005
+funny	Eng	O/ORG	44.71	19.74	-0.8	43.910000000000004
+.	Punct	O	N/A	N/A	N/A	N/A
+His	Eng	O	44.36	27.21	-0.8	43.56
+confidence	Eng	O	52.65	46.41	-0.8	51.85
+🤣	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

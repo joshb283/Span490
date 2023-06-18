@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+WANNA	Eng	O/ORG	40.82	13.66	-0.8	40.02
+KNOW	Eng	O/ORG	60.3	6.12	-0.8	59.5
+WHO	Eng	O/ORG	43.84	15.11	-0.8	43.040000000000006
+F	Eng	O/ORG	12.24	4.64	-0.8	11.44
+HER	Eng	O/ORG	46.52	29.04	-0.8	45.720000000000006
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

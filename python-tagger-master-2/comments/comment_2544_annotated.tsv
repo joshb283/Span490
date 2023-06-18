@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+osama_5	Spn	O	-10.1	-2.87	-2.38	-5.25
+.	Punct	O	N/A	N/A	N/A	N/A
+56	Num	O	N/A	N/A	N/A	N/A
+she	Eng	O	47.98	20.49	-2.38	45.599999999999994
+eating	Eng	O	51.48	8.27	-0.8	50.68
+tacos	Spn	O	26.79	37.26	-2.38	34.879999999999995
+de	Spn	O	26.21	47.06	-1.01	46.050000000000004
+cilantro	Spn	O	8.99	31.4	-1.01	30.389999999999997
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

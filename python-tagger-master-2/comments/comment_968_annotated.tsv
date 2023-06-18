@@ -1,0 +1,24 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+That	Eng	O/PERS	68.72	14.42	-0.8	67.92
+was	Eng	O	51.72	16.52	-0.8	50.92
+100	Num	O	N/A	N/A	N/A	N/A
+percent	Eng	O	56.27	18.69	-0.8	55.470000000000006
+correct	Eng	O	45.0	28.86	-0.8	44.2
+for	Eng	O	47.94	28.79	-0.8	47.14
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+no	Spn	O	39.04	44.89	-2.38	42.51
+sabo	Spn	O	16.37	33.68	-1.01	32.67
+kid	Eng	O	38.19	9.68	-2.38	35.809999999999995
+well	Eng	O	57.6	13.82	-0.8	56.800000000000004
+done	Eng	O	52.42	36.12	-0.8	51.620000000000005
+🎉	Punct	O	N/A	N/A	N/A	N/A
+🎉	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+🤦	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

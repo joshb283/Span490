@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Those	Eng	O	61.75	22.81	-0.8	60.95
+are	Eng	O	50.46	30.0	-0.8	49.660000000000004
+both	Eng	O	43.29	14.68	-0.8	42.49
+US	Eng	LOCATION/ORG	36.11	21.64	-0.8	35.31
+brands	Eng	O/ORG	40.94	18.37	-0.8	40.14
+so	Eng	O/ORG	43.57	28.06	-0.8	42.77
+it	Eng	O/ORG	50.11	11.76	-0.8	49.31
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+in	Eng	O	45.41	25.29	-0.8	44.61
+English	Eng	O/OTROS	35.81	18.35	-0.8	35.010000000000005
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

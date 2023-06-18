@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+duulcesitaa	Spn	O	-0.87	12.59	-2.38	10.21
+I	Eng	O	42.31	11.38	-2.38	39.93
+added	Eng	O	38.19	14.5	-0.8	37.39
+this	Eng	O	59.86	22.07	-0.8	59.06
+song	Eng	O	42.41	20.88	-0.8	41.61
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+your	Eng	O	56.33	24.2	-0.8	55.53
+playlist	Eng	O	35.74	12.0	-0.8	34.940000000000005
+☺	Punct	O	N/A	N/A	N/A	N/A
+️	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

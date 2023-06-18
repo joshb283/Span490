@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+But	Eng	O/ORG	51.93	13.76	-0.8	51.13
+the	Eng	O/ORG	60.83	27.05	-0.8	60.03
+Caprisun	Spn	PERSON/ORG	19.63	25.71	-2.38	23.330000000000002
+hits	Eng	O/ORG	36.74	17.27	-2.38	34.36
+different	Eng	O/ORG	72.44	17.22	-0.8	71.64
+like	Eng	O/ORG	57.49	21.32	-0.8	56.690000000000005
+😌	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

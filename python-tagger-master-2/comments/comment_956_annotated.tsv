@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+lani	Spn	O	18.72	23.09	-2.38	20.71
+.	Punct	O	N/A	N/A	N/A	N/A
+hairstyles	Eng	O	37.7	20.92	-2.38	35.32
+@	Punct	O	N/A	N/A	N/A	N/A
+nayna	Spn	O	12.97	20.04	-2.38	17.66
+.	Punct	O	N/A	N/A	N/A	N/A
+love	Eng	O	45.41	24.46	-2.38	43.029999999999994
+oof	Eng	O	22.13	1.56	-0.8	21.33
+🤣	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

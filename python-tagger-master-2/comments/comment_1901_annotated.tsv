@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+dad	Eng	O	35.2	30.34	-0.8	34.400000000000006
+heard	Eng	O	51.23	17.1	-0.8	50.43
+this	Eng	O	59.86	22.07	-0.8	59.06
+coming	Eng	O	57.8	32.31	-0.8	57.0
+from	Eng	O	48.14	12.52	-0.8	47.34
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+phone	Eng	O	45.13	16.3	-0.8	44.330000000000005
+.	Punct	O	N/A	N/A	N/A	N/A
+.	Punct	O	N/A	N/A	N/A	N/A
+.	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

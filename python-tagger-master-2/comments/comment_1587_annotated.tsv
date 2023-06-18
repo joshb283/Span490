@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+baby	Eng	O	36.55	20.71	-0.8	35.75
+goat	Eng	O/ORG	34.39	7.86	-0.8	33.59
+=	Punct	O	N/A	N/A	N/A	N/A
+badass	Eng	O	28.7	14.93	-0.8	27.9
+*	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

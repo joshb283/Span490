@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Never	Eng	O	54.2	28.98	-0.8	53.400000000000006
+seen	Eng	O	49.71	28.16	-0.8	48.910000000000004
+anyone	Eng	O	55.37	20.77	-0.8	54.57
+offended	Eng	O	51.99	14.11	-0.8	51.190000000000005
+by	Eng	O	35.52	13.53	-0.8	34.720000000000006
+that	Eng	O	68.72	14.42	-0.8	67.92
+before	Eng	O	59.48	17.29	-0.8	58.68
+tbh	Eng	O	8.12	2.1	-0.8	7.319999999999999
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

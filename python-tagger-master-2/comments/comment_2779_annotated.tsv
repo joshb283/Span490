@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+y	Spn	O	21.5	34.41	-2.38	32.029999999999994
+después	Spn	O	13.53	56.95	-1.01	55.940000000000005
+tratan	Spn	O	27.36	47.21	-1.01	46.2
+de	Spn	O	26.21	47.06	-1.01	46.050000000000004
+discutir	Spn	O	27.0	44.7	-1.01	43.690000000000005
+con	Spn	O	33.09	47.17	-1.01	46.160000000000004
+uno	Spn	O	20.93	43.43	-1.01	42.42
+y	Spn	O	21.5	34.41	-1.01	33.4
+sé	Spn	O	-2.55	33.09	-1.01	32.080000000000005
+ofenden	Spn	O	29.75	39.32	-1.01	38.31
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

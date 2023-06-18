@@ -1,0 +1,21 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+And	Eng	O	58.08	26.56	-0.8	57.28
+just	Eng	O	56.89	16.33	-0.8	56.09
+like	Eng	O	57.49	21.32	-0.8	56.690000000000005
+that	Eng	O	68.72	14.42	-0.8	67.92
+he	Eng	O	44.49	34.18	-0.8	43.690000000000005
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+turned	Eng	O	50.01	20.95	-0.8	49.21
+into	Eng	O	51.19	37.94	-0.8	50.39
+the	Eng	O	60.83	27.05	-0.8	60.03
+best	Eng	O	46.75	15.93	-0.8	45.95
+life	Eng	O	43.73	20.47	-0.8	42.93
+he	Eng	O	44.49	34.18	-0.8	43.690000000000005
+could	Eng	O	58.14	16.9	-0.8	57.34
+live	Eng	O	49.93	23.75	-0.8	49.13
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+yo	Spn	O	24.54	38.85	-2.38	36.47
+need	Eng	O	46.91	20.22	-2.38	44.529999999999994
+that	Eng	O/ORG	68.72	14.42	-0.8	67.92
+full	Eng	O/ORG	39.54	17.24	-0.8	38.74
+track	Eng	O/ORG	42.42	23.2	-0.8	41.620000000000005
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

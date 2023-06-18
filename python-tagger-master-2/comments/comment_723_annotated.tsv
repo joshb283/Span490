@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+no	Spn	O	39.04	44.89	-2.38	42.51
+pasta	Spn	O	29.38	47.57	-1.01	46.56
+no	Spn	O	39.04	44.89	-1.01	43.88
+voy	Spn	O	16.9	40.7	-1.01	39.690000000000005
+con	Spn	O	33.09	47.17	-1.01	46.160000000000004
+tú	Spn	O	-1.29	33.59	-1.01	32.580000000000005
+😁	Punct	O	N/A	N/A	N/A	N/A
+😁	Punct	O	N/A	N/A	N/A	N/A
+😁	Punct	O	N/A	N/A	N/A	N/A
+Bay	Eng	O/ORG	30.32	19.12	-2.38	27.94
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

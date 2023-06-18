@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+ruedeeee	Spn	O	12.25	14.39	-2.38	12.010000000000002
+💀	Punct	O	N/A	N/A	N/A	N/A
+eso	Spn	O	19.62	46.36	-1.01	45.35
+es	Spn	O	21.58	44.75	-1.01	43.74
+así	Spn	O	3.01	38.29	-1.01	37.28
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

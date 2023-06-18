@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+thought	Eng	O/ORG	72.78	5.82	-0.8	71.98
+you	Eng	O/ORG	56.67	25.36	-0.8	55.870000000000005
+were	Eng	O/ORG	57.76	17.06	-0.8	56.96
+Dominican	Eng	O/ORG	37.9	35.02	-0.8	37.1
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

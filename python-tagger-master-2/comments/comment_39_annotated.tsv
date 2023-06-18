@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+oh	Eng	O	42.22	16.44	-0.8	41.42
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+mompractice	Eng	O	40.73	33.72	-0.8	39.93
+Spanish	Eng	O/PERS	39.06	8.16	-0.8	38.260000000000005
+*	Punct	O	N/A	N/A	N/A	N/A
+me	Spn	O	41.15	43.0	-2.38	40.62
+like	Eng	O	57.49	21.32	-2.38	55.11
+*	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

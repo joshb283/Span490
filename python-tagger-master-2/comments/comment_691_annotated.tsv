@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+antu098	Spn	O	3.51	5.57	-2.38	3.1900000000000004
+mana	Spn	O	32.63	42.49	-1.01	41.480000000000004
+vamos	Spn	O	14.24	56.38	-1.01	55.370000000000005
+a	Spn	O	39.06	38.09	-1.01	37.080000000000005
+comer	Spn	O	42.25	47.36	-1.01	46.35
+helados	Spn	O	23.7	47.24	-1.01	46.230000000000004
+jajaja	Spn	O	6.45	15.99	-1.01	14.98
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+pobrecita	Spn	O	8.14	57.01	-2.38	54.629999999999995
+sufre	Spn	O	24.85	35.86	-1.01	34.85
+con	Spn	O	33.09	47.17	-1.01	46.160000000000004
+Jordan	Spn	LOCATION/ORG	22.45	24.73	-1.01	23.72
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Mi	Spn	O	18.08	38.03	-2.38	35.65
+hijo	Spn	O	12.97	45.05	-1.01	44.04
+también	Spn	O	10.16	58.67	-1.01	57.660000000000004
+nació	Spn	O	-2.82	35.41	-1.01	34.4
+en	Spn	O	25.45	42.54	-1.01	41.53
+California	Spn	LOCATION/LUG	47.87	46.55	-1.01	45.54
+y	Spn	O	21.5	34.41	-1.01	33.4
+habla	Spn	O	18.37	49.95	-1.01	48.940000000000005
+Perfecto	Spn	O	36.16	54.95	-1.01	53.940000000000005
+español	Spn	O	15.21	43.56	-1.01	42.550000000000004
+y	Spn	O	21.5	34.41	-1.01	33.4
+Perfecto	Spn	O	36.16	54.95	-1.01	53.940000000000005
+inglés	Spn	O	12.48	35.98	-1.01	34.97
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

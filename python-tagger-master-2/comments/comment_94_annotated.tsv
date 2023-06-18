@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+jasmin	Eng	O	16.09	9.97	-0.8	15.29
+.	Punct	O	N/A	N/A	N/A	N/A
+vilchis	Eng	O	22.44	20.66	-0.8	21.64
+me	Eng	O	41.15	43.0	-0.8	40.35
+right	Eng	O/ORG	61.96	14.85	-0.8	61.160000000000004
+there	Eng	O/ORG	70.66	28.64	-0.8	69.86
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

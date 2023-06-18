@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Since	Eng	O	49.2	38.91	-0.8	48.400000000000006
+when	Eng	O	56.49	15.56	-0.8	55.690000000000005
+does	Eng	O	50.07	24.01	-0.8	49.27
+little	Eng	O	62.57	24.78	-0.8	61.77
+Caesar	Spn	PERSON/ORG	21.09	33.96	-2.38	31.580000000000002
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-2.38	37.75
+deliver	Eng	O	42.85	36.21	-0.8	42.050000000000004
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

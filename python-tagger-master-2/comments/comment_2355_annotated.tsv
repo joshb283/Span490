@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+jajaja	Spn	O	6.45	15.99	-2.38	13.61
+she	Eng	O	47.98	20.49	-2.38	45.599999999999994
+sounds	Eng	O	53.87	15.87	-0.8	53.07
+so	Eng	O	43.57	28.06	-0.8	42.77
+adorable	Spn	O	37.5	43.71	-2.38	41.33
+😅	Punct	O	N/A	N/A	N/A	N/A
+😅	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

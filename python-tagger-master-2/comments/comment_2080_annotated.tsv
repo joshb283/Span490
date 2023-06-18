@@ -1,0 +1,21 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Omg	Eng	O/ORG	6.52	0.04	-0.8	5.72
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+can	Eng	O	46.96	33.02	-0.8	46.160000000000004
+relate	Eng	O	48.67	39.79	-0.8	47.870000000000005
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+this	Eng	O	59.86	22.07	-0.8	59.06
+😂	Punct	O	N/A	N/A	N/A	N/A
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+daughters	Eng	O/ORG	56.86	10.87	-0.8	56.06
+Spanish	Eng	O/ORG	39.06	8.16	-0.8	38.260000000000005
+is	Eng	O/ORG	44.66	21.08	-0.8	43.86
+work	Eng	O/ORG	47.7	2.12	-0.8	46.900000000000006
+in	Eng	O/ORG	45.41	25.29	-0.8	44.61
+progress	Eng	O/ORG	53.99	29.65	-0.8	53.190000000000005
+lol	Eng	O	19.76	18.87	-0.8	18.96
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

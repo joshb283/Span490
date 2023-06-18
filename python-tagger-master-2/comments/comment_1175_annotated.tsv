@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+bilingual	Eng	O	38.93	20.38	-0.8	38.13
+feelings	Eng	O	57.57	6.64	-0.8	56.77
+have	Eng	O	60.11	28.54	-0.8	59.31
+been	Eng	O	52.66	22.28	-0.8	51.86
+met	Eng	O/ORG	35.84	18.77	-0.8	35.040000000000006
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

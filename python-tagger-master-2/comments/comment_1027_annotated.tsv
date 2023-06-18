@@ -1,0 +1,23 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+👩	Punct	O	N/A	N/A	N/A	N/A
+🏻	Punct	O	N/A	N/A	N/A	N/A
+‍	Punct	O	N/A	N/A	N/A	N/A
+🦲	Punct	O	N/A	N/A	N/A	N/A
+Alr	Eng	O/ORG	18.9	14.5	-0.8	18.099999999999998
+who	Eng	O/ORG	43.84	15.11	-0.8	43.040000000000006
+took	Eng	O/ORG	46.38	10.12	-0.8	45.580000000000005
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+wig	Eng	O	21.73	-2.04	-0.8	20.93
+≤	Punct	O	N/A	N/A	N/A	N/A
+)	Punct	O	N/A	N/A	N/A	N/A
+)	Punct	O	N/A	N/A	N/A	N/A
+≥	Punct	O	N/A	N/A	N/A	N/A
+_	Spn	O	-10.67	-11.1	-2.38	-13.48
+|	Punct	O	N/A	N/A	N/A	N/A
+|	Punct	O	N/A	N/A	N/A	N/A
+_	Spn	O	-10.67	-11.1	-1.01	-12.11
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

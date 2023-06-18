@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+✨	Punct	O	N/A	N/A	N/A	N/A
+colla	Spn	O	32.05	40.99	-2.38	38.61
+✨	Punct	O	N/A	N/A	N/A	N/A
+is	Eng	O	44.66	21.08	-2.38	42.279999999999994
+cola	Spn	O	26.1	40.78	-2.38	38.4
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

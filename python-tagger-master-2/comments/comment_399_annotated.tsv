@@ -1,0 +1,21 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Jordan	Spn	LOCATION/O	22.45	24.73	-2.38	22.35
+por	Spn	O	25.21	47.08	-1.01	46.07
+fuera	Spn	O	20.89	50.62	-1.01	49.61
+:	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+😍	Punct	O	N/A	N/A	N/A	N/A
+🙏	Punct	O	N/A	N/A	N/A	N/A
+Jordan	Spn	LOCATION/ORG	22.45	24.73	-1.01	23.72
+por	Spn	O	25.21	47.08	-1.01	46.07
+dentro	Spn	O	19.2	51.88	-1.01	50.870000000000005
+:	Punct	O	N/A	N/A	N/A	N/A
+😈	Punct	O	N/A	N/A	N/A	N/A
+👊	Punct	O	N/A	N/A	N/A	N/A
+😎	Punct	O	N/A	N/A	N/A	N/A
+🔫	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

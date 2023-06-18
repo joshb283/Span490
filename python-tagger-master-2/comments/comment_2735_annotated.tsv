@@ -1,0 +1,26 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+My	Eng	O	41.2	20.91	-0.8	40.400000000000006
+family	Eng	O	54.07	30.22	-0.8	53.27
+has	Eng	O	46.17	42.75	-0.8	45.370000000000005
+been	Eng	O	52.66	22.28	-0.8	51.86
+in	Eng	O	45.41	25.29	-0.8	44.61
+teaching	Eng	O	66.42	19.31	-0.8	65.62
+for	Eng	O	47.94	28.79	-0.8	47.14
+many	Eng	O	46.88	24.27	-0.8	46.080000000000005
+years	Eng	O	60.3	9.69	-0.8	59.5
+and	Eng	O	58.08	26.56	-0.8	57.28
+I	Eng	O/OTROS	42.31	11.38	-0.8	41.510000000000005
+find	Eng	O	48.68	16.97	-0.8	47.88
+your	Eng	O	56.33	24.2	-0.8	55.53
+videos	Eng	O	31.93	32.57	-0.8	31.13
+refreshing	Eng	O	52.59	21.17	-0.8	51.790000000000006
+.	Punct	O	N/A	N/A	N/A	N/A
+Keep	Eng	O/ORG	39.2	-2.65	-0.8	38.400000000000006
+it	Eng	O/ORG	50.11	11.76	-0.8	49.31
+going	Eng	O/ORG	62.31	13.65	-0.8	61.510000000000005
+!	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

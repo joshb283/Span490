@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+ni	Spn	O	16.53	32.18	-2.38	29.8
+hacían	Spn	O	21.06	43.85	-1.01	42.84
+linda	Spn	O	24.54	41.85	-1.01	40.84
+pareja	Spn	O	21.2	46.63	-1.01	45.620000000000005
+(	Punct	O	N/A	N/A	N/A	N/A
+c	Spn	O	10.69	8.42	-1.01	7.41
+va	Spn	O	12.73	37.22	-1.01	36.21
+a	Spn	O	39.06	38.09	-1.01	37.080000000000005
+llorar	Spn	O	15.75	44.0	-1.01	42.99
+*	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

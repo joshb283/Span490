@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+yyoongz	Spn	O	-5.62	-3.88	-2.38	-6.26
+TELL	Eng	O	49.1	23.35	-2.38	46.72
+ME	Eng	O	41.15	43.0	-0.8	40.35
+WHY	Eng	O/ORG	41.66	5.84	-0.8	40.86
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+FIND	Eng	O/ORG	48.68	16.97	-0.8	47.88
+HIM	Eng	O/ORG	39.42	13.41	-0.8	38.620000000000005
+DO	Eng	O/ORG	42.25	32.38	-0.8	41.45
+ADORABLE	Spn	O/ORG	37.5	43.71	-2.38	41.33
+LIKE	Eng	O/ORG	57.49	21.32	-2.38	55.11
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

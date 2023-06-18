@@ -1,0 +1,26 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+"	Punct	O	N/A	N/A	N/A	N/A
+good	Eng	O	51.82	19.01	-0.8	51.02
+afternoon	Eng	O	52.96	14.77	-0.8	52.160000000000004
+sir	Spn	O	27.89	28.81	-2.38	26.43
+Mexican	Spn	O/ORG	37.7	44.86	-1.01	43.85
+guy	Eng	O/ORG	37.16	22.24	-2.38	34.779999999999994
+"	Punct	O	N/A	N/A	N/A	N/A
+"	Punct	O	N/A	N/A	N/A	N/A
+cayate	Spn	O	26.29	33.46	-2.38	31.080000000000002
+la	Spn	O	18.68	44.74	-1.01	43.730000000000004
+verga	Spn	O	18.04	39.57	-1.01	38.56
+🤣	Punct	O	N/A	N/A	N/A	N/A
+🤣	Punct	O	N/A	N/A	N/A	N/A
+🤣	Punct	O	N/A	N/A	N/A	N/A
+☠	Punct	O	N/A	N/A	N/A	N/A
+☠	Punct	O	N/A	N/A	N/A	N/A
+☠	Punct	O	N/A	N/A	N/A	N/A
+☠	Punct	O	N/A	N/A	N/A	N/A
+☠	Punct	O	N/A	N/A	N/A	N/A
+"	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

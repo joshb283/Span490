@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Me	Spn	O	41.15	43.0	-2.38	40.62
+translating	Eng	O	60.52	20.49	-2.38	58.14
+legal	Eng	O	38.26	32.39	-0.8	37.46
+documents	Eng	O	51.53	29.43	-0.8	50.730000000000004
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+dad	Eng	O	35.2	30.34	-0.8	34.400000000000006
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,18 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+What	Eng	O/ORG	61.03	9.63	-0.8	60.230000000000004
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+ur	Eng	O	18.65	14.07	-0.8	17.849999999999998
+favorite	Eng	O	54.92	46.29	-0.8	54.120000000000005
+one	Eng	O	49.51	25.47	-0.8	48.71
+?	Punct	O	N/A	N/A	N/A	N/A
+Mine	Eng	O	44.53	36.03	-0.8	43.730000000000004
+is	Eng	O	44.66	21.08	-0.8	43.86
+pingüino	Spn	O	16.11	28.28	-2.38	25.900000000000002
+Rodríguez	Spn	PERSON/PERS	3.43	25.72	-1.01	24.709999999999997
+🥰	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

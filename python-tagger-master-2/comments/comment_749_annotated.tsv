@@ -1,0 +1,10 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+new	Eng	O	37.79	11.23	-0.8	36.99
+follower	Eng	O	51.75	19.31	-0.8	50.95
+who	Eng	O	43.84	15.11	-0.8	43.040000000000006
+fyp	Eng	O	3.81	-1.97	-0.8	3.01
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,20 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Highly	Eng	O/PERS	42.76	14.26	-0.8	41.96
+HIGHLY	Eng	O/PERS	42.76	14.26	-0.8	41.96
+interested	Eng	O	75.02	46.88	-0.8	74.22
+in	Eng	O	45.41	25.29	-0.8	44.61
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+repost	Eng	O	39.97	15.45	-0.8	39.17
+with	Eng	O	54.27	4.16	-0.8	53.470000000000006
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+Rosa	Spn	PERSON/PERS	17.15	36.09	-2.38	33.71
+De	Spn	PERSON/O	26.21	47.06	-1.01	46.050000000000004
+Guadalupe	Spn	PERSON/OTROS	21.36	31.84	-1.01	30.83
+repost	Eng	O	39.97	15.45	-2.38	37.589999999999996
+.	Punct	O	N/A	N/A	N/A	N/A
+Porrrfaaaaaa	Spn	O/PERS	2.74	17.96	-2.38	15.580000000000002
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,20 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Love	Eng	O	45.41	24.46	-0.8	44.61
+it	Eng	O/ORG	50.11	11.76	-0.8	49.31
+.	Punct	O	N/A	N/A	N/A	N/A
+My	Eng	O	41.2	20.91	-0.8	40.400000000000006
+little	Eng	O	62.57	24.78	-0.8	61.77
+brother	Eng	O	58.65	27.99	-0.8	57.85
+sounds	Eng	O	53.87	15.87	-0.8	53.07
+like	Eng	O	57.49	21.32	-0.8	56.690000000000005
+that	Eng	O	68.72	14.42	-0.8	67.92
+n	Eng	O	15.91	8.48	-0.8	15.11
+he	Eng	O	44.49	34.18	-0.8	43.690000000000005
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+39	Num	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

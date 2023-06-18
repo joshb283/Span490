@@ -1,0 +1,25 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+even	Eng	O	50.32	32.92	-0.8	49.52
+if	Eng	O	41.12	4.97	-0.8	40.32
+i	Eng	O	42.31	11.38	-0.8	41.510000000000005
+knew	Eng	O	41.47	-0.9	-0.8	40.67
+spanish	Eng	O	39.06	8.16	-0.8	38.260000000000005
+i	Eng	O	42.31	11.38	-0.8	41.510000000000005
+would	Eng	O	61.19	3.84	-0.8	60.39
+be	Eng	O	42.62	20.92	-0.8	41.82
+very	Eng	O	48.4	29.89	-0.8	47.6
+confused	Eng	O	47.92	33.67	-0.8	47.120000000000005
+unless	Eng	O	47.88	13.71	-0.8	47.080000000000005
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+told	Eng	O	46.04	18.64	-0.8	45.24
+me	Eng	O	41.15	43.0	-0.8	40.35
+its	Eng	O	40.87	11.62	-0.8	40.07
+part	Eng	O	44.95	26.99	-0.8	44.150000000000006
+of	Eng	O	45.37	12.91	-0.8	44.57
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+song	Eng	O	42.41	20.88	-0.8	41.61
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

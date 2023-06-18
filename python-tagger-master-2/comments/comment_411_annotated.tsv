@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+¿	Punct	O	N/A	N/A	N/A	N/A
+Novio	Spn	O	19.06	42.63	-2.38	40.25
+favorito	Spn	O	42.74	55.47	-1.01	54.46
+?	Punct	O	N/A	N/A	N/A	N/A
+¿	Punct	O	N/A	N/A	N/A	N/A
+Pues	Spn	O	24.99	50.16	-1.01	49.15
+cuántos	Spn	O	11.31	55.27	-1.01	54.260000000000005
+son	Spn	O	41.69	40.73	-1.01	39.72
+?	Punct	O	N/A	N/A	N/A	N/A
+👀	Punct	O	N/A	N/A	N/A	N/A
+🤪	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

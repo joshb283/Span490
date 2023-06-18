@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+franticdom	Eng	O	22.52	9.15	-0.8	21.72
+@	Punct	O	N/A	N/A	N/A	N/A
+ericwows	Eng	O	12.84	3.97	-0.8	12.04
+@	Punct	O	N/A	N/A	N/A	N/A
+lordebrat	Eng	O	23.42	6.12	-0.8	22.62
+l	Spn	O	14.09	15.05	-2.38	12.670000000000002
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

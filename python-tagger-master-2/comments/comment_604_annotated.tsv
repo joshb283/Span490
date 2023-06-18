@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+when	Eng	O	56.49	15.56	-0.8	55.690000000000005
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+parents	Eng	O	56.12	30.91	-0.8	55.32
+speak	Eng	O/ORG	38.44	9.07	-0.8	37.64
+spanish	Eng	O/ORG	39.06	8.16	-0.8	38.260000000000005
+but	Eng	O/ORG	51.93	13.76	-0.8	51.13
+they	Eng	O/ORG	65.37	19.05	-0.8	64.57000000000001
+never	Eng	O/ORG	54.2	28.98	-0.8	53.400000000000006
+taught	Eng	O/ORG	52.2	9.48	-0.8	51.400000000000006
+me	Eng	O/ORG	41.15	43.0	-0.8	40.35
+growing	Eng	O/ORG	57.1	13.32	-0.8	56.300000000000004
+up	Eng	O/ORG	37.07	9.61	-0.8	36.27
+😐	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

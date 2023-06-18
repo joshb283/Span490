@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+la	Spn	O	18.68	44.74	-2.38	42.36
+calabeza	Spn	O	15.04	38.48	-1.01	37.47
+!	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+that	Eng	O	68.72	14.42	-2.38	66.34
+was	Eng	O	51.72	16.52	-0.8	50.92
+funny	Eng	O	44.71	19.74	-0.8	43.910000000000004
+.	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+mom	Eng	O	34.1	16.88	-0.8	33.300000000000004
+'	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+baddie	Eng	O	25.0	21.06	-0.8	24.2
+bruja	Spn	O	14.65	35.49	-2.38	33.11
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

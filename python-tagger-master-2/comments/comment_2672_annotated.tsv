@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+They	Eng	O/ORG	65.37	19.05	-0.8	64.57000000000001
+know	Eng	O/ORG	60.3	6.12	-0.8	59.5
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+better	Eng	O	57.19	23.79	-0.8	56.39
+than	Eng	O	56.77	25.06	-0.8	55.970000000000006
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

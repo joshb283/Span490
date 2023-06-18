@@ -1,0 +1,10 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+ya	Spn	O	14.29	38.05	-2.38	35.669999999999995
+copied	Eng	O	34.46	26.27	-2.38	32.08
+@	Punct	O	N/A	N/A	N/A	N/A
+kevenxanthony	Eng	O	10.81	-8.56	-0.8	10.01
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
