@@ -1,9 +1,0 @@
-Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
-Feel	Eng	O/PERS	42.65	17.76	-0.8	41.85
-this	Eng	O	59.86	22.07	-0.8	59.06
-rh	Eng	O	10.15	2.69	-0.8	9.35
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A

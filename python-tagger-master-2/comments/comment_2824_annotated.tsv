@@ -1,8 +1,0 @@
-Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
-Awesome	Eng	O	43.58	16.69	-0.8	42.78
-!	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A

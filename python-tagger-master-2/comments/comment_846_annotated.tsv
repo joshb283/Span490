@@ -1,8 +1,0 @@
-Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
-lol	Eng	O	19.76	18.87	-0.8	18.96
-yea	Eng	O	33.54	16.42	-0.8	32.74
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A

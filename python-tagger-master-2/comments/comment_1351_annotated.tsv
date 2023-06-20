@@ -1,9 +1,0 @@
-Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
-@	Punct	O	N/A	N/A	N/A	N/A
-zamorakayla	Spn	O	-7.93	8.55	-2.38	6.170000000000001
-LMAOOO	Spn	O/ORG	8.83	9.8	-1.01	8.790000000000001
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A

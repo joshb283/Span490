@@ -1,9 +1,0 @@
-Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
-@	Punct	O	N/A	N/A	N/A	N/A
-staylenowo	Eng	O	21.9	-0.54	-0.8	21.099999999999998
-xd	Eng	O	0.1	-1.08	-0.8	-0.7000000000000001
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A

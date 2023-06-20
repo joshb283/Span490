@@ -1,9 +1,0 @@
-Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
-@	Punct	O	N/A	N/A	N/A	N/A
-spoiledcheesecake	Eng	O	28.4	-8.85	-0.8	27.599999999999998
-truuu	Eng	O	17.53	10.24	-0.8	16.73
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A

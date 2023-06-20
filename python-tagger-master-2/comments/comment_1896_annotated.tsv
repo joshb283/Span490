@@ -1,9 +1,0 @@
-Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
-@	Punct	O	N/A	N/A	N/A	N/A
-joselinlover	Eng	O	21.52	17.16	-0.8	20.72
-you	Eng	O	56.67	25.36	-0.8	55.870000000000005
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A

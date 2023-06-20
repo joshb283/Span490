@@ -1,9 +1,0 @@
-Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
-My	Eng	O	41.2	20.91	-0.8	40.400000000000006
-man	Eng	O	40.95	33.96	-0.8	40.150000000000006
-packing	Eng	O	51.33	19.28	-0.8	50.53
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A

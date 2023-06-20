@@ -1,9 +1,0 @@
-Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
-Nice	Eng	O/PERS	46.93	28.57	-0.8	46.13
-phone	Eng	O	45.13	16.3	-0.8	44.330000000000005
-case	Eng	O	43.75	39.24	-0.8	42.95
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A

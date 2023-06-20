@@ -1,9 +1,0 @@
-Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
-W	Eng	O	15.8	-2.58	-0.8	15.0
-SHIRT	Eng	O/ORG	37.34	6.59	-0.8	36.540000000000006
-OMM	Eng	O/ORG	6.5	2.63	-0.8	5.7
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
-,	Punct	O	N/A	N/A	N/A	N/A
