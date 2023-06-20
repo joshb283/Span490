@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>SPAN 490 Corpus</title>
+
+<link href="/static/css.css" rel="stylesheet"/>
+ 
+</head>
+<header>SPAN 490 Corpus</header>
+
+<body>  
+  
+    <form action="/action" method="POST">
+      <label for="hasthags">Enter all hashtags separated by spaces (ex: nosabo nosabokids):</label><br>
+      <input type="hasthags" name="hasthags" id="hasthags"><br><br>
+
+      <label for="main">Enter path and filename (.csv) for main output file (ex: output/nosabo.csv):</label><br>
+      <input type="main" name="main" id="main"><br><br>
+
+      <label for="comments">Enter path and filename (.csv) for comments output file (ex: output/nosabocomments.csv):</label><br>
+      <input type="comments" name="comments" id="comments"><br><br>
+
+      <label for="videos">Enter the path to the folder for the videos to be saved in (ex: output/nosabovids):</label><br>
+      <input type="videos" name="videos" id="videos"><br><br>
+
+      <label for="num">Enter the number of videos you want per hashtag (ex: 10): *THIS IS BROKEN RIGHT NOW*</label><br>
+      <input type="num" name="num" id="num"><br><br>
+
+      <label for="paired">Enter the hashtag(s) separated by spaces that you want to see if the search term is paired with (ex: mexico mexicano):</label><br>
+      <input type="paired" name="paired" id="paired"><br><br>
+
+      <button id = "btn">Submit</button>
+    </form>
+    <br>
+    <div id="display"><p>Display Files</p></div>
+    <br>
+
+    <form method="POST" enctype="multipart/form-data" action="/view">
+      <div class="form-group">
+        <label for="mainfile">Main File</label><br>
+        <input type="file"  class="form-control" id="mainfile" name="mainfile"><br>
+        <label for="commentsfile">Comments File</label><br>
+        <input type="file"  class="form-control" id="commentsfile" name="commentsfile"><br>
+
+      </div><br><br>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</body>
+</html>
