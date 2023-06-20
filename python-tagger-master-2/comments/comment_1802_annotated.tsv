@@ -1,0 +1,9 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Rosetta	Spn	ORGANIZATION/ORG	15.73	18.18	-2.38	15.8
+Español	Spn	ORGANIZATION/ORG	15.21	43.56	-1.01	42.550000000000004
+pleeeeease	Eng	O/ORG	26.22	22.11	-2.38	23.84
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

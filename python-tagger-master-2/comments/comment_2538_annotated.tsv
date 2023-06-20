@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+I	Eng	O	42.31	11.38	-0.8	41.510000000000005
+just	Eng	O	56.89	16.33	-0.8	56.09
+use	Eng	O	45.34	29.16	-0.8	44.540000000000006
+the	Eng	O	60.83	27.05	-0.8	60.03
+tortilla	Spn	O	27.99	46.15	-2.38	43.769999999999996
+to	Eng	O	48.13	29.93	-2.38	45.75
+grab	Eng	O	26.81	13.87	-0.8	26.009999999999998
+the	Eng	O	60.83	27.05	-0.8	60.03
+carnitas	Spn	O	27.78	49.08	-2.38	46.699999999999996
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

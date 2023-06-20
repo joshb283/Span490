@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Honduras	Spn	LOCATION/ORG	27.62	35.28	-2.38	32.9
+flag	Eng	O/ORG	24.61	7.89	-2.38	22.23
+in	Eng	O/ORG	45.41	25.29	-0.8	44.61
+the	Eng	O/ORG	60.83	27.05	-0.8	60.03
+back	Eng	O/ORG	45.64	16.76	-0.8	44.84
+💪	Punct	O	N/A	N/A	N/A	N/A
+🏻	Punct	O	N/A	N/A	N/A	N/A
+💪	Punct	O	N/A	N/A	N/A	N/A
+🏻	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,23 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+and	Eng	O	58.08	26.56	-0.8	57.28
+then	Eng	O	60.65	23.75	-0.8	59.85
+it	Eng	O/ORG	50.11	11.76	-0.8	49.31
+falls	Eng	O/ORG	38.2	22.29	-0.8	37.400000000000006
+on	Eng	O	43.01	23.0	-0.8	42.21
+the	Eng	O	60.83	27.05	-0.8	60.03
+couch	Eng	O	42.31	16.74	-0.8	41.510000000000005
+when	Eng	O	56.49	15.56	-0.8	55.690000000000005
+your	Eng	O	56.33	24.2	-0.8	55.53
+mom	Eng	O	34.1	16.88	-0.8	33.300000000000004
+told	Eng	O	46.04	18.64	-0.8	45.24
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+not	Eng	O	48.64	20.26	-0.8	47.84
+stain	Eng	O	44.58	14.53	-0.8	43.78
+it	Eng	O/ORG	50.11	11.76	-0.8	49.31
+😭	Punct	O	N/A	N/A	N/A	N/A
+😭	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,18 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+they	Eng	O	65.37	19.05	-0.8	64.57000000000001
+know	Eng	O	60.3	6.12	-0.8	59.5
+about	Eng	O	62.63	15.69	-0.8	61.830000000000005
+your	Eng	O	56.33	24.2	-0.8	55.53
+whole	Eng	O	54.64	17.09	-0.8	53.84
+life	Eng	O	43.73	20.47	-0.8	42.93
+only	Eng	O	49.65	9.4	-0.8	48.85
+watching	Eng	O	70.24	3.83	-0.8	69.44
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+15s	Spn	O	-1.38	6.3	-2.38	3.92
+tiktok	Eng	O	15.56	5.23	-2.38	13.18
+🤠	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

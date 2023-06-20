@@ -1,0 +1,18 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Yo	Spn	O	24.54	38.85	-2.38	36.47
+viendo	Spn	O	22.19	56.99	-1.01	55.980000000000004
+este	Spn	O	27.28	52.33	-1.01	51.32
+video	Eng	O	31.71	26.45	-2.38	29.330000000000002
+después	Spn	O	13.53	56.95	-2.38	54.57
+del	Spn	O	26.4	45.85	-1.01	44.84
+fin	Spn	O	30.3	32.05	-1.01	31.039999999999996
+de	Spn	O	26.21	47.06	-1.01	46.050000000000004
+la	Spn	O	18.68	44.74	-1.01	43.730000000000004
+relacion	Spn	O	34.53	43.19	-1.01	42.18
+😢	Punct	O	N/A	N/A	N/A	N/A
+💔	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

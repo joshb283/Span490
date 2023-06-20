@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Can	Eng	O	46.96	33.02	-0.8	46.160000000000004
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+do	Eng	O	42.25	32.38	-0.8	41.45
+Chale	Spn	O/ORG	34.9	38.42	-2.38	36.04
+😁	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

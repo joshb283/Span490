@@ -1,0 +1,22 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+“	Punct	O	N/A	N/A	N/A	N/A
+Why	Eng	O/ORG	41.66	5.84	-0.8	40.86
+is	Eng	O	44.66	21.08	-0.8	43.86
+your	Eng	O	56.33	24.2	-0.8	55.53
+dad	Eng	O	35.2	30.34	-0.8	34.400000000000006
+looking	Eng	O	64.13	19.06	-0.8	63.33
+at	Eng	O	43.35	13.78	-0.8	42.550000000000004
+me	Eng	O	41.15	43.0	-0.8	40.35
+like	Eng	O	57.49	21.32	-0.8	56.690000000000005
+that	Eng	O	68.72	14.42	-0.8	67.92
+”	Punct	O	N/A	N/A	N/A	N/A
+🤣	Punct	O	N/A	N/A	N/A	N/A
+🤣	Punct	O	N/A	N/A	N/A	N/A
+😭	Punct	O	N/A	N/A	N/A	N/A
+IM	Eng	O/ORG	20.85	11.84	-0.8	20.05
+ROLLINH	Eng	O/ORG	18.04	5.69	-0.8	17.24
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

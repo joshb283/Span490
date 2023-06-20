@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Tepic	Eng	O/ORG	19.97	9.15	-0.8	19.169999999999998
+…	Punct	O	N/A	N/A	N/A	N/A
+the	Eng	O/ORG	60.83	27.05	-0.8	60.03
+best	Eng	O/ORG	46.75	15.93	-0.8	45.95
+seafood	Eng	O/ORG	47.32	18.34	-0.8	46.52
+in	Eng	O/ORG	45.41	25.29	-0.8	44.61
+the	Eng	O/ORG	60.83	27.05	-0.8	60.03
+world	Eng	O/ORG	49.76	0.29	-0.8	48.96
+.	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+es	Spn	O	21.58	44.75	-2.38	42.37
+gracioso	Spn	O	23.98	53.28	-1.01	52.27
+por	Spn	O	25.21	47.08	-1.01	46.07
+como	Spn	O	21.69	52.03	-1.01	51.02
+ablan	Spn	O	30.64	31.76	-1.01	30.75
+los	Spn	O	23.65	49.6	-1.01	48.59
+gringos	Spn	O	16.16	38.1	-1.01	37.09
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

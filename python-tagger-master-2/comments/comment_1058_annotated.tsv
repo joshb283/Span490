@@ -1,0 +1,9 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+She	Eng	O/PERS	47.98	20.49	-0.8	47.18
+said	Eng	O/PERS	47.81	17.28	-0.8	47.010000000000005
+Aross	Eng	O/PERS	37.04	15.47	-0.8	36.24
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

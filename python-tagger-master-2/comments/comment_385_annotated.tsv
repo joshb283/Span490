@@ -1,0 +1,24 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+that	Eng	O	68.72	14.42	-0.8	67.92
+mother	Eng	O	57.5	28.28	-0.8	56.7
+was	Eng	O	51.72	16.52	-0.8	50.92
+too	Eng	O	46.65	16.45	-0.8	45.85
+rough	Eng	O	45.41	11.4	-0.8	44.61
+accidents	Eng	O	56.02	31.6	-0.8	55.220000000000006
+happen	Eng	O	55.1	24.05	-0.8	54.300000000000004
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+husband	Eng	O/ORG	64.6	10.88	-0.8	63.8
+did	Eng	O/ORG	44.21	19.81	-0.8	43.410000000000004
+that	Eng	O/ORG	68.72	14.42	-0.8	67.92
+but	Eng	O/ORG	51.93	13.76	-0.8	51.13
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+gave	Eng	O/ORG	44.2	22.93	-0.8	43.400000000000006
+him	Eng	O/ORG	39.42	13.41	-0.8	38.620000000000005
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+good	Eng	O/ORG	51.82	19.01	-0.8	51.02
+push	Eng	O/ORG	35.32	18.51	-0.8	34.52
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

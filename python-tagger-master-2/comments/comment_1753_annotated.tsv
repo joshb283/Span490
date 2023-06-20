@@ -1,0 +1,22 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+that	Eng	O	68.72	14.42	-0.8	67.92
+was	Eng	O	51.72	16.52	-0.8	50.92
+literally	Eng	O	59.34	18.74	-0.8	58.540000000000006
+what	Eng	O	61.03	9.63	-0.8	60.230000000000004
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+brother	Eng	O	58.65	27.99	-0.8	57.85
+said	Eng	O	47.81	17.28	-0.8	47.010000000000005
+abt	Eng	O	19.81	6.57	-0.8	19.009999999999998
+me	Eng	O	41.15	43.0	-0.8	40.35
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+mom	Eng	O	34.1	16.88	-0.8	33.300000000000004
+💀	Punct	O	N/A	N/A	N/A	N/A
+💀	Punct	O	N/A	N/A	N/A	N/A
+💀	Punct	O	N/A	N/A	N/A	N/A
+💀	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

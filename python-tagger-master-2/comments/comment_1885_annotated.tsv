@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+bru	Eng	O	18.09	14.45	-0.8	17.29
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+dad	Eng	O	35.2	30.34	-0.8	34.400000000000006
+right	Eng	O	61.96	14.85	-0.8	61.160000000000004
+next	Eng	O	40.7	10.14	-0.8	39.900000000000006
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+me	Eng	O	41.15	43.0	-0.8	40.35
+💀	Punct	O	N/A	N/A	N/A	N/A
+💀	Punct	O	N/A	N/A	N/A	N/A
+💀	Punct	O	N/A	N/A	N/A	N/A
+💀	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

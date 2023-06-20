@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+🤣	Punct	O	N/A	N/A	N/A	N/A
+🤣	Punct	O	N/A	N/A	N/A	N/A
+🤣	Punct	O	N/A	N/A	N/A	N/A
+he	Eng	O	44.49	34.18	-0.8	43.690000000000005
+watchin	Eng	O	52.36	7.94	-0.8	51.56
+Mia	Spn	PERSON/O	20.43	25.29	-2.38	22.91
+Cuhlifa	Spn	PERSON/LUG	6.15	13.29	-1.01	12.28
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

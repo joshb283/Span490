@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+How	Eng	O/PERS	45.28	13.44	-0.8	44.480000000000004
+Jenny	Eng	PERSON/PERS	22.64	13.27	-0.8	21.84
+69	Num	O	N/A	N/A	N/A	N/A
+orders	Eng	O	47.05	24.92	-0.8	46.25
+tacos	Spn	O	26.79	37.26	-2.38	34.879999999999995
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

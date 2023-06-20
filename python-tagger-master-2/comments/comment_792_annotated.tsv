@@ -1,0 +1,10 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Girl	Eng	O	32.89	8.72	-0.8	32.09
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+JAW	Eng	O/ORG	14.68	3.41	-0.8	13.879999999999999
+DROPPED	Eng	O/ORG	45.98	17.24	-0.8	45.18
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

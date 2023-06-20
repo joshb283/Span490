@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+your	Eng	O	56.33	24.2	-0.8	55.53
+videos	Eng	O	31.93	32.57	-0.8	31.13
+teach	Eng	O/ORG	49.19	17.71	-0.8	48.39
+Spanish	Eng	O/ORG	39.06	8.16	-0.8	38.260000000000005
+but	Eng	O/ORG	51.93	13.76	-0.8	51.13
+at	Eng	O/ORG	43.35	13.78	-0.8	42.550000000000004
+the	Eng	O	60.83	27.05	-0.8	60.03
+same	Eng	O	49.13	34.36	-0.8	48.330000000000005
+time	Eng	O	53.99	32.6	-0.8	53.190000000000005
+also	Eng	O	46.43	25.86	-0.8	45.63
+teach	Eng	O/ORG	49.19	17.71	-0.8	48.39
+English	Eng	O/ORG	35.81	18.35	-0.8	35.010000000000005
+Haha	Spn	O/ORG	17.05	21.53	-2.38	19.150000000000002
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,10 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+jorgerivera9022	Spn	O	-17.05	-12.38	-2.38	-14.760000000000002
+owwww	Eng	O	7.78	-3.9	-2.38	5.4
+jajajajaja	Spn	O	8.64	18.18	-2.38	15.8
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

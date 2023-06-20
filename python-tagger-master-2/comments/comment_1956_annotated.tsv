@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+little_atole_	Eng	O	14.63	-11.06	-0.8	13.83
+is	Eng	O	44.66	21.08	-0.8	43.86
+this	Eng	O	59.86	22.07	-0.8	59.06
+true	Eng	O	47.44	28.51	-0.8	46.64
+for	Eng	O	47.94	28.79	-0.8	47.14
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+too	Eng	O	46.65	16.45	-0.8	45.85
+?	Punct	O	N/A	N/A	N/A	N/A
+?	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

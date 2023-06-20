@@ -1,0 +1,22 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+imtz13	Spn	O	-2.5	2.64	-2.38	0.26000000000000023
+no	Spn	O	39.04	44.89	-1.01	43.88
+se	Spn	O	30.91	42.67	-1.01	41.660000000000004
+lo	Spn	O	19.44	42.92	-1.01	41.910000000000004
+enseñes	Spn	O	14.9	37.87	-1.01	36.86
+a	Spn	O	39.06	38.09	-1.01	37.080000000000005
+mi	Spn	O	18.08	38.03	-1.01	37.02
+compadre	Spn	O	38.49	65.51	-1.01	64.5
+pero	Spn	O	24.95	52.4	-1.01	51.39
+mira	Spn	O	20.56	44.75	-1.01	43.74
+que	Spn	O	26.46	56.13	-1.01	55.120000000000005
+chuloooo	Spn	O	16.64	19.97	-1.01	18.959999999999997
+😍	Punct	O	N/A	N/A	N/A	N/A
+😍	Punct	O	N/A	N/A	N/A	N/A
+😍	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

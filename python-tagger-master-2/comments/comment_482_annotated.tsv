@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Pensé	Spn	O	5.13	40.28	-2.38	37.9
+que	Spn	O	26.46	56.13	-1.01	55.120000000000005
+habían	Spn	O	23.28	48.32	-1.01	47.31
+regresado	Spn	O	24.13	59.51	-1.01	58.5
+😔	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

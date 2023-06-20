@@ -1,0 +1,26 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+me	Spn	O	41.15	43.0	-2.38	40.62
+morí	Spn	O	8.58	22.47	-1.01	21.459999999999997
+cunado	Spn	O	21.7	39.47	-1.01	38.46
+dice	Spn	O	31.36	46.48	-1.01	45.47
+ommmmmm	Eng	O	2.36	-0.59	-2.38	-0.020000000000000018
+cuando	Spn	O	20.56	60.78	-2.38	58.4
+le	Spn	O	24.53	39.88	-1.01	38.870000000000005
+dices	Spn	O	33.69	51.53	-1.01	50.52
+que	Spn	O	26.46	56.13	-1.01	55.120000000000005
+no	Spn	O	39.04	44.89	-1.01	43.88
+se	Spn	O	30.91	42.67	-1.01	41.660000000000004
+puede	Spn	O	17.51	54.99	-1.01	53.980000000000004
+comer	Spn	O	42.25	47.36	-1.01	46.35
+más	Spn	O	6.97	45.12	-1.01	44.11
+de	Spn	O	26.21	47.06	-1.01	46.050000000000004
+un	Spn	O	21.77	40.51	-1.01	39.5
+helado	Spn	O	28.4	44.53	-1.01	43.52
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

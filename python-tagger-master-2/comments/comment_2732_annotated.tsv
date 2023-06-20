@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Thanks	Eng	O	56.71	11.9	-0.8	55.910000000000004
+for	Eng	O	47.94	28.79	-0.8	47.14
+sharing	Eng	O	51.16	10.85	-0.8	50.36
+.	Punct	O	N/A	N/A	N/A	N/A
+Looking	Eng	O	64.13	19.06	-0.8	63.33
+forward	Eng	O	50.89	15.08	-0.8	50.09
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+hearing	Eng	O	58.53	13.82	-0.8	57.730000000000004
+more	Eng	O	53.89	32.84	-0.8	53.09
+!	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

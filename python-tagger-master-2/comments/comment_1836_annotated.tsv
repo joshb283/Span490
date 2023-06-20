@@ -1,0 +1,18 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+briannas	Spn	O	22.77	22.75	-2.38	20.37
+.	Punct	O	N/A	N/A	N/A	N/A
+bs	Eng	O	13.96	7.01	-2.38	11.580000000000002
+if	Eng	O	41.12	4.97	-0.8	40.32
+this	Eng	O	59.86	22.07	-0.8	59.06
+ain	Eng	O	33.1	18.89	-0.8	32.300000000000004
+’	Punct	O	N/A	N/A	N/A	N/A
+t	Eng	O	40.21	10.87	-0.8	39.410000000000004
+@	Punct	O	N/A	N/A	N/A	N/A
+natvv16	Spn	O	0.51	6.0	-2.38	3.62
+😅	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

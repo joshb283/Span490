@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Es	Spn	O	21.58	44.75	-2.38	42.37
+una	Spn	O	21.97	46.98	-1.01	45.97
+ternura	Spn	O	19.41	39.37	-1.01	38.36
+Jordan	Spn	LOCATION/PERS	22.45	24.73	-1.01	23.72
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

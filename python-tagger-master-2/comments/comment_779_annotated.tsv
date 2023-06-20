@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+angel_elcuh2012	Spn	O	-8.41	-0.29	-2.38	-2.67
+us	Eng	O	36.11	21.64	-2.38	33.73
+and	Eng	O	58.08	26.56	-0.8	57.28
+chito	Spn	O	27.69	41.03	-2.38	38.65
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

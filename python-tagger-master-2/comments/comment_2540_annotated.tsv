@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+She	Eng	O	47.98	20.49	-0.8	47.18
+can	Eng	O	46.96	33.02	-0.8	46.160000000000004
+'	Punct	O	N/A	N/A	N/A	N/A
+t	Eng	O	40.21	10.87	-0.8	39.410000000000004
+pronounce	Eng	O	42.77	28.42	-0.8	41.970000000000006
+cilantro	Spn	O	8.99	31.4	-2.38	29.02
+?	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

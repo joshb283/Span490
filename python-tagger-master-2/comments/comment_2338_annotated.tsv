@@ -1,0 +1,10 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+what	Eng	O	61.03	9.63	-0.8	60.230000000000004
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+beautiful	Eng	O/ORG	51.42	11.64	-0.8	50.620000000000005
+girl	Eng	O/ORG	32.89	8.72	-0.8	32.09
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

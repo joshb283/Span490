@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Stops	Eng	O	35.92	8.96	-0.8	35.120000000000005
+slicing	Eng	O	40.0	3.82	-0.8	39.2
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+be	Eng	O	42.62	20.92	-0.8	41.82
+able	Eng	O	48.18	32.39	-0.8	47.38
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+understand	Eng	O	71.53	17.59	-0.8	70.73
+LOL	Eng	O	19.76	18.87	-0.8	18.96
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

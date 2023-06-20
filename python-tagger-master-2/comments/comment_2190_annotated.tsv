@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+us	Eng	O	36.11	21.64	-0.8	35.31
+?	Punct	O	N/A	N/A	N/A	N/A
+girl	Eng	O	32.89	8.72	-0.8	32.09
+i	Eng	O	42.31	11.38	-0.8	41.510000000000005
+wasn	Eng	O	47.87	2.32	-0.8	47.07
+’	Punct	O	N/A	N/A	N/A	N/A
+t	Eng	O	40.21	10.87	-0.8	39.410000000000004
+born	Eng	O	34.63	15.47	-0.8	33.830000000000005
+in	Eng	O	45.41	25.29	-0.8	44.61
+this	Eng	O	59.86	22.07	-0.8	59.06
+country	Eng	O	59.43	17.3	-0.8	58.63
+🧍	Punct	O	N/A	N/A	N/A	N/A
+🏻	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

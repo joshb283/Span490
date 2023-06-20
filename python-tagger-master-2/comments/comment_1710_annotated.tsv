@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Where	Eng	O	64.55	18.09	-0.8	63.75
+are	Eng	O	50.46	30.0	-0.8	49.660000000000004
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+Mexican	Spn	O/PERS	37.7	44.86	-2.38	42.48
+vegans	Eng	O	30.99	19.98	-2.38	28.61
+and	Eng	O	58.08	26.56	-0.8	57.28
+vegetarians	Eng	O	50.22	24.3	-0.8	49.42
+!	Punct	O	N/A	N/A	N/A	N/A
+?	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

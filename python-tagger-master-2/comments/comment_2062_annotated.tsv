@@ -1,0 +1,24 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+5	Num	O	N/A	N/A	N/A	N/A
+year	Eng	O	53.94	21.12	-0.8	53.14
+old	Eng	O	41.25	14.3	-0.8	40.45
+cousins	Eng	O	42.33	14.65	-0.8	41.53
+say	Eng	O	43.93	22.05	-0.8	43.13
+“	Punct	O	N/A	N/A	N/A	N/A
+findiar	Eng	O	34.08	28.19	-0.8	33.28
+”	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+as	Eng	O	41.38	30.98	-0.8	40.580000000000005
+in	Eng	O	45.41	25.29	-0.8	44.61
+FIND	Eng	O	48.68	16.97	-0.8	47.88
+!	Punct	O	N/A	N/A	N/A	N/A
+!	Punct	O	N/A	N/A	N/A	N/A
+!	Punct	O	N/A	N/A	N/A	N/A
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+mess	Eng	O	42.27	22.48	-0.8	41.470000000000006
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

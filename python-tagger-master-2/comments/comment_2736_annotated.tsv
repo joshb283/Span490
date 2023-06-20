@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+juegan	Spn	O	24.74	36.72	-2.38	34.339999999999996
+a	Spn	O	39.06	38.09	-1.01	37.080000000000005
+la	Spn	O	18.68	44.74	-1.01	43.730000000000004
+lotería	Spn	O	13.24	45.0	-1.01	43.99
+en	Spn	O	25.45	42.54	-1.01	41.53
+clase	Spn	O	36.32	44.73	-1.01	43.72
+maestra	Spn	O	18.63	54.08	-1.01	53.07
+?	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

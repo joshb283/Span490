@@ -1,0 +1,18 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+who_is_crystal__	Eng	O	-5.65	-28.27	-0.8	-6.45
+@	Punct	O	N/A	N/A	N/A	N/A
+smiley_chqrls1	Eng	O	-11.71	-17.72	-0.8	-12.510000000000002
+gavin	Eng	O	25.12	17.55	-0.8	24.32
+aaron	Spn	O	18.37	25.51	-2.38	23.130000000000003
+leo	Spn	O	17.59	28.96	-1.01	27.95
+and	Eng	O	58.08	26.56	-2.38	55.699999999999996
+the	Eng	O	60.83	27.05	-0.8	60.03
+teacher	Eng	O	56.39	26.9	-0.8	55.59
+in	Eng	O	45.41	25.29	-0.8	44.61
+class	Eng	O	44.72	25.11	-0.8	43.92
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,18 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Haven	Eng	O	59.09	27.62	-0.8	58.290000000000006
+’	Punct	O	N/A	N/A	N/A	N/A
+t	Eng	O	40.21	10.87	-0.8	39.410000000000004
+seen	Eng	O	49.71	28.16	-0.8	48.910000000000004
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+in	Eng	O	45.41	25.29	-0.8	44.61
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+fyp	Eng	O	3.81	-1.97	-0.8	3.01
+for	Eng	O	47.94	28.79	-0.8	47.14
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+minute	Eng	O	48.62	37.08	-0.8	47.82
+🥲	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

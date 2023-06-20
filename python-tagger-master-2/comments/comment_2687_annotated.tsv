@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+That	Eng	O/PERS	68.72	14.42	-0.8	67.92
+was	Eng	O	51.72	16.52	-0.8	50.92
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+whole	Eng	O	54.64	17.09	-0.8	53.84
+squad	Eng	O	25.94	9.48	-0.8	25.14
+back	Eng	O	45.64	16.76	-0.8	44.84
+5	Num	O	N/A	N/A	N/A	N/A
+years	Eng	O	60.3	9.69	-0.8	59.5
+ago	Eng	O	39.26	29.38	-0.8	38.46
+💀	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+That	Eng	O/PERS	68.72	14.42	-0.8	67.92
+little	Eng	O	62.57	24.78	-0.8	61.77
+boy	Eng	O	35.65	23.42	-0.8	34.85
+deserves	Eng	O	46.16	42.46	-0.8	45.36
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+grammy	Eng	O	30.06	21.43	-0.8	29.259999999999998
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😭	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

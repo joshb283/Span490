@@ -1,0 +1,23 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+My	Eng	O	41.2	20.91	-0.8	40.400000000000006
+daughter	Eng	O	55.87	18.12	-0.8	55.07
+used	Eng	O	48.97	21.24	-0.8	48.17
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+say	Eng	O	43.93	22.05	-0.8	43.13
+I	Eng	O/OTROS	42.31	11.38	-0.8	41.510000000000005
+love	Eng	O	45.41	24.46	-0.8	44.61
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+the	Eng	O	60.83	27.05	-0.8	60.03
+Moona	Eng	PERSON/LUG	23.42	24.37	-0.8	22.62
+n	Eng	O	15.91	8.48	-0.8	15.11
+back	Eng	O	45.64	16.76	-0.8	44.84
+😅	Punct	O	N/A	N/A	N/A	N/A
+Luna	Spn	O	20.96	41.04	-2.38	38.66
++	Punct	O	N/A	N/A	N/A	N/A
+moon	Eng	O	34.82	20.11	-2.38	32.44
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Nice	Eng	O/ORG	46.93	28.57	-0.8	46.13
+job	Eng	O/ORG	30.38	4.97	-0.8	29.58
+sis	Eng	O/ORG	32.31	28.03	-0.8	31.51
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+went	Eng	O	52.5	1.61	-0.8	51.7
+viral	Spn	O	24.73	27.62	-2.38	25.240000000000002
+👍	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+The	Eng	O	60.83	27.05	-0.8	60.03
+emojis	Eng	O	17.49	17.99	-0.8	16.689999999999998
+makes	Eng	O	51.89	22.04	-0.8	51.09
+sense	Eng	O	47.33	40.99	-0.8	46.53
+after	Eng	O	50.9	25.22	-0.8	50.1
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+watch	Eng	O	52.83	3.41	-0.8	52.03
+the	Eng	O	60.83	27.05	-0.8	60.03
+whole	Eng	O	54.64	17.09	-0.8	53.84
+video	Eng	O	31.71	26.45	-0.8	30.91
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+guys	Eng	O	40.97	13.02	-0.8	40.17
+what	Eng	O	61.03	9.63	-0.8	60.230000000000004
+song	Eng	O	42.41	20.88	-0.8	41.61
+is	Eng	O	44.66	21.08	-0.8	43.86
+this	Eng	O	59.86	22.07	-0.8	59.06
+?	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

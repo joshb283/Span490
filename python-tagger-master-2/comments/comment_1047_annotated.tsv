@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+inveins	Eng	O	33.08	19.18	-0.8	32.28
+ángel	Spn	O	0.86	31.47	-2.38	29.09
+yesterday	Eng	O	57.32	9.11	-2.38	54.94
+pinche	Spn	O	29.69	43.95	-2.38	41.57
+pendejo	Spn	O	16.43	49.55	-1.01	48.54
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

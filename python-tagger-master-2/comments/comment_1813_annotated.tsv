@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+He	Eng	O	44.49	34.18	-0.8	43.690000000000005
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+from	Eng	O	48.14	12.52	-0.8	47.34
+No	Spn	LOCATION/O	39.04	44.89	-2.38	42.51
+Sabo	Spn	LOCATION/ORG	16.37	33.68	-1.01	32.67
+Penitentiary	Eng	LOCATION/ORG	33.37	18.96	-2.38	30.99
+Federal	Eng	LOCATION/ORG	44.73	34.21	-0.8	43.93
+Prison	Eng	LOCATION/ORG	48.13	37.96	-0.8	47.330000000000005
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

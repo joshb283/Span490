@@ -1,0 +1,26 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+It	Eng	O	50.11	11.76	-0.8	49.31
+'	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+especially	Eng	O	69.95	39.75	-0.8	69.15
+when	Eng	O/ORG	56.49	15.56	-0.8	55.690000000000005
+non	Eng	O/ORG	32.68	30.02	-0.8	31.88
+-	Punct	O	N/A	N/A	N/A	N/A
+English	Eng	O/ORG	35.81	18.35	-0.8	35.010000000000005
+speaking	Eng	O/ORG	60.78	9.45	-0.8	59.980000000000004
+Latinos	Spn	O	23.27	42.82	-2.38	40.44
+are	Eng	O	50.46	30.0	-2.38	48.08
+put	Eng	O	43.43	16.46	-0.8	42.63
+down	Eng	O	49.05	17.68	-0.8	48.25
+and	Eng	O	58.08	26.56	-0.8	57.28
+mocked	Eng	O	37.38	16.31	-0.8	36.580000000000005
+by	Eng	O	35.52	13.53	-0.8	34.720000000000006
+other	Eng	O	57.25	23.13	-0.8	56.45
+Latinos	Spn	O	23.27	42.82	-2.38	40.44
+.	Punct	O	N/A	N/A	N/A	N/A
+🥺	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

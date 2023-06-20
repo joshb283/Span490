@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Is	Eng	O	44.66	21.08	-0.8	43.86
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+cardy	Eng	O	33.6	22.64	-0.8	32.800000000000004
+B	Eng	O	10.36	4.91	-0.8	9.559999999999999
+or	Eng	O	41.56	23.53	-0.8	40.760000000000005
+what	Eng	O	61.03	9.63	-0.8	60.230000000000004
+?	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

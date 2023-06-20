@@ -1,0 +1,18 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+do	Eng	O	42.25	32.38	-0.8	41.45
+one	Eng	O	49.51	25.47	-0.8	48.71
+where	Eng	O	64.55	18.09	-0.8	63.75
+the	Eng	O	60.83	27.05	-0.8	60.03
+no	Spn	O	39.04	44.89	-2.38	42.51
+sabo	Spn	O	16.37	33.68	-1.01	32.67
+kid	Eng	O/ORG	38.19	9.68	-2.38	35.809999999999995
+says	Eng	O/ORG	44.86	16.09	-0.8	44.06
+smokiando	Eng	O/ORG	28.24	29.94	-0.8	27.439999999999998
+instead	Eng	O/ORG	54.64	19.76	-0.8	53.84
+of	Eng	O/ORG	45.37	12.91	-0.8	44.57
+Fumar	Spn	LOCATION/ORG	20.24	33.07	-2.38	30.69
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+They	Eng	O	65.37	19.05	-0.8	64.57000000000001
+make	Eng	O	50.59	18.5	-0.8	49.790000000000006
+u	Eng	O	15.23	13.34	-0.8	14.43
+take	Eng	O	52.22	21.69	-0.8	51.42
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+Spanish	Eng	O/ORG	39.06	8.16	-0.8	38.260000000000005
+test	Eng	O	46.23	21.52	-0.8	45.43
+before	Eng	O	59.48	17.29	-0.8	58.68
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+enter	Spn	O	42.44	43.15	-2.38	40.769999999999996
+.	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

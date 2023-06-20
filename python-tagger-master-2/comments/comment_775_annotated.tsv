@@ -1,0 +1,21 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+yoongis	Eng	O	20.36	13.74	-0.8	19.56
+.	Punct	O	N/A	N/A	N/A	N/A
+sneeze	Eng	O	23.67	3.14	-0.8	22.87
+@	Punct	O	N/A	N/A	N/A	N/A
+sdl_255	Spn	O	-10.09	-4.59	-2.38	-6.97
+this	Eng	O	59.86	22.07	-2.38	57.48
+is	Eng	O	44.66	21.08	-0.8	43.86
+exactly	Eng	O	57.24	21.01	-0.8	56.440000000000005
+what	Eng	O/ORG	61.03	9.63	-0.8	60.230000000000004
+it	Eng	O/ORG	50.11	11.76	-0.8	49.31
+was	Eng	O/ORG	51.72	16.52	-0.8	50.92
+like	Eng	O/ORG	57.49	21.32	-0.8	56.690000000000005
+in	Eng	O/ORG	45.41	25.29	-0.8	44.61
+mexico	Spn	O/ORG	26.17	41.73	-2.38	39.349999999999994
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

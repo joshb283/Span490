@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Yo	Spn	O	24.54	38.85	-2.38	36.47
+that	Eng	O	68.72	14.42	-2.38	66.34
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+me	Eng	O	41.15	43.0	-0.8	40.35
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+like	Eng	O/ORG	57.49	21.32	-0.8	56.690000000000005
+the	Eng	O/ORG	60.83	27.05	-0.8	60.03
+whitest	Eng	O/ORG	47.77	0.48	-0.8	46.970000000000006
+Mexican	Spn	O/ORG	37.7	44.86	-2.38	42.48
+at	Eng	O/ORG	43.35	13.78	-2.38	40.97
+the	Eng	O/ORG	60.83	27.05	-0.8	60.03
+party	Eng	O/ORG	44.86	28.42	-0.8	44.06
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

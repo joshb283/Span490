@@ -1,0 +1,18 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+At	Eng	O	43.35	13.78	-0.8	42.550000000000004
+least	Eng	O	49.75	13.64	-0.8	48.95
+hes	Eng	O	32.16	29.51	-0.8	31.359999999999996
+trying	Eng	O	62.95	14.11	-0.8	62.150000000000006
+because	Eng	O	75.01	22.56	-0.8	74.21000000000001
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+lot	Eng	O/ORG	46.99	17.08	-0.8	46.190000000000005
+of	Eng	O/ORG	45.37	12.91	-0.8	44.57
+kids	Eng	O/ORG	46.98	8.94	-0.8	46.18
+wont	Eng	O/ORG	34.44	1.55	-0.8	33.64
+even	Eng	O/ORG	50.32	32.92	-0.8	49.52
+try	Eng	O/ORG	43.92	17.78	-0.8	43.120000000000005
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+lil_cuhhh2	Spn	O	-5.78	-4.34	-2.38	-6.72
+.	Punct	O	N/A	N/A	N/A	N/A
+0	Num	O	N/A	N/A	N/A	N/A
+😭	Punct	O	N/A	N/A	N/A	N/A
+that	Eng	O	68.72	14.42	-2.38	66.34
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+gonna	Eng	O	42.51	19.51	-0.8	41.71
+be	Eng	O	42.62	20.92	-0.8	41.82
+me	Spn	O	41.15	43.0	-2.38	40.62
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

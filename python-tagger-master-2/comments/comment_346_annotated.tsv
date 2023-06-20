@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Haha	Spn	O	17.05	21.53	-2.38	19.150000000000002
+omg	Eng	O	6.52	0.04	-2.38	4.14
+so	Eng	O	43.57	28.06	-0.8	42.77
+funny	Eng	O/ORG	44.71	19.74	-0.8	43.910000000000004
+(	Punct	O	N/A	N/A	N/A	N/A
+not	Eng	O/ORG	48.64	20.26	-0.8	47.84
+)	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

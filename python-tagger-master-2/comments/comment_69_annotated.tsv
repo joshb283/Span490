@@ -1,0 +1,18 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Umm	Eng	O	14.55	4.69	-0.8	13.75
+he	Eng	O	44.49	34.18	-0.8	43.690000000000005
+played	Eng	O	50.29	23.41	-0.8	49.49
+the	Eng	O	60.83	27.05	-0.8	60.03
+role	Eng	O	39.0	28.16	-0.8	38.2
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+little	Eng	O	62.57	24.78	-0.8	61.77
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+good	Eng	O	51.82	19.01	-0.8	51.02
+😳	Punct	O	N/A	N/A	N/A	N/A
+😳	Punct	O	N/A	N/A	N/A	N/A
+😳	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

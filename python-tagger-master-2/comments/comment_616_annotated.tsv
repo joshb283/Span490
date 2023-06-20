@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+why	Eng	O	41.66	5.84	-0.8	40.86
+did	Eng	O	44.21	19.81	-0.8	43.410000000000004
+i	Eng	O	42.31	11.38	-0.8	41.510000000000005
+get	Eng	O	48.04	13.69	-0.8	47.24
+asked	Eng	O	45.15	16.34	-0.8	44.35
+if	Eng	O	41.12	4.97	-0.8	40.32
+this	Eng	O	59.86	22.07	-0.8	59.06
+video	Eng	O	31.71	26.45	-0.8	30.91
+was	Eng	O	51.72	16.52	-0.8	50.92
+helpful	Eng	O	41.58	13.67	-0.8	40.78
+-	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

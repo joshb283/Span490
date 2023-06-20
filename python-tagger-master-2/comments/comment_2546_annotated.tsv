@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+the	Eng	O	60.83	27.05	-0.8	60.03
+way	Eng	O	46.27	15.37	-0.8	45.470000000000006
+she	Eng	O	47.98	20.49	-0.8	47.18
+just	Eng	O/ORG	56.89	16.33	-0.8	56.09
+let	Eng	O/ORG	41.33	17.8	-0.8	40.53
+go	Eng	O/ORG	39.77	24.21	-0.8	38.970000000000006
+of	Eng	O	45.37	12.91	-0.8	44.57
+the	Eng	O	60.83	27.05	-0.8	60.03
+cilantro	Spn	O	8.99	31.4	-2.38	29.02
+with	Eng	O	54.27	4.16	-2.38	51.89
+the	Eng	O	60.83	27.05	-0.8	60.03
+tongs	Eng	O	38.42	18.19	-0.8	37.620000000000005
+lmaoo	Eng	O	10.44	9.8	-0.8	9.639999999999999
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

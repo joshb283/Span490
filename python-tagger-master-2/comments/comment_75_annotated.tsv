@@ -1,0 +1,9 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Andy	Eng	PERSON/PERS	39.88	26.25	-0.8	39.080000000000005
+looks	Eng	O/PERS	46.97	17.82	-0.8	46.17
+Arabic	Eng	O/PERS	18.58	6.72	-0.8	17.779999999999998
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

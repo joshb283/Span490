@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Dora	Spn	PERSON/PERS	21.1	40.67	-2.38	38.29
+the	Eng	PERSON/PERS	60.83	27.05	-2.38	58.449999999999996
+Explora	Spn	PERSON/PERS	26.06	45.39	-2.38	43.01
+didn	Eng	O	48.99	16.56	-2.38	46.61
+'	Punct	O	N/A	N/A	N/A	N/A
+t	Eng	O/ORG	40.21	10.87	-0.8	39.410000000000004
+fail	Eng	O/ORG	32.22	15.95	-0.8	31.419999999999998
+me	Spn	O/ORG	41.15	43.0	-2.38	40.62
+😅	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Jajjajq	Eng	O	-4.17	-7.41	-0.8	-4.97
+:	Punct	O	N/A	N/A	N/A	N/A
+Mi	Spn	O	18.08	38.03	-2.38	35.65
+novio	Spn	O	19.06	42.63	-1.01	41.620000000000005
+✨	Punct	O	N/A	N/A	N/A	N/A
+✨	Punct	O	N/A	N/A	N/A	N/A
+😌	Punct	O	N/A	N/A	N/A	N/A
+😊	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

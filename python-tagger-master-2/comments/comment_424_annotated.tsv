@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+NO	Spn	O	39.04	44.89	-2.38	42.51
+PUEDO	Spn	O	20.27	54.53	-1.01	53.52
+VERLO	Spn	O	22.0	48.26	-1.01	47.25
+🥺	Punct	O	N/A	N/A	N/A	N/A
+SABIENDO	Spn	O	19.53	54.16	-1.01	53.15
+QUE	Spn	O	26.46	56.13	-1.01	55.120000000000005
+YA	Spn	O	14.29	38.05	-1.01	37.04
+TERMINARON	Spn	O	38.77	55.05	-1.01	54.04
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

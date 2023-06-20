@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+are	Eng	O	50.46	30.0	-0.8	49.660000000000004
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+in	Eng	O	45.41	25.29	-0.8	44.61
+El	Spn	LOCATION/O	19.84	42.02	-2.38	39.64
+Paso	Spn	LOCATION/LUG	26.85	42.95	-1.01	41.940000000000005
+Texas	Eng	LOCATION/LUG	36.31	27.85	-2.38	33.93
+?	Punct	O	N/A	N/A	N/A	N/A
+?	Punct	O	N/A	N/A	N/A	N/A
+?	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+erick_zavala_92	Spn	O	-18.94	-11.35	-2.38	-13.73
+me	Spn	O	41.15	43.0	-1.01	41.99
+with	Eng	O	54.27	4.16	-2.38	51.89
+the	Eng	O	60.83	27.05	-0.8	60.03
+cilantro	Spn	O	8.99	31.4	-2.38	29.02
+and	Eng	O	58.08	26.56	-2.38	55.699999999999996
+menudo	Spn	O	25.94	40.89	-2.38	38.51
+that	Eng	O	68.72	14.42	-2.38	66.34
+one	Eng	O	49.51	25.47	-0.8	48.71
+day	Eng	O	41.73	23.91	-0.8	40.93
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,25 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Bro	Spn	O/ORG	22.33	29.28	-2.38	26.900000000000002
+that	Eng	O/ORG	68.72	14.42	-2.38	66.34
+reminded	Eng	O/ORG	44.83	14.48	-0.8	44.03
+me	Eng	O/ORG	41.15	43.0	-0.8	40.35
+of	Eng	O/ORG	45.37	12.91	-0.8	44.57
+that	Eng	O/ORG	68.72	14.42	-0.8	67.92
+kid	Eng	O/ORG	38.19	9.68	-0.8	37.39
+that	Eng	O/ORG	68.72	14.42	-0.8	67.92
+was	Eng	O	51.72	16.52	-0.8	50.92
+Pelon	Spn	PERSON/OTROS	25.71	34.6	-2.38	32.22
+pelon	Spn	O	25.71	34.6	-1.01	33.59
+pelon	Spn	O	25.71	34.6	-1.01	33.59
+pelooooooon	Spn	O	20.11	24.54	-1.01	23.529999999999998
+and	Eng	O	58.08	26.56	-2.38	55.699999999999996
+then	Eng	O	60.65	23.75	-0.8	59.85
+he	Eng	O	44.49	34.18	-0.8	43.690000000000005
+started	Eng	O	62.27	22.46	-0.8	61.470000000000006
+crying	Eng	O	47.76	13.76	-0.8	46.96
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

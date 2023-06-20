@@ -1,0 +1,27 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+LO	Spn	O	19.44	42.92	-2.38	40.54
+MÁXIMO	Spn	O	5.0	37.42	-1.01	36.410000000000004
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+LOS	Spn	O	23.65	49.6	-1.01	48.59
+DOS	Spn	O	23.68	44.24	-1.01	43.230000000000004
+SALUDOS	Spn	O	19.85	48.15	-1.01	47.14
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+QUE	Spn	O	26.46	56.13	-1.01	55.120000000000005
+LINDO	Spn	O	26.54	44.65	-1.01	43.64
+QUE	Spn	O	26.46	56.13	-1.01	55.120000000000005
+SIEMPRE	Spn	O	20.12	59.19	-1.01	58.18
+TE	Spn	O	25.61	41.33	-1.01	40.32
+COCIENTE	Spn	O/ORG	23.16	52.87	-1.01	51.86
+🥰	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

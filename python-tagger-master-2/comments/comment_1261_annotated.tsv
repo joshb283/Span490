@@ -1,0 +1,26 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+fr	Eng	O	14.6	11.08	-0.8	13.799999999999999
+tho	Eng	O	34.23	18.58	-0.8	33.43
+why	Eng	O	41.66	5.84	-0.8	40.86
+do	Eng	O	42.25	32.38	-0.8	41.45
+hispanic	Eng	O	29.67	9.01	-0.8	28.87
+parents	Eng	O	56.12	30.91	-0.8	55.32
+force	Eng	O	46.07	26.15	-0.8	45.27
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+get	Eng	O	48.04	13.69	-0.8	47.24
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+haircut	Eng	O	32.57	6.97	-0.8	31.77
+when	Eng	O	56.49	15.56	-0.8	55.690000000000005
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+have	Eng	O	60.11	28.54	-0.8	59.31
+like	Eng	O	57.49	21.32	-0.8	56.690000000000005
+2	Num	O	N/A	N/A	N/A	N/A
+inches	Eng	O	47.3	39.75	-0.8	46.5
+of	Eng	O	45.37	12.91	-0.8	44.57
+hair	Eng	O	37.97	21.93	-0.8	37.17
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

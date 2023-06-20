@@ -1,0 +1,24 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Our	Eng	O	44.71	13.25	-0.8	43.910000000000004
+grandma	Eng	O	32.47	29.34	-0.8	31.669999999999998
+passed	Eng	O	46.62	23.6	-0.8	45.82
+away	Eng	O	45.92	19.35	-0.8	45.120000000000005
+last	Eng	O	47.62	23.93	-0.8	46.82
+year	Eng	O	53.94	21.12	-0.8	53.14
+so	Eng	O	43.57	28.06	-0.8	42.77
+take	Eng	O	52.22	21.69	-0.8	51.42
+care	Eng	O	50.54	35.0	-0.8	49.74
+of	Eng	O	45.37	12.91	-0.8	44.57
+them	Eng	O	58.74	12.49	-0.8	57.940000000000005
+if	Eng	O	41.12	4.97	-0.8	40.32
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+still	Eng	O	53.2	12.74	-0.8	52.400000000000006
+have	Eng	O	60.11	28.54	-0.8	59.31
+yours	Eng	O	56.26	17.68	-0.8	55.46
+😌	Punct	O	N/A	N/A	N/A	N/A
+💕	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

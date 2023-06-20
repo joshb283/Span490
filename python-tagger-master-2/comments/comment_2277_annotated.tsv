@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Bro	Spn	PERSON/PERS	22.33	29.28	-2.38	26.900000000000002
+said	Eng	O/PERS	47.81	17.28	-2.38	45.43
+yo	Spn	O	24.54	38.85	-2.38	36.47
+no	Spn	O	39.04	44.89	-1.01	43.88
+sabo	Spn	O	16.37	33.68	-1.01	32.67
+💀	Punct	O	N/A	N/A	N/A	N/A
+💀	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

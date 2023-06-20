@@ -1,0 +1,10 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Woah	Eng	O	24.21	1.4	-0.8	23.41
+😳	Punct	O	N/A	N/A	N/A	N/A
+she	Eng	O	47.98	20.49	-0.8	47.18
+pretty	Eng	O	57.15	26.28	-0.8	56.35
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

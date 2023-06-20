@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Bro	Spn	PERSON/O	22.33	29.28	-2.38	26.900000000000002
+had	Eng	O	48.39	23.13	-2.38	46.01
+me	Eng	O	41.15	43.0	-0.8	40.35
+rethinking	Eng	O	66.73	11.33	-0.8	65.93
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+whole	Eng	O	54.64	17.09	-0.8	53.84
+vocabulary	Eng	O	24.26	14.23	-0.8	23.46
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,24 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+"	Punct	O	N/A	N/A	N/A	N/A
+Can	Eng	O	46.96	33.02	-0.8	46.160000000000004
+u	Eng	O	15.23	13.34	-0.8	14.43
+do	Eng	O	42.25	32.38	-0.8	41.45
+"	Punct	O	N/A	N/A	N/A	N/A
+"	Punct	O	N/A	N/A	N/A	N/A
+El	Spn	O	19.84	42.02	-2.38	39.64
+Rescate	Spn	O/ORG	33.93	41.4	-1.01	40.39
+"	Punct	O	N/A	N/A	N/A	N/A
+"	Punct	O	N/A	N/A	N/A	N/A
+by	Eng	O	35.52	13.53	-2.38	33.14
+marca	Spn	O	21.13	40.54	-2.38	38.16
+registrada	Spn	O	30.42	52.17	-1.01	51.160000000000004
+and	Eng	O	58.08	26.56	-2.38	55.699999999999996
+junior	Eng	O	40.4	29.06	-0.8	39.6
+h	Eng	O	16.45	10.5	-0.8	15.649999999999999
+pls	Eng	O	20.34	14.98	-0.8	19.54
+"	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

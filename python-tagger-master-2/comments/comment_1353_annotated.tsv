@@ -1,0 +1,21 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+this	Eng	O	59.86	22.07	-0.8	59.06
+is	Eng	O	44.66	21.08	-0.8	43.86
+literally	Eng	O	59.34	18.74	-0.8	58.540000000000006
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+video	Eng	O	31.71	26.45	-0.8	30.91
+lmao	Spn	O	6.5	12.41	-2.38	10.030000000000001
+made	Eng	O	44.26	35.03	-2.38	41.879999999999995
+it	Eng	O/OTROS	50.11	11.76	-0.8	49.31
+like	Eng	O	57.49	21.32	-0.8	56.690000000000005
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+year	Eng	O	53.94	21.12	-0.8	53.14
+ago	Eng	O	39.26	29.38	-0.8	38.46
+it	Eng	O/ORG	50.11	11.76	-0.8	49.31
+feels	Eng	O/ORG	41.58	10.74	-0.8	40.78
+like	Eng	O/ORG	57.49	21.32	-0.8	56.690000000000005
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

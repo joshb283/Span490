@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+A	Eng	O	39.06	38.09	-0.8	38.260000000000005
+Boogie	Eng	O/PERS	23.31	19.23	-0.8	22.509999999999998
+With	Eng	O/PERS	54.27	4.16	-0.8	53.470000000000006
+Two	Eng	O/PERS	43.79	14.75	-0.8	42.99
+Hoodies	Eng	O/PERS	35.77	23.17	-0.8	34.970000000000006
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

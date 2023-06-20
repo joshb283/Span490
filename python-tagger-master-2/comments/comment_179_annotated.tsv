@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Chinga	Spn	O/PERS	22.07	45.11	-2.38	42.73
+tu	Spn	O	14.03	32.67	-1.01	31.66
+madre	Spn	O	30.13	49.95	-1.01	48.940000000000005
+means	Eng	O	49.27	21.88	-2.38	46.89
+love	Eng	O	45.41	24.46	-0.8	44.61
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+mom	Eng	O	34.1	16.88	-0.8	33.300000000000004
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,10 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Santa	Spn	LOCATION/LUG	23.36	42.43	-2.38	40.05
+Tecla	Spn	LOCATION/LUG	18.94	28.98	-1.01	27.97
+El	Spn	LOCATION/O	19.84	42.02	-1.01	41.010000000000005
+Salvador	Spn	LOCATION/LUG	33.42	49.57	-1.01	48.56
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

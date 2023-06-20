@@ -1,0 +1,14 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+“	Punct	O	N/A	N/A	N/A	N/A
+take	Eng	O	52.22	21.69	-0.8	51.42
+care	Eng	O	50.54	35.0	-0.8	49.74
+of	Eng	O	45.37	12.91	-0.8	44.57
+her	Eng	O	46.52	29.04	-0.8	45.720000000000006
+super	Eng	O	44.12	35.44	-0.8	43.32
+much	Eng	O	50.21	32.0	-0.8	49.410000000000004
+“	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

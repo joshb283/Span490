@@ -1,0 +1,10 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+TU	Spn	ORGANIZATION/O	14.03	32.67	-2.38	30.290000000000003
+MI	Spn	ORGANIZATION/O	18.08	38.03	-1.01	37.02
+NOVIO	Spn	ORGANIZATION/O	19.06	42.63	-1.01	41.620000000000005
+😅	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

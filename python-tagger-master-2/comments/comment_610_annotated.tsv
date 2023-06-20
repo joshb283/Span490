@@ -1,0 +1,22 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+that	Eng	O	68.72	14.42	-0.8	67.92
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+tufff	Eng	O	15.9	7.2	-0.8	15.1
+.	Punct	O	N/A	N/A	N/A	N/A
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+should	Eng	O	60.82	10.2	-0.8	60.02
+teach	Eng	O	49.19	17.71	-0.8	48.39
+her	Eng	O	46.52	29.04	-0.8	45.720000000000006
+if	Eng	O	41.12	4.97	-0.8	40.32
+she	Eng	O	47.98	20.49	-0.8	47.18
+would	Eng	O	61.19	3.84	-0.8	60.39
+like	Eng	O	57.49	21.32	-0.8	56.690000000000005
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+learn	Eng	O	42.31	12.41	-0.8	41.510000000000005
+ykykyk	Eng	O	0.75	-4.87	-0.8	-0.050000000000000044
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

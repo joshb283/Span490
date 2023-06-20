@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+eddyl157	Spn	O	-6.7	-1.42	-2.38	-3.8
+me	Spn	O	41.15	43.0	-1.01	41.99
+I	Eng	O/ORG	42.31	11.38	-2.38	39.93
+swear	Eng	O/ORG	37.84	18.66	-0.8	37.040000000000006
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

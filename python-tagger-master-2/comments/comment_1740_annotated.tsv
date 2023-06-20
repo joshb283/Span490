@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+tell	Eng	O	49.1	23.35	-0.8	48.300000000000004
+him	Eng	O	39.42	13.41	-0.8	38.620000000000005
+miss	Eng	O	38.49	29.9	-0.8	37.690000000000005
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

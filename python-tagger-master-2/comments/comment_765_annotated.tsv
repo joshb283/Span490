@@ -1,0 +1,10 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+𝙘𝙖𝙣	Eng	O	-13.89	-14.32	-0.8	-14.690000000000001
+𝙄	Eng	O	-10.67	-11.1	-0.8	-11.47
+𝙟𝙤𝙞𝙣	Eng	O	-15.5	-15.93	-0.8	-16.3
+𝙘𝙪𝙝	Eng	O	-13.89	-14.32	-0.8	-14.690000000000001
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

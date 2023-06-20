@@ -1,0 +1,27 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Shieeet	Eng	O/PERS	26.61	6.04	-0.8	25.81
+.	Punct	O	N/A	N/A	N/A	N/A
+We	Eng	O	46.45	7.69	-0.8	45.650000000000006
+half	Eng	O	42.0	11.47	-0.8	41.2
+way	Eng	O	46.27	15.37	-0.8	45.470000000000006
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+half	Eng	O	42.0	11.47	-0.8	41.2
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+milli	Eng	O	26.48	23.07	-0.8	25.68
+!	Punct	O	N/A	N/A	N/A	N/A
+!	Punct	O	N/A	N/A	N/A	N/A
+!	Punct	O	N/A	N/A	N/A	N/A
+!	Punct	O	N/A	N/A	N/A	N/A
+I	Eng	O	42.31	11.38	-0.8	41.510000000000005
+told	Eng	O	46.04	18.64	-0.8	45.24
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+!	Punct	O	N/A	N/A	N/A	N/A
+!	Punct	O	N/A	N/A	N/A	N/A
+!	Punct	O	N/A	N/A	N/A	N/A
+#	Punct	O	N/A	N/A	N/A	N/A
+road2aMilli	Eng	O	12.71	1.82	-0.8	11.91
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

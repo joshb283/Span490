@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+thekaro	Eng	O	27.83	22.21	-0.8	27.029999999999998
+gonna	Eng	O	42.51	19.51	-0.8	41.71
+be	Eng	O	42.62	20.92	-0.8	41.82
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+dayos	Spn	O	20.7	28.52	-2.38	26.14
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

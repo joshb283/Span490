@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+He	Eng	O	44.49	34.18	-0.8	43.690000000000005
+gon	Eng	O	32.91	18.95	-0.8	32.11
+grab	Eng	O	26.81	13.87	-0.8	26.009999999999998
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+huesitos	Spn	O	14.05	44.07	-2.38	41.69
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

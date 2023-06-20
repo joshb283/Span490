@@ -1,0 +1,26 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Jajaja	Spn	PERSON/O	6.45	15.99	-2.38	13.61
+oye	Spn	O	15.37	27.63	-1.01	26.619999999999997
+soy	Spn	O	27.55	39.43	-1.01	38.42
+de	Spn	O	26.21	47.06	-1.01	46.050000000000004
+Perú	Spn	O/LUG	6.56	16.82	-1.01	15.81
+los	Spn	O	23.65	49.6	-1.01	48.59
+veo	Spn	O	17.01	36.61	-1.01	35.6
+siempre	Spn	O	20.12	59.19	-1.01	58.18
+me	Spn	O	41.15	43.0	-1.01	41.99
+mandas	Spn	O	35.17	50.3	-1.01	49.29
+un	Spn	O	21.77	40.51	-1.01	39.5
+saludo	Spn	O	23.63	44.35	-1.01	43.34
+porfi	Spn	O	13.22	18.72	-1.01	17.709999999999997
+💗	Punct	O	N/A	N/A	N/A	N/A
+💗	Punct	O	N/A	N/A	N/A	N/A
+💗	Punct	O	N/A	N/A	N/A	N/A
+💗	Punct	O	N/A	N/A	N/A	N/A
+💗	Punct	O	N/A	N/A	N/A	N/A
+💗	Punct	O	N/A	N/A	N/A	N/A
+😍	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

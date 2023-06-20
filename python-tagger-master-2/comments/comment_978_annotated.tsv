@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+¿	Punct	O	N/A	N/A	N/A	N/A
+Does	Eng	O	50.07	24.01	-0.8	49.27
+he	Eng	O	44.49	34.18	-0.8	43.690000000000005
+know	Eng	O	60.3	6.12	-0.8	59.5
+the	Eng	O	60.83	27.05	-0.8	60.03
+word	Eng	O	43.09	7.0	-0.8	42.290000000000006
+chancla	Spn	O	26.23	35.04	-2.38	32.66
+?	Punct	O	N/A	N/A	N/A	N/A
+😁	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

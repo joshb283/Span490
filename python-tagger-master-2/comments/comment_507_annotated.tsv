@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+LMAO	Spn	ORGANIZATION/ORG	6.5	12.41	-2.38	10.030000000000001
+NOT	Eng	O/ORG	48.64	20.26	-2.38	46.26
+THE	Eng	O	60.83	27.05	-0.8	60.03
+SOPA	Spn	O	16.99	33.75	-2.38	31.37
+😭	Punct	O	N/A	N/A	N/A	N/A
+💀	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

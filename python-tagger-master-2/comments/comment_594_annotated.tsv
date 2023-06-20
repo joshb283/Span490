@@ -1,0 +1,22 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+baby	Eng	O	36.55	20.71	-0.8	35.75
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+could	Eng	O/ORG	58.14	16.9	-0.8	57.34
+speak	Eng	O/ORG	38.44	9.07	-0.8	37.64
+Spanish	Eng	O/ORG	39.06	8.16	-0.8	38.260000000000005
+and	Eng	O	58.08	26.56	-0.8	57.28
+I	Eng	O/OTROS	42.31	11.38	-0.8	41.510000000000005
+still	Eng	O/OTROS	53.2	12.74	-0.8	52.400000000000006
+would	Eng	O/OTROS	61.19	3.84	-0.8	60.39
+never	Eng	O	54.2	28.98	-0.8	53.400000000000006
+in	Eng	O	45.41	25.29	-0.8	44.61
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+life	Eng	O	43.73	20.47	-0.8	42.93
+ever	Eng	O	51.06	27.62	-0.8	50.260000000000005
+guess	Eng	O	55.63	17.83	-0.8	54.830000000000005
+this	Eng	O	59.86	22.07	-0.8	59.06
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

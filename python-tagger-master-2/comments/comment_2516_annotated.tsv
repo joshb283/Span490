@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+I	Eng	O	42.31	11.38	-0.8	41.510000000000005
+was	Eng	O	51.72	16.52	-0.8	50.92
+in	Eng	O	45.41	25.29	-0.8	44.61
+the	Eng	O	60.83	27.05	-0.8	60.03
+restroom	Eng	O	42.22	19.72	-0.8	41.42
+getting	Eng	O	68.58	9.63	-0.8	67.78
+puro	Spn	O	19.61	41.18	-2.38	38.8
+Pablo	Spn	PERSON/PERS	13.49	33.08	-1.01	32.07
+Escobar	Spn	PERSON/PERS	17.84	45.39	-1.01	44.38
+👽	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

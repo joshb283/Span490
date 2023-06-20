@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Instead	Eng	O/ORG	54.64	19.76	-0.8	53.84
+no	Spn	O	39.04	44.89	-2.38	42.51
+Sabo	Spn	PERSON/PERS	16.37	33.68	-1.01	32.67
+kids	Eng	O	46.98	8.94	-2.38	44.599999999999994
+let	Eng	O/ORG	41.33	17.8	-0.8	40.53
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+just	Eng	O/ORG	56.89	16.33	-0.8	56.09
+say	Eng	O/ORG	43.93	22.05	-0.8	43.13
+Gringonese	Spn	O/ORG	27.1	34.06	-2.38	31.680000000000003
+kids	Eng	O/ORG	46.98	8.94	-2.38	44.599999999999994
+be	Eng	O/ORG	42.62	20.92	-0.8	41.82
+like	Eng	O/ORG	57.49	21.32	-0.8	56.690000000000005
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

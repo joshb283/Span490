@@ -1,0 +1,23 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+su	Spn	O	14.41	35.66	-2.38	33.279999999999994
+cara	Spn	O	25.3	46.58	-1.01	45.57
+:	Punct	O	N/A	N/A	N/A	N/A
+😍	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+😍	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+😍	Punct	O	N/A	N/A	N/A	N/A
+🥰	Punct	O	N/A	N/A	N/A	N/A
+como	Spn	O	21.69	52.03	-1.01	51.02
+habla	Spn	O	18.37	49.95	-1.01	48.940000000000005
+:	Punct	O	N/A	N/A	N/A	N/A
+😈	Punct	O	N/A	N/A	N/A	N/A
+🔪	Punct	O	N/A	N/A	N/A	N/A
+💥	Punct	O	N/A	N/A	N/A	N/A
+☠	Punct	O	N/A	N/A	N/A	N/A
+💀	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

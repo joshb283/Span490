@@ -1,0 +1,21 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Him	Eng	O/ORG	39.42	13.41	-0.8	38.620000000000005
+-	Punct	O	N/A	N/A	N/A	N/A
+he	Eng	O/ORG	44.49	34.18	-0.8	43.690000000000005
+will	Eng	O/ORG	48.96	7.58	-0.8	48.160000000000004
+give	Eng	O	46.96	21.81	-0.8	46.160000000000004
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+permission	Eng	O	54.18	38.74	-0.8	53.38
+“	Punct	O	N/A	N/A	N/A	N/A
+QUE	Spn	O	26.46	56.13	-2.38	53.75
+TO	Eng	O	48.13	29.93	-2.38	45.75
+QUE	Spn	O	26.46	56.13	-2.38	53.75
+”	Punct	O	N/A	N/A	N/A	N/A
+-	Punct	O	N/A	N/A	N/A	N/A
+🤨	Punct	O	N/A	N/A	N/A	N/A
+😭	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

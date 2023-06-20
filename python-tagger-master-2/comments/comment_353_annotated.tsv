@@ -1,0 +1,22 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+99ghost_boy22	Spn	O	-28.74	-18.32	-2.38	-20.7
+bro	Spn	O	22.33	29.28	-1.01	28.27
+that	Eng	O	68.72	14.42	-2.38	66.34
+'	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+gonna	Eng	O/ORG	42.51	19.51	-0.8	41.71
+be	Eng	O/ORG	42.62	20.92	-0.8	41.82
+me	Eng	O/ORG	41.15	43.0	-0.8	40.35
+when	Eng	O/ORG	56.49	15.56	-0.8	55.690000000000005
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+pull	Eng	O/ORG	38.48	18.42	-0.8	37.68
+up	Eng	O/ORG	37.07	9.61	-0.8	36.27
+toy	Eng	O/ORG	31.07	27.22	-0.8	30.27
+girls	Eng	O/ORG	38.47	9.64	-0.8	37.67
+house	Eng	O	54.79	25.31	-0.8	53.99
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

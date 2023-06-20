@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+itzmsbadbleep	Eng	O	15.58	-10.62	-0.8	14.78
+“	Punct	O	N/A	N/A	N/A	N/A
+Colgate	Spn	O/ORG	32.85	40.21	-2.38	37.83
+Pendeja	Spn	O/ORG	16.72	46.75	-1.01	45.74
+…	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

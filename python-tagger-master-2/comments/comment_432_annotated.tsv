@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Aw	Eng	O	19.65	4.04	-0.8	18.849999999999998
+es	Spn	O	21.58	44.75	-2.38	42.37
+demasiado	Spn	O	23.0	64.71	-1.01	63.699999999999996
+tierno	Spn	O	22.06	47.57	-1.01	46.56
+JSKAJAKAA	Spn	LOCATION/ORG	-5.17	-3.7	-1.01	-4.71
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

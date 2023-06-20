@@ -1,0 +1,10 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+get	Eng	O	48.04	13.69	-0.8	47.24
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+Pumas	Spn	LOCATION/PERS	28.37	31.78	-2.38	29.400000000000002
+Jersey	Eng	LOCATION/PERS	23.71	13.9	-2.38	21.330000000000002
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

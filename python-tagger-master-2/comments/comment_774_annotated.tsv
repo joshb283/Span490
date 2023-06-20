@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+sike_i_lied8	Spn	O	-10.24	-7.83	-2.38	-10.21
+i	Eng	O	42.31	11.38	-2.38	39.93
+feel	Eng	O	42.65	17.76	-0.8	41.85
+like	Eng	O	57.49	21.32	-0.8	56.690000000000005
+Julio	Spn	PERSON/PERS	15.28	30.71	-2.38	28.330000000000002
+would	Eng	O	61.19	3.84	-2.38	58.809999999999995
+repost	Eng	O	39.97	15.45	-0.8	39.17
+this	Eng	O	59.86	22.07	-0.8	59.06
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

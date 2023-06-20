@@ -1,0 +1,21 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+✨	Punct	O	N/A	N/A	N/A	N/A
+ya	Spn	O	14.29	38.05	-2.38	35.669999999999995
+pero	Spn	O	24.95	52.4	-1.01	51.39
+primero	Spn	O	27.46	61.48	-1.01	60.47
+la	Spn	O	18.68	44.74	-1.01	43.730000000000004
+pasta	Spn	O	29.38	47.57	-1.01	46.56
+y	Spn	O	21.5	34.41	-1.01	33.4
+luego	Spn	O	17.45	48.66	-1.01	47.65
+un	Spn	O	21.77	40.51	-1.01	39.5
+chino	Spn	O	26.08	43.7	-1.01	42.690000000000005
+✨	Punct	O	N/A	N/A	N/A	N/A
+💕	Punct	O	N/A	N/A	N/A	N/A
+es	Spn	O	21.58	44.75	-1.01	43.74
+una	Spn	O	21.97	46.98	-1.01	45.97
+ternuraaaa	Spn	O	7.42	19.98	-1.01	18.97
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

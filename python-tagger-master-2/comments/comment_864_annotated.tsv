@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+𝒉𝒐𝒍𝒂𝒂𝒂𝒂𝒂	Eng	O	-21.94	-22.37	-0.8	-22.740000000000002
+𝒔𝒐𝒏	Eng	O	-13.89	-14.32	-0.8	-14.690000000000001
+𝒍𝒂	Eng	O	-12.28	-12.71	-0.8	-13.08
+𝒎𝒆𝒋𝒐𝒓	Eng	O	-17.11	-17.54	-0.8	-17.91
+𝒑𝒂𝒓𝒆𝒋𝒂	Eng	O	-18.72	-19.15	-0.8	-19.52
+𝒙𝒅	Eng	O	-12.28	-12.71	-0.8	-13.08
+༼	Punct	O	N/A	N/A	N/A	N/A
+つ	Eng	O	-10.67	-11.1	-0.8	-11.47
+◕	Punct	O	N/A	N/A	N/A	N/A
+◡	Punct	O	N/A	N/A	N/A	N/A
+◕	Punct	O	N/A	N/A	N/A	N/A
+༽	Punct	O	N/A	N/A	N/A	N/A
+つ	Eng	O	-10.67	-11.1	-0.8	-11.47
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

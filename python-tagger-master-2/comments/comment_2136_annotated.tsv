@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+L	Spn	O	14.09	15.05	-2.38	12.670000000000002
+América	Spn	O/ORG	18.73	36.6	-1.01	35.59
+W	Eng	O/ORG	15.8	-2.58	-2.38	13.420000000000002
+Chivass	Eng	O/ORG	27.05	25.34	-0.8	26.25
+🤍	Punct	O	N/A	N/A	N/A	N/A
+❤	Punct	O	N/A	N/A	N/A	N/A
+️	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

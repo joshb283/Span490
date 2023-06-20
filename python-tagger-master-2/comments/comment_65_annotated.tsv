@@ -1,0 +1,20 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Why	Eng	O/ORG	41.66	5.84	-0.8	40.86
+nobody	Eng	O/ORG	49.48	17.32	-0.8	48.68
+talking	Eng	O/ORG	67.5	20.92	-0.8	66.7
+bout	Eng	O/ORG	44.78	11.62	-0.8	43.980000000000004
+his	Eng	O/ORG	44.36	27.21	-0.8	43.56
+first	Eng	O/ORG	52.19	16.64	-0.8	51.39
+line	Eng	O	44.34	30.77	-0.8	43.540000000000006
+“	Punct	O	N/A	N/A	N/A	N/A
+buenas	Spn	O	22.42	54.14	-2.38	51.76
+nalgas	Spn	O	20.64	37.42	-1.01	36.410000000000004
+”	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

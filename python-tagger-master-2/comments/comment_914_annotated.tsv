@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+notwilldania	Spn	O	20.74	20.68	-2.38	18.3
+Me	Spn	O	41.15	43.0	-1.01	41.99
+be	Eng	O	42.62	20.92	-2.38	40.239999999999995
+like	Eng	O	57.49	21.32	-0.8	56.690000000000005
+:	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

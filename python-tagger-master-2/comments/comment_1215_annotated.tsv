@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+cachar	Spn	O	17.04	37.27	-2.38	34.89
+is	Eng	O	44.66	21.08	-2.38	42.279999999999994
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+word	Eng	O	43.09	7.0	-0.8	42.290000000000006
+used	Eng	O	48.97	21.24	-0.8	48.17
+in	Eng	O	45.41	25.29	-0.8	44.61
+chile	Eng	O	44.64	38.28	-0.8	43.84
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

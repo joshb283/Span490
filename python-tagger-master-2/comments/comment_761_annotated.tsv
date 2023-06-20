@@ -1,0 +1,10 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Damn	Eng	O/ORG	24.11	17.66	-0.8	23.31
+cheeky	Eng	O/ORG	22.41	14.06	-0.8	21.61
+moments	Eng	O/ORG	48.81	33.08	-0.8	48.010000000000005
+😳	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

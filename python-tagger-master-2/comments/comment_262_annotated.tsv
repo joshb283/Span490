@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Me	Spn	O	41.15	43.0	-2.38	40.62
+cae	Spn	O	16.66	31.6	-1.01	30.59
+re	Eng	O	44.29	29.91	-2.38	41.91
+bien	Spn	O	22.54	48.79	-2.38	46.41
+tu	Spn	O	14.03	32.67	-1.01	31.66
+novio	Spn	O	19.06	42.63	-1.01	41.620000000000005
+jsjs	Spn	O	4.15	2.23	-1.01	1.22
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

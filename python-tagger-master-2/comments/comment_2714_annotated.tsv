@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Side	Eng	O/PERS	42.92	35.29	-0.8	42.120000000000005
+note	Eng	O	39.9	36.58	-0.8	39.1
+is	Eng	O	44.66	21.08	-0.8	43.86
+that	Eng	O	68.72	14.42	-0.8	67.92
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+Loteria	Spn	O/ORG	29.66	36.02	-2.38	33.64
+lanyard	Eng	O/ORG	31.1	17.59	-2.38	28.720000000000002
+?	Punct	O	N/A	N/A	N/A	N/A
+😃	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Ayo	Spn	PERSON/O	9.04	24.06	-2.38	21.68
+first	Eng	O	52.19	16.64	-2.38	49.809999999999995
+🤟	Punct	O	N/A	N/A	N/A	N/A
+🏼	Punct	O	N/A	N/A	N/A	N/A
+🔥	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

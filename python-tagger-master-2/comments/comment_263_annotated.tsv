@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+nabitonta	Spn	O	6.87	23.41	-2.38	21.03
+tiene	Spn	O	28.36	54.69	-1.01	53.68
+que	Spn	O	26.46	56.13	-1.01	55.120000000000005
+quedar	Spn	O	22.08	56.29	-1.01	55.28
+como	Spn	O	21.69	52.03	-1.01	51.02
+tú	Spn	O	-1.29	33.59	-1.01	32.580000000000005
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

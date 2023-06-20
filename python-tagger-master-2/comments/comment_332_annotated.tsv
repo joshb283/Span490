@@ -1,0 +1,9 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+NO	Spn	O	39.04	44.89	-2.38	42.51
+SABO	Spn	O/PERS	16.37	33.68	-1.01	32.67
+AHAHAHAHAA	Spn	LOCATION/PERS	6.7	10.01	-1.01	9.0
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

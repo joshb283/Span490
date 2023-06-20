@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+miche	Spn	O	28.07	30.48	-2.38	28.1
+.	Punct	O	N/A	N/A	N/A	N/A
+40	Num	O	N/A	N/A	N/A	N/A
+✨	Punct	O	N/A	N/A	N/A	N/A
+me	Spn	O	41.15	43.0	-1.01	41.99
+fui	Spn	O	11.79	27.61	-1.01	26.599999999999998
+a	Spn	O	39.06	38.09	-1.01	37.080000000000005
+comprar	Spn	O	30.36	55.82	-1.01	54.81
+✨	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

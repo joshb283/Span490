@@ -1,0 +1,27 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Girl	Eng	O	32.89	8.72	-0.8	32.09
+she	Eng	O	47.98	20.49	-0.8	47.18
+doesn	Eng	O	51.86	9.83	-0.8	51.06
+’	Punct	O	N/A	N/A	N/A	N/A
+t	Eng	O	40.21	10.87	-0.8	39.410000000000004
+know	Eng	O	60.3	6.12	-0.8	59.5
+how	Eng	O	45.28	13.44	-0.8	44.480000000000004
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+speak	Eng	O/ORG	38.44	9.07	-0.8	37.64
+English	Eng	O/ORG	35.81	18.35	-0.8	35.010000000000005
+either	Eng	O	56.4	15.09	-0.8	55.6
+lol	Eng	O	19.76	18.87	-0.8	18.96
+retainer	Eng	O	39.2	24.98	-0.8	38.400000000000006
+is	Eng	O	44.66	21.08	-0.8	43.86
+retenedor	Spn	O	28.56	39.19	-2.38	36.809999999999995
+in	Eng	O	45.41	25.29	-2.38	43.029999999999994
+Spanish	Eng	O/ORG	39.06	8.16	-0.8	38.260000000000005
+paladar	Spn	O	18.05	41.09	-2.38	38.71
+is	Eng	O	44.66	21.08	-2.38	42.279999999999994
+something	Eng	O	87.24	18.85	-0.8	86.44
+else	Eng	O	44.21	24.26	-0.8	43.410000000000004
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

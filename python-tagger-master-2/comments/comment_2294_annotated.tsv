@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+iiloveetoosii4	Spn	O	-22.64	-19.04	-2.38	-21.419999999999998
+ur	Eng	O	18.65	14.07	-2.38	16.27
+family	Eng	O	54.07	30.22	-0.8	53.27
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+abram	Eng	O	25.06	18.78	-0.8	24.259999999999998
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

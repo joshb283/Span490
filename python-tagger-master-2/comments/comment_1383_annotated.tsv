@@ -1,0 +1,10 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+he	Eng	O	44.49	34.18	-0.8	43.690000000000005
+said	Eng	O	47.81	17.28	-0.8	47.010000000000005
+he	Eng	O	44.49	34.18	-0.8	43.690000000000005
+pregnant	Eng	O	46.84	18.35	-0.8	46.040000000000006
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+bro	Spn	O	22.33	29.28	-2.38	26.900000000000002
+what	Eng	O	61.03	9.63	-2.38	58.65
+is	Eng	O	44.66	21.08	-0.8	43.86
+that	Eng	O	68.72	14.42	-0.8	67.92
+combo	Spn	O	25.89	33.57	-2.38	31.19
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

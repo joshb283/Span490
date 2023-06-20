@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+You	Eng	O	56.67	25.36	-0.8	55.870000000000005
+are	Eng	O	50.46	30.0	-0.8	49.660000000000004
+such	Eng	O	44.72	19.98	-0.8	43.92
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+wise	Eng	O	41.44	15.66	-0.8	40.64
+an	Eng	O	41.88	24.48	-0.8	41.080000000000005
+eloquent	Eng	O	25.85	11.99	-0.8	25.05
+young	Eng	O	55.09	19.97	-0.8	54.290000000000006
+lady	Eng	O	35.26	29.48	-0.8	34.46
+.	Punct	O	N/A	N/A	N/A	N/A
+Thank	Eng	O	53.77	16.35	-0.8	52.970000000000006
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+🙏	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,24 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Si	Spn	O	14.77	35.22	-2.38	32.839999999999996
+Fuese	Spn	O	30.4	41.01	-1.01	40.0
+latino	Spn	O	26.42	40.08	-1.01	39.07
+te	Spn	O	25.61	41.33	-1.01	40.32
+hubiese	Spn	O	26.21	47.39	-1.01	46.38
+dicho	Spn	O	21.33	49.41	-1.01	48.4
+ah	Eng	O	31.09	22.41	-2.38	28.71
+tu	Spn	O	14.03	32.67	-2.38	30.290000000000003
+novio	Spn	O	19.06	42.63	-1.01	41.620000000000005
+favorito	Spn	O	42.74	55.47	-1.01	54.46
+?	Punct	O	N/A	N/A	N/A	N/A
+Ósea	Spn	O	3.5	13.8	-1.01	12.790000000000001
+hay	Spn	O	24.83	40.41	-1.01	39.4
+mas	Spn	O	31.72	34.11	-1.01	33.1
+?	Punct	O	N/A	N/A	N/A	N/A
+!	Punct	O	N/A	N/A	N/A	N/A
+!	Punct	O	N/A	N/A	N/A	N/A
+!	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

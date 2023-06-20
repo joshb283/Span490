@@ -1,0 +1,20 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+He	Eng	O	44.49	34.18	-0.8	43.690000000000005
+is	Eng	O	44.66	21.08	-0.8	43.86
+such	Eng	O	44.72	19.98	-0.8	43.92
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+cutie	Eng	O	25.81	21.73	-0.8	25.009999999999998
+pie	Spn	O	28.55	32.89	-2.38	30.51
+🥰	Punct	O	N/A	N/A	N/A	N/A
+Make	Eng	O/ORG	50.59	18.5	-2.38	48.21
+more	Eng	O/ORG	53.89	32.84	-0.8	53.09
+videos	Eng	O/ORG	31.93	32.57	-0.8	31.13
+of	Eng	O/ORG	45.37	12.91	-0.8	44.57
+him	Eng	O/ORG	39.42	13.41	-0.8	38.620000000000005
+translating	Eng	O/ORG	60.52	20.49	-0.8	59.720000000000006
+!	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

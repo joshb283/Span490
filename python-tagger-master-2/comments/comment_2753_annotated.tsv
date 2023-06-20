@@ -1,0 +1,23 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+I	Eng	O	42.31	11.38	-0.8	41.510000000000005
+gave	Eng	O	44.2	22.93	-0.8	43.400000000000006
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+soccer	Eng	O	38.32	27.41	-0.8	37.52
+coach	Eng	O/ORG	40.43	23.33	-0.8	39.63
+/	Punct	O	N/A	N/A	N/A	N/A
+Spanish	Eng	O/ORG	39.06	8.16	-0.8	38.260000000000005
+teacher	Eng	O/ORG	56.39	26.9	-0.8	55.59
+the	Eng	O/ORG	60.83	27.05	-0.8	60.03
+wrong	Eng	O/ORG	45.82	0.11	-0.8	45.02
+amount	Eng	O/ORG	46.37	12.62	-0.8	45.57
+for	Eng	O	47.94	28.79	-0.8	47.14
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+jersey	Eng	O	23.71	13.9	-0.8	22.91
+because	Eng	O	75.01	22.56	-0.8	74.21000000000001
+of	Eng	O	45.37	12.91	-0.8	44.57
+this	Eng	O	59.86	22.07	-0.8	59.06
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

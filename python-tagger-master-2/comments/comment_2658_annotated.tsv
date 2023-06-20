@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+I	Eng	O	42.31	11.38	-0.8	41.510000000000005
+honestly	Eng	O	47.55	19.72	-0.8	46.75
+never	Eng	O	54.2	28.98	-0.8	53.400000000000006
+heard	Eng	O	51.23	17.1	-0.8	50.43
+anyone	Eng	O	55.37	20.77	-0.8	54.57
+say	Eng	O	43.93	22.05	-0.8	43.13
+yo	Spn	O	24.54	38.85	-2.38	36.47
+sabo	Spn	O	16.37	33.68	-1.01	32.67
+until	Eng	O	41.68	25.6	-2.38	39.3
+this	Eng	O	59.86	22.07	-0.8	59.06
+app	Eng	O	17.58	6.34	-0.8	16.779999999999998
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

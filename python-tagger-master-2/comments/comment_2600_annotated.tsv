@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+There	Eng	O/ORG	70.66	28.64	-0.8	69.86
+’	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+certainly	Eng	O	62.02	17.66	-0.8	61.220000000000006
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+lot	Eng	O	46.99	17.08	-0.8	46.190000000000005
+of	Eng	O	45.37	12.91	-0.8	44.57
+division	Eng	O	52.97	38.89	-0.8	52.17
+within	Eng	O	52.25	7.89	-0.8	51.45
+our	Eng	O	44.71	13.25	-0.8	43.910000000000004
+community	Eng	O	60.27	16.19	-0.8	59.470000000000006
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

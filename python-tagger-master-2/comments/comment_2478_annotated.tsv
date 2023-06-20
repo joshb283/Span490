@@ -1,0 +1,11 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Acaponeta	Spn	PERSON/ORG	14.05	31.16	-2.38	28.78
+Huajicori	Eng	PERSON/ORG	10.01	6.38	-2.38	7.63
+and	Eng	O/ORG	58.08	26.56	-0.8	57.28
+Tepic	Eng	LOCATION/ORG	19.97	9.15	-0.8	19.169999999999998
+🥰	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

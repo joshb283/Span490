@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+No	Spn	O	39.04	44.89	-2.38	42.51
+bc	Eng	O	4.51	0.41	-2.38	2.13
+her	Eng	O	46.52	29.04	-0.8	45.720000000000006
+parents	Eng	O	56.12	30.91	-0.8	55.32
+probably	Eng	O	71.13	31.99	-0.8	70.33
+spoke	Eng	O	36.51	10.22	-0.8	35.71
+mostly	Eng	O	52.91	19.22	-0.8	52.11
+English	Eng	O	35.81	18.35	-0.8	35.010000000000005
+to	Eng	O	48.13	29.93	-0.8	47.330000000000005
+her	Eng	O	46.52	29.04	-0.8	45.720000000000006
+😭	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

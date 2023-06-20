@@ -1,0 +1,20 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+said	Eng	O/ORG	47.81	17.28	-0.8	47.010000000000005
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+was	Eng	O	51.72	16.52	-0.8	50.92
+embarasado	Spn	O	18.69	48.63	-2.38	46.25
+infront	Eng	O/ORG	38.88	12.71	-2.38	36.5
+of	Eng	O	45.37	12.91	-0.8	44.57
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+whole	Eng	O	54.64	17.09	-0.8	53.84
+once	Eng	O	46.71	27.42	-0.8	45.910000000000004
+as	Eng	O	41.38	30.98	-0.8	40.580000000000005
+an	Eng	O	41.88	24.48	-0.8	41.080000000000005
+accident	Eng	O	54.26	29.23	-0.8	53.46
+💀	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+isaiahr_224	Spn	O	-7.81	-6.94	-2.38	-9.32
+guess	Eng	O	55.63	17.83	-2.38	53.25
+he	Eng	O	44.49	34.18	-0.8	43.690000000000005
+'	Punct	O	N/A	N/A	N/A	N/A
+s	Eng	O	40.13	19.22	-0.8	39.330000000000005
+not	Eng	O/ORG	48.64	20.26	-0.8	47.84
+on	Eng	O	43.01	23.0	-0.8	42.21
+dualingo	Spn	O	21.25	23.69	-2.38	21.310000000000002
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

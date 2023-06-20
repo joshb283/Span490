@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+dxniyay	Eng	O	8.92	6.23	-0.8	8.12
+@	Punct	O	N/A	N/A	N/A	N/A
+minionsyesplease	Eng	O	38.06	21.93	-0.8	37.260000000000005
+@	Punct	O	N/A	N/A	N/A	N/A
+toenality	Eng	O	38.2	8.3	-0.8	37.400000000000006
+GOD	Eng	O/ORG	23.76	12.54	-0.8	22.96
+DAMN	Eng	O/ORG	24.11	17.66	-0.8	23.31
+💀	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,20 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+😂	Punct	O	N/A	N/A	N/A	N/A
+Omg	Eng	O/ORG	6.52	0.04	-0.8	5.72
+he	Eng	O	44.49	34.18	-0.8	43.690000000000005
+is	Eng	O	44.66	21.08	-0.8	43.86
+so	Eng	O	43.57	28.06	-0.8	42.77
+cute	Eng	O	36.32	26.19	-0.8	35.52
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+son	Eng	O	41.69	40.73	-0.8	40.89
+would	Eng	O	61.19	3.84	-0.8	60.39
+be	Eng	O	42.62	20.92	-0.8	41.82
+just	Eng	O/ORG	56.89	16.33	-0.8	56.09
+like	Eng	O/ORG	57.49	21.32	-0.8	56.690000000000005
+that	Eng	O/ORG	68.72	14.42	-0.8	67.92
+😅	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

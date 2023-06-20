@@ -1,0 +1,16 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+highkeyj124	Eng	O/ORG	1.41	0.97	-0.8	0.6099999999999999
+Wanna	Eng	O/ORG	40.82	13.66	-0.8	40.02
+try	Eng	O/ORG	43.92	17.78	-0.8	43.120000000000005
+this	Eng	O/ORG	59.86	22.07	-0.8	59.06
+when	Eng	O/ORG	56.49	15.56	-0.8	55.690000000000005
+I	Eng	O/ORG	42.31	11.38	-0.8	41.510000000000005
+’	Punct	O	N/A	N/A	N/A	N/A
+m	Eng	O/ORG	33.66	10.74	-0.8	32.86
+home	Eng	O/ORG	50.87	37.23	-0.8	50.07
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

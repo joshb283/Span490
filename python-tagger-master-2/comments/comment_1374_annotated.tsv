@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+@	Punct	O	N/A	N/A	N/A	N/A
+quickley_	Eng	O	9.43	4.05	-0.8	8.629999999999999
+@	Punct	O	N/A	N/A	N/A	N/A
+239	Num	O	N/A	N/A	N/A	N/A
+.	Punct	O	N/A	N/A	N/A	N/A
+fwchris	Eng	O	12.11	11.0	-0.8	11.309999999999999
+Chrissy	Eng	PERSON/PERS	16.79	13.06	-0.8	15.989999999999998
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,17 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Entonces	Spn	O	29.55	64.95	-2.38	62.57
+si	Spn	O	14.77	35.22	-1.01	34.21
+Jordan	Spn	LOCATION/PERS	22.45	24.73	-1.01	23.72
+es	Spn	O	21.58	44.75	-1.01	43.74
+tu	Spn	O	14.03	32.67	-1.01	31.66
+novio	Spn	O	19.06	42.63	-1.01	41.620000000000005
+favorito	Spn	O	42.74	55.47	-1.01	54.46
+cuantos	Spn	O	10.5	57.16	-1.01	56.15
+novios	Spn	O	18.98	47.35	-1.01	46.34
+tienes	Spn	O	31.78	61.15	-1.01	60.14
+😳	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

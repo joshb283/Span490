@@ -1,0 +1,15 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Aye	Spn	O	15.06	24.65	-2.38	22.27
+bruh	Eng	O	24.79	11.39	-2.38	22.41
+you	Eng	O	56.67	25.36	-0.8	55.870000000000005
+got	Eng	O	48.21	15.31	-0.8	47.410000000000004
+me	Eng	O	41.15	43.0	-0.8	40.35
+nervous	Eng	O	33.99	26.32	-0.8	33.190000000000005
+for	Eng	O	47.94	28.79	-0.8	47.14
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+second	Eng	O	50.13	21.93	-0.8	49.330000000000005
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

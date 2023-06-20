@@ -1,0 +1,21 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Love	Eng	O	45.41	24.46	-0.8	44.61
+my	Eng	O	41.2	20.91	-0.8	40.400000000000006
+family	Eng	O	54.07	30.22	-0.8	53.27
+we	Eng	O	46.45	7.69	-0.8	45.650000000000006
+are	Eng	O	50.46	30.0	-0.8	49.660000000000004
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+fucking	Eng	O/ORG	39.38	16.07	-0.8	38.580000000000005
+mess	Eng	O/ORG	42.27	22.48	-0.8	41.470000000000006
+bu	Eng	O/ORG	18.34	14.05	-0.8	17.54
+we	Eng	O/ORG	46.45	7.69	-0.8	45.650000000000006
+get	Eng	O/ORG	48.04	13.69	-0.8	47.24
+it	Eng	O/ORG	50.11	11.76	-0.8	49.31
+along	Eng	O/ORG	49.4	13.42	-0.8	48.6
+just	Eng	O/ORG	56.89	16.33	-0.8	56.09
+fine	Eng	O/ORG	43.85	30.78	-0.8	43.050000000000004
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

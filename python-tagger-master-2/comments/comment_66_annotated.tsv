@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+why	Eng	O	41.66	5.84	-0.8	40.86
+was	Eng	O	51.72	16.52	-0.8	50.92
+he	Eng	O	44.49	34.18	-0.8	43.690000000000005
+lowkey	Eng	O	27.07	18.46	-0.8	26.27
+excited	Eng	O	47.13	32.92	-0.8	46.330000000000005
+abajo	Spn	O	13.54	43.54	-2.38	41.16
+😳	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

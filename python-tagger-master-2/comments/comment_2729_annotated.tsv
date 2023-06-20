@@ -1,0 +1,18 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+My	Eng	O	41.2	20.91	-0.8	40.400000000000006
+6	Num	O	N/A	N/A	N/A	N/A
+yr	Eng	O	9.86	7.19	-0.8	9.059999999999999
+old	Eng	O	41.25	14.3	-0.8	40.45
+has	Eng	O	46.17	42.75	-0.8	45.370000000000005
+a	Eng	O	39.06	38.09	-0.8	38.260000000000005
+heavy	Eng	O	39.62	8.66	-0.8	38.82
+speech	Eng	O	39.61	6.09	-0.8	38.81
+impediment	Eng	O	36.14	22.28	-0.8	35.34
+as	Eng	O	41.38	30.98	-0.8	40.580000000000005
+well	Eng	O	57.6	13.82	-0.8	56.800000000000004
+🥺	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+regalame	Spn	O	34.41	42.56	-2.38	40.18
+a	Spn	O	39.06	38.09	-1.01	37.080000000000005
+tu	Spn	O	14.03	32.67	-1.01	31.66
+novio	Spn	O	19.06	42.63	-1.01	41.620000000000005
+es	Spn	O	21.58	44.75	-1.01	43.74
+tierno	Spn	O	22.06	47.57	-1.01	46.56
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

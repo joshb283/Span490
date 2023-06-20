@@ -1,0 +1,12 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+CEO	Spn	O/ORG	16.07	20.19	-2.38	17.810000000000002
+of	Eng	O	45.37	12.91	-2.38	42.989999999999995
+“	Punct	O	N/A	N/A	N/A	N/A
+umm	Eng	O	14.55	4.69	-0.8	13.75
+”	Punct	O	N/A	N/A	N/A	N/A
+😂	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

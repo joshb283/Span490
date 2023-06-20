@@ -1,0 +1,19 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Comoq	Spn	O	10.34	16.3	-2.38	13.920000000000002
+su	Spn	O	14.41	35.66	-1.01	34.65
+tu	Spn	O	14.03	32.67	-1.01	31.66
+novio	Spn	O	19.06	42.63	-1.01	41.620000000000005
+favorito	Spn	O	42.74	55.47	-1.01	54.46
+?	Punct	O	N/A	N/A	N/A	N/A
+Ósea	Spn	O	3.5	13.8	-1.01	12.790000000000001
+tienes	Spn	O	31.78	61.15	-1.01	60.14
+más	Spn	O	6.97	45.12	-1.01	44.11
+!	Punct	O	N/A	N/A	N/A	N/A
+?	Punct	O	N/A	N/A	N/A	N/A
+😬	Punct	O	N/A	N/A	N/A	N/A
+ATRAPADAAAAA	Spn	O/ORG	0.12	22.89	-1.01	21.88
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

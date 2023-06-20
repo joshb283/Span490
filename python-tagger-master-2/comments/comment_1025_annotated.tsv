@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+the	Eng	O	60.83	27.05	-0.8	60.03
+✨	Punct	O	N/A	N/A	N/A	N/A
+perron	Spn	O	28.33	40.73	-2.38	38.349999999999994
+always	Eng	O	58.03	12.99	-2.38	55.65
+gets	Eng	O	46.84	15.15	-0.8	46.040000000000006
+me	Spn	O	41.15	43.0	-2.38	40.62
+✨	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A

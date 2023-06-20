@@ -1,0 +1,13 @@
+Token	Language	Named Entity	Eng-NGram Prob	Spn-NGram Prob	HMM Prob	Total Prob
+Se	Spn	O	30.91	42.67	-2.38	40.29
+ve	Eng	O	41.64	33.49	-2.38	39.26
+tan	Spn	O	29.86	41.15	-2.38	38.769999999999996
+tierno	Spn	O	22.06	47.57	-1.01	46.56
+hablando	Spn	O	26.91	65.34	-1.01	64.33
+español	Spn	O	15.21	43.56	-1.01	42.550000000000004
+🥺	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
+,	Punct	O	N/A	N/A	N/A	N/A
